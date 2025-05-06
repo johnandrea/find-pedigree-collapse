@@ -1,0 +1,7834 @@
+﻿0 HEAD
+1 SOUR RootsMagic
+2 NAME RootsMagic
+2 VERS 7.7.0.0
+2 CORP RootsMagic, Inc.
+3 ADDR PO Box 495
+4 CONT Springville, UT 84663
+4 CONT USA
+3 PHON 1-800-ROOTSMAGIC
+3 WWW www.RootsMagic.com
+1 DEST RootsMagic
+1 DATE 11 JUL 2023
+1 SUBM @SUB1@
+1 FILE large-royals-2023.ged
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUB1@ SUBM
+1 NAME John Andrea
+0 @I1@ INDI
+1 NAME George_VI /Windsor/
+2 GIVN George_VI
+2 SURN Windsor
+2 NSFX King of England
+1 SEX M
+1 BIRT
+2 DATE 14 DEC 1895
+2 PLAC York Cottage, Sandringham, Norfolk, England
+1 DEAT
+2 DATE 6 FEB 1952
+2 PLAC Sandringham, Norfolk, England
+1 BURI
+2 DATE 11 MAR 1952
+2 PLAC St. George's Chapel, Windsor, England
+1 FAMS @F1@
+1 FAMC @F39@
+0 @I2@ INDI
+1 NAME Elizabeth Angela Marguerite /Bowes-Lyon/
+2 GIVN Elizabeth Angela Marguerite
+2 SURN Bowes-Lyon
+2 NSFX Lady
+1 NAME The Queen Mother //
+2 GIVN The Queen Mother
+1 SEX F
+1 BIRT
+2 DATE 4 AUG 1900
+2 PLAC London, England
+1 CHR
+2 DATE 23 SEP 1900
+1 DEAT Y
+1 FAMS @F1@
+1 FAMC @F61@
+0 @I3@ INDI
+1 NAME Elizabeth_II Alexandra Mary /Windsor/
+2 GIVN Elizabeth_II Alexandra Mary
+2 SURN Windsor
+2 NSFX Queen of England
+1 SEX F
+1 BIRT
+2 DATE 21 APR 1926
+2 PLAC 17 Bruton St., London, W1, England
+1 DEAT
+2 DATE 8 SEP 2022
+2 PLAC Balmoral Castle, Scotland
+1 REFN 1
+1 FAMS @F3@
+1 FAMC @F1@
+0 @I4@ INDI
+1 NAME Margaret Rose /Windsor/
+2 GIVN Margaret Rose
+2 SURN Windsor
+2 NSFX Princess
+1 SEX F
+1 BIRT
+2 DATE 21 AUG 1930
+2 PLAC Glamis Castle, Angus, Scotland
+1 DEAT
+2 DATE 9 FEB 2002
+2 PLAC London, England
+1 FAMS @F2@
+1 FAMC @F1@
+0 @I5@ INDI
+1 NAME Anthony Charles Robert /Armstrong-Jones/
+2 GIVN Anthony Charles Robert
+2 SURN Armstrong-Jones
+2 NSFX Earl of Snowdon
+1 SEX M
+1 BIRT
+2 DATE 7 MAR 1930
+1 DEAT
+2 DATE 13 JAN 2017
+1 FAMS @F2@
+1 FAMS @F7@
+0 @I6@ INDI
+1 NAME David Albert Charles /Armstrong-Jones/
+2 GIVN David Albert Charles
+2 SURN Armstrong-Jones
+2 NSFX Vicount Linley
+1 SEX M
+1 BIRT
+2 DATE 3 NOV 1961
+1 FAMC @F2@
+0 @I7@ INDI
+1 NAME Sarah Frances Elizabeth /Armstrong-Jones/
+2 GIVN Sarah Frances Elizabeth
+2 SURN Armstrong-Jones
+2 NSFX Lady
+1 SEX F
+1 BIRT
+2 DATE 1 MAY 1964
+1 FAMC @F2@
+0 @I8@ INDI
+1 NAME Philip /Mountbatten/
+2 GIVN Philip
+2 SURN Mountbatten
+2 NSFX Prince
+1 SEX M
+1 BIRT
+2 DATE 10 JUN 1921
+2 PLAC Isle of Kerkira, Mon Repos, Corfu, Greece
+1 DEAT
+2 DATE 9 APR 2021
+2 PLAC Windsor, England
+1 FAMS @F3@
+1 FAMC @F22@
+0 @I9@ INDI
+1 NAME Charles Philip Arthur /Windsor/
+2 GIVN Charles Philip Arthur
+2 SURN Windsor
+2 NSFX King Charles III
+1 NAME Charles III //
+2 GIVN Charles III
+1 SEX M
+1 BIRT
+2 DATE 14 NOV 1948
+2 PLAC Buckingham Palace, London, England
+1 CHR
+2 DATE 15 DEC 1948
+2 PLAC Buckingham Palace, Music Room, England
+1 REFN 2
+1 FAMS @F5@
+1 FAMS @F8@
+1 FAMC @F3@
+0 @I10@ INDI
+1 NAME Anne Elizabeth Alice /Windsor/
+2 GIVN Anne Elizabeth Alice
+2 SURN Windsor
+2 NSFX Princess
+1 SEX F
+1 BIRT
+2 DATE 15 AUG 1950
+2 PLAC Clarence House, St. James, England
+1 CHR
+2 DATE 21 OCT 1950
+2 PLAC England
+1 FAMS @F4@
+1 FAMS @F11@
+1 FAMC @F3@
+0 @I11@ INDI
+1 NAME Andrew Albert Christian /Windsor/
+2 GIVN Andrew Albert Christian
+2 SURN Windsor
+2 NSFX Duke of York
+1 SEX M
+1 BIRT
+2 DATE 19 FEB 1960
+2 PLAC Buckingham Palace, Belgian Suite, England
+1 FAMS @F6@
+1 FAMC @F3@
+0 @I12@ INDI
+1 NAME Edward Anthony Richard /Windsor/
+2 GIVN Edward Anthony Richard
+2 SURN Windsor
+2 NSFX Earl of Wessex
+1 SEX M
+1 BIRT
+2 DATE 10 MAR 1964
+2 PLAC Buckingham Palace, London, England
+1 CHR
+2 DATE 2 MAY 1964
+1 FAMS @F12@
+1 FAMC @F3@
+0 @I13@ INDI
+1 NAME Mark Anthony Peter /Phillips/
+2 GIVN Mark Anthony Peter
+2 SURN Phillips
+2 NSFX Captain
+1 SEX M
+1 BIRT
+2 DATE 22 SEP 1948
+1 FAMS @F4@
+0 @I14@ INDI
+1 NAME Peter Mark Andrew /Phillips/
+2 GIVN Peter Mark Andrew
+2 SURN Phillips
+1 SEX M
+1 BIRT
+2 DATE 15 NOV 1977
+2 PLAC St. Marys Hosp., Paddington, London, England
+1 CHR
+2 DATE 22 DEC 1977
+2 PLAC Buckingham Palace, Music Room, England
+1 FAMS @F15@
+1 FAMC @F4@
+0 @I15@ INDI
+1 NAME Zara Anne Elizabeth /Phillips/
+2 GIVN Zara Anne Elizabeth
+2 SURN Phillips
+1 SEX F
+1 BIRT
+2 DATE 15 MAY 1981
+2 PLAC St. Marys Hosp., Paddington, London, England
+1 FAMS @F16@
+1 FAMC @F4@
+0 @I16@ INDI
+1 NAME Diana Frances /Spencer/
+2 GIVN Diana Frances
+2 SURN Spencer
+2 NSFX Princess of Wales
+1 SEX F
+1 BIRT
+2 DATE 1 JUL 1961
+2 PLAC Park House, Sandringham, Norfolk, England
+1 DEAT
+2 DATE 6 SEP 1997
+2 PLAC Paris, France
+1 CHR
+2 PLAC Sandringham Church, Norfolk, England
+1 FAMS @F5@
+1 FAMC @F85@
+0 @I17@ INDI
+1 NAME William Arthur Philip /Windsor/
+2 GIVN William Arthur Philip
+2 SURN Windsor
+2 NSFX Prince of Wales
+1 SEX M
+1 BIRT
+2 DATE 21 JUN 1982
+2 PLAC St. Marys Hosp., Paddington, London, England
+1 CHR
+2 DATE 4 AUG 1982
+2 PLAC Buckingham Palace, Music Room, England
+1 REFN 3
+1 FAMS @F9@
+1 FAMC @F5@
+0 @I18@ INDI
+1 NAME Henry Charles Albert /Windsor/
+2 GIVN Henry Charles Albert
+2 SURN Windsor
+2 NSFX Duke of Sussex
+2 NICK Harry
+1 SEX M
+1 BIRT
+2 DATE 15 SEP 1984
+2 PLAC St. Marys Hosp., Paddington, London, England
+1 REFN 4
+1 FAMS @F10@
+1 FAMC @F5@
+0 @I19@ INDI
+1 NAME Sarah Margaret /Ferguson/
+2 GIVN Sarah Margaret
+2 SURN Ferguson
+2 NSFX Duchess of York
+1 SEX F
+1 BIRT
+2 DATE 15 OCT 1959
+2 PLAC 27 Welbech St., Marylebone, London, England
+1 FAMS @F6@
+0 @I20@ INDI
+1 NAME Beatrice Elizabeth Mary /Windsor/
+2 GIVN Beatrice Elizabeth Mary
+2 SURN Windsor
+2 NSFX Princess of York
+1 SEX F
+1 BIRT
+2 DATE 8 AUG 1988
+2 PLAC Portland Hospital., England
+1 FAMS @F13@
+1 FAMC @F6@
+0 @I21@ INDI
+1 NAME Eugenie Victoria Helena /Windsor/
+2 GIVN Eugenie Victoria Helena
+2 SURN Windsor
+2 NSFX Princess of York
+1 SEX F
+1 BIRT
+2 DATE 23 MAR 1990
+2 PLAC London, England
+1 CHR
+2 DATE 23 DEC 1990
+2 PLAC Sandringham, Norfolk, England
+1 FAMS @F14@
+1 FAMC @F6@
+0 @I22@ INDI
+1 NAME Frances /Armstrong-Jones/
+2 GIVN Frances
+2 SURN Armstrong-Jones
+2 NSFX Lady
+1 SEX F
+1 BIRT
+2 DATE 17 JUL 1979
+1 FAMC @F7@
+0 @I23@ INDI
+1 NAME Camilla Rosemary /Shand/
+2 GIVN Camilla Rosemary
+2 SURN Shand
+1 SEX F
+1 BIRT
+2 DATE 17 JUL 1947
+2 PLAC London, England
+1 FAMS @F8@
+1 FAMS @F107@
+1 FAMC @F104@
+0 @I24@ INDI
+1 NAME Catherine /Middleton/
+2 GIVN Catherine
+2 SURN Middleton
+2 NSFX Princess of Wales
+2 NICK Kate
+1 SEX F
+1 BIRT
+2 DATE 9 JAN 1982
+2 PLAC Reading, England
+1 FAMS @F9@
+1 FAMC @F103@
+0 @I25@ INDI
+1 NAME George Alexander Louis /Windsor/
+2 GIVN George Alexander Louis
+2 SURN Windsor
+2 NSFX Prince of Wales
+1 SEX M
+1 BIRT
+2 DATE 22 JUL 2013
+2 PLAC London, England
+1 REFN 5
+1 FAMC @F9@
+0 @I26@ INDI
+1 NAME Charlotte Elizabeth Diana /Windsor/
+2 GIVN Charlotte Elizabeth Diana
+2 SURN Windsor
+2 NSFX Princess of Wales
+1 SEX F
+1 BIRT
+2 DATE 2 MAY 2015
+2 PLAC London, England
+1 FAMC @F9@
+0 @I27@ INDI
+1 NAME Louis Arthur Charles /Windsor/
+2 GIVN Louis Arthur Charles
+2 SURN Windsor
+2 NSFX Princes of Wales
+1 SEX M
+1 BIRT
+2 DATE 23 APR 2018
+2 PLAC London, England
+1 FAMC @F9@
+0 @I28@ INDI
+1 NAME Rachel Meghan /Markle/
+2 GIVN Rachel Meghan
+2 SURN Markle
+2 NSFX Duchess of Sussex
+1 SEX F
+1 BIRT
+2 DATE 4 AUG 1981
+2 PLAC Los Angeles, California
+1 FAMS @F10@
+1 FAMC @F21@
+0 @I29@ INDI
+1 NAME Archie Harrison /Windsor/
+2 GIVN Archie Harrison
+2 SURN Windsor
+1 SEX M
+1 BIRT
+2 DATE 6 MAY 2019
+2 PLAC London, England
+1 REFN 6
+1 FAMC @F10@
+0 @I30@ INDI
+1 NAME Lilibet Diana /Windsor/
+2 GIVN Lilibet Diana
+2 SURN Windsor
+1 SEX F
+1 BIRT
+2 DATE 4 JUN 2021
+2 PLAC Santa Barbara, California
+1 FAMC @F10@
+0 @I31@ INDI
+1 NAME Timothy /Laurence/
+2 GIVN Timothy
+2 SURN Laurence
+1 SEX M
+1 BIRT
+2 DATE 1 MAR 1955
+2 PLAC London, England
+1 FAMS @F11@
+0 @I32@ INDI
+1 NAME Sophie Helen /Rhys-Jones/
+2 GIVN Sophie Helen
+2 SURN Rhys-Jones
+2 NSFX Countess of Wessex
+1 SEX F
+1 BIRT
+2 DATE 20 JAN 1965
+2 PLAC Oxford, England
+1 FAMS @F12@
+0 @I33@ INDI
+1 NAME Louise Alice Elizabeth Mary /Windsor/
+2 GIVN Louise Alice Elizabeth Mary
+2 SURN Windsor
+2 NSFX Lady
+1 SEX F
+1 BIRT
+2 DATE 8 NOV 2003
+2 PLAC Surrey, England
+1 FAMC @F12@
+0 @I34@ INDI
+1 NAME James Alexander Philip Theo /Windsor/
+2 GIVN James Alexander Philip Theo
+2 SURN Windsor
+2 NSFX Viscount Severn
+1 SEX M
+1 BIRT
+2 DATE 17 DEC 2007
+2 PLAC Surrey, England
+1 FAMC @F12@
+0 @I35@ INDI
+1 NAME Edoardo /Mapelli Mozzi/
+2 GIVN Edoardo
+2 SURN Mapelli Mozzi
+1 SEX M
+1 BIRT
+2 DATE 1984
+1 FAMS @F13@
+1 FAMS @F17@
+1 FAMC @F18@
+0 @I36@ INDI
+1 NAME Sienna Elizabeth /Mapelli Mozzi/
+2 GIVN Sienna Elizabeth
+2 SURN Mapelli Mozzi
+1 SEX F
+1 BIRT
+2 DATE 2021
+1 FAMC @F13@
+0 @I37@ INDI
+1 NAME Jack /Brooksbank/
+2 GIVN Jack
+2 SURN Brooksbank
+1 SEX M
+1 FAMS @F14@
+0 @I38@ INDI
+1 NAME August Philip Hawke /Brooksbank/
+2 GIVN August Philip Hawke
+2 SURN Brooksbank
+1 SEX M
+1 BIRT
+2 DATE 9 FEB 2021
+1 FAMC @F14@
+0 @I39@ INDI
+1 NAME Autumn /Kelly/
+2 GIVN Autumn
+2 SURN Kelly
+1 SEX F
+1 BIRT
+2 PLAC Canada
+1 FAMS @F15@
+0 @I40@ INDI
+1 NAME Isla /Phillips/
+2 GIVN Isla
+2 SURN Phillips
+1 SEX F
+1 BIRT
+2 DATE 2012
+1 FAMC @F15@
+0 @I41@ INDI
+1 NAME Savannah /Phillips/
+2 GIVN Savannah
+2 SURN Phillips
+1 SEX F
+1 BIRT
+2 DATE 2010
+1 FAMC @F15@
+0 @I42@ INDI
+1 NAME Mike /Tindall/
+2 GIVN Mike
+2 SURN Tindall
+1 SEX M
+1 BIRT
+2 DATE 18 OCT 1978
+1 FAMS @F16@
+0 @I43@ INDI
+1 NAME Mia Grace /Tindall/
+2 GIVN Mia Grace
+2 SURN Tindall
+1 SEX F
+1 BIRT
+2 DATE 2014
+1 FAMC @F16@
+0 @I44@ INDI
+1 NAME Lena Elizabeth /Tindall/
+2 GIVN Lena Elizabeth
+2 SURN Tindall
+1 SEX F
+1 BIRT
+2 DATE 2018
+1 FAMC @F16@
+0 @I45@ INDI
+1 NAME Lucas Philip /Tindall/
+2 GIVN Lucas Philip
+2 SURN Tindall
+1 SEX M
+1 BIRT
+2 DATE 2021
+1 FAMC @F16@
+0 @I46@ INDI
+1 NAME Dara /Huang/
+2 GIVN Dara
+2 SURN Huang
+1 SEX F
+1 FAMS @F17@
+0 @I47@ INDI
+1 NAME Christopher Woolf /Mapelli Mozzi/
+2 GIVN Christopher Woolf
+2 SURN Mapelli Mozzi
+2 NICK Wolfie
+1 SEX M
+1 FAMC @F17@
+0 @I48@ INDI
+1 NAME Alessandro /Mapelli Mozzi/
+2 GIVN Alessandro
+2 SURN Mapelli Mozzi
+1 SEX M
+1 FAMS @F18@
+0 @I49@ INDI
+1 NAME Nikki /Williams-Ellis/
+2 GIVN Nikki
+2 SURN Williams-Ellis
+1 SEX F
+1 FAMS @F18@
+0 @I56@ INDI
+1 NAME Thomas /Markle/
+2 GIVN Thomas
+2 SURN Markle
+1 SEX M
+1 BIRT
+2 DATE 18 JUL 1944
+1 FAMS @F21@
+0 @I57@ INDI
+1 NAME Doria /Ragland/
+2 GIVN Doria
+2 SURN Ragland
+1 SEX F
+1 BIRT
+2 DATE 22 SEP 1956
+1 FAMS @F21@
+0 @I58@ INDI
+1 NAME Prince Andrew of Greece //
+2 GIVN Prince Andrew of Greece
+2 TYPE birth
+1 SEX M
+1 BIRT
+2 DATE 2 FEB 1882
+2 PLAC Athens, Greece
+1 DEAT
+2 DATE 3 DEC 1944
+2 PLAC Monte Carlo, Monaco
+1 FAMS @F22@
+1 FAMC @F108@
+0 @I62@ INDI
+1 NAME Victoria Alberta Elisabeth //
+2 GIVN Victoria Alberta Elisabeth
+2 TYPE birth
+1 SEX F
+1 BIRT
+2 DATE 5 APR 1863
+2 PLAC Windsor Castle, Windsor, Berkshire, England
+1 DEAT
+2 DATE 24 SEP 1950
+2 PLAC London, England
+1 FAMS @F24@
+1 FAMC @F272@
+0 @I63@ INDI
+1 NAME Louis /Mountbatten/
+2 GIVN Louis
+2 SURN Mountbatten
+2 TYPE birth
+1 SEX M
+1 BIRT
+2 DATE 24 MAY 1854
+2 PLAC Gratz, Austia
+1 DEAT
+2 DATE 11 SEP 1921
+2 PLAC London, England
+1 TITL Marquess of Milford Haven
+1 FAMS @F24@
+0 @I64@ INDI
+1 NAME Alice of Battenberg //
+2 GIVN Alice of Battenberg
+2 TYPE birth
+1 SEX F
+1 BIRT
+2 DATE 25 FEB 1885
+2 PLAC Windsor Castle, Windsor, Berkshire, England
+1 DEAT
+2 DATE 5 DEC 1969
+2 PLAC Buckingham Palace, London, England
+1 FAMS @F22@
+1 FAMC @F24@
+0 @I71@ INDI
+1 NAME Francis Frederick of Saxe-Coburg //
+2 GIVN Francis Frederick of Saxe-Coburg
+2 NSFX Duke
+1 SEX M
+1 BIRT
+2 DATE 1750
+1 DEAT
+2 DATE 1806
+1 FAMS @F29@
+1 FAMC @F110@
+0 @I72@ INDI
+1 NAME Augusta Reuss-Ebersdorf //
+2 GIVN Augusta Reuss-Ebersdorf
+2 NSFX Countess
+1 SEX F
+1 BIRT
+2 DATE 1757
+1 DEAT
+2 DATE 1831
+1 FAMS @F29@
+1 FAMC @F111@
+0 @I73@ INDI
+1 NAME Victoria /Hanover/
+2 GIVN Victoria
+2 SURN Hanover
+2 NSFX Queen of England
+1 SEX F
+1 BIRT
+2 DATE 24 MAY 1819
+2 PLAC Kensington Palace, London, England
+1 DEAT
+2 DATE 22 JAN 1901
+2 PLAC Osborne House, Isle of Wight
+1 BURI
+2 PLAC Royal Mausoleum, Frogmore, Berkshire, England
+1 FAMS @F30@
+1 FAMC @F33@
+0 @I74@ INDI
+1 NAME Albert Augustus Charles //
+2 GIVN Albert Augustus Charles
+2 NSFX Prince
+1 SEX M
+1 BIRT
+2 DATE 26 AUG 1819
+2 PLAC Schloss Rosenau, Near Coburg, Germany
+1 DEAT
+2 DATE 14 DEC 1861
+2 PLAC Windsor Castle, Windsor, Berkshire, England
+1 BURI
+2 PLAC Royal Mausoleum, Frogmore, Berkshire, England
+1 FAMS @F30@
+1 FAMC @F34@
+0 @I75@ INDI
+1 NAME Edward VII /Wettin/
+2 GIVN Edward VII
+2 SURN Wettin
+2 NSFX King of England
+1 SEX M
+1 BIRT
+2 DATE 9 NOV 1841
+2 PLAC Buckingham Palace, London, England
+1 DEAT
+2 DATE 6 MAY 1910
+2 PLAC Buckingham Palace, London, England
+1 BURI
+2 DATE 20 MAY 1910
+2 PLAC Windsor, England
+1 FAMS @F31@
+1 FAMC @F30@
+0 @I76@ INDI
+1 NAME Alexandra of Denmark "Alix" //
+2 GIVN Alexandra of Denmark "Alix"
+2 NSFX Princess
+1 SEX F
+1 BIRT
+2 DATE 1 DEC 1844
+2 PLAC Yellow Palace, Copenhagen, Denmark
+1 DEAT
+2 DATE 20 NOV 1925
+2 PLAC Sandringham, Norfolk, England
+1 BURI
+2 PLAC St. George's Chapel, Windsor, England
+1 FAMS @F31@
+1 FAMC @F35@
+0 @I77@ INDI
+1 NAME George V /Windsor/
+2 GIVN George V
+2 SURN Windsor
+2 NSFX King of England
+1 SEX M
+1 BIRT
+2 DATE 3 JUN 1865
+2 PLAC Marlborough House, London, England
+1 CHR
+2 DATE 7 JUL 1865
+1 DEAT
+2 DATE 20 JAN 1936
+2 PLAC Sandringham, Norfolk, England
+1 BURI
+2 DATE 28 JAN 1936
+2 PLAC Windsor Castle, St. George Chap., Berkshire, England
+1 FAMS @F39@
+1 FAMC @F31@
+0 @I78@ INDI
+1 NAME George III /Hanover/
+2 GIVN George III
+2 SURN Hanover
+2 NSFX King of England
+1 SEX M
+1 BIRT
+2 DATE 4 JUN 1738
+2 PLAC Norfolk-House, St. James Square, London, England
+1 DEAT
+2 DATE 29 JAN 1820
+2 PLAC Windsor Castle, Windsor, Berkshire, England
+1 BURI
+2 PLAC St. George's Chapel, Windsor, England
+1 FAMS @F32@
+1 FAMC @F112@
+0 @I79@ INDI
+1 NAME Sophia Charlotte //
+2 GIVN Sophia Charlotte
+1 SEX F
+1 BIRT
+2 DATE 19 MAY 1744
+2 PLAC Mirow
+1 DEAT
+2 DATE 17 NOV 1818
+2 PLAC Kew Palace
+1 BURI
+2 PLAC St. George's Chapel, Windsor, England
+1 TITL Charlotte of Mecklenburg-Strelitz
+1 FAMS @F32@
+1 FAMC @F113@
+0 @I80@ INDI
+1 NAME Edward Augustus /Hanover/
+2 GIVN Edward Augustus
+2 SURN Hanover
+2 NSFX Duke of Kent
+1 SEX M
+1 BIRT
+2 DATE 2 NOV 1767
+2 PLAC Buckingham House, London, England
+1 DEAT
+2 DATE 23 JAN 1820
+2 PLAC Sidmouth, Devon, England
+1 FAMS @F33@
+1 FAMC @F32@
+0 @I81@ INDI
+1 NAME Victoria Mary Louisa //
+2 GIVN Victoria Mary Louisa
+1 SEX F
+1 BIRT
+2 DATE 17 AUG 1786
+2 PLAC Coburg
+1 DEAT
+2 DATE 16 MAR 1861
+2 PLAC Frogmore House, Windsor, England
+1 FAMS @F33@
+1 FAMC @F29@
+0 @I82@ INDI
+1 NAME Ernest I of Saxe-Coburg- Saalfeld //
+2 GIVN Ernest I of Saxe-Coburg- Saalfeld
+2 NSFX Duke
+1 SEX M
+1 BIRT
+2 DATE 1784
+1 DEAT
+2 DATE 29 JAN 1844
+1 FAMS @F34@
+1 FAMC @F29@
+0 @I83@ INDI
+1 NAME Louise of Saxe-Coburg- Altenburg //
+2 GIVN Louise of Saxe-Coburg- Altenburg
+1 SEX F
+1 BIRT
+2 DATE 1800
+2 PLAC Thuringia
+1 DEAT
+2 DATE 1831
+2 PLAC Paris, France
+1 FAMS @F34@
+0 @I84@ INDI
+1 NAME Christian IX //
+2 GIVN Christian IX
+2 NSFX King of Denmark
+1 SEX M
+1 BIRT
+2 DATE 8 APR 1818
+2 PLAC Gottorp
+1 DEAT
+2 DATE 29 JAN 1906
+2 PLAC Amalienborg
+1 BURI
+2 PLAC Roskilde, Denmark
+1 FAMS @F35@
+1 FAMC @F38@
+0 @I85@ INDI
+1 NAME Louise of Hesse-Cassel //
+2 GIVN Louise of Hesse-Cassel
+2 NSFX Princess
+1 SEX F
+1 BIRT
+2 DATE 7 SEP 1817
+2 PLAC Cassel
+1 DEAT
+2 DATE 29 SEP 1898
+2 PLAC Bernstorff
+1 FAMS @F35@
+1 FAMC @F36@
+0 @I86@ INDI
+1 NAME William of Hesse-Cassel //
+2 GIVN William of Hesse-Cassel
+2 NSFX Landgrave
+1 SEX M
+1 BIRT
+2 DATE 1787
+1 DEAT
+2 DATE 1867
+1 FAMS @F36@
+0 @I87@ INDI
+1 NAME Louise Charlotte of Denmark //
+2 GIVN Louise Charlotte of Denmark
+2 NSFX Princess
+1 SEX F
+1 BIRT
+2 DATE 1789
+1 DEAT
+2 DATE 1864
+1 FAMS @F36@
+0 @I89@ INDI
+1 NAME Frederick William of Schleswig- //
+2 GIVN Frederick William of Schleswig-
+2 NSFX Duke
+1 SEX M
+1 BIRT
+2 DATE 1785
+1 DEAT
+2 DATE 1831
+1 FAMS @F38@
+0 @I90@ INDI
+1 NAME Louise Caroline of Hesse-Cassel //
+2 GIVN Louise Caroline of Hesse-Cassel
+2 NSFX Princess
+1 SEX F
+1 BIRT
+2 DATE 1789
+1 DEAT
+2 DATE 1867
+1 FAMS @F38@
+0 @I95@ INDI
+1 NAME Mary of Teck //
+2 GIVN Mary of Teck
+2 NSFX Queen
+2 NICK May
+1 SEX F
+1 BIRT
+2 DATE 26 MAY 1867
+2 PLAC Kensington Palace, London, England
+1 DEAT
+2 DATE 24 MAR 1953
+2 PLAC Marlborough House, London, England
+1 BURI
+2 DATE 31 MAR 1953
+2 PLAC St. George's Chapel, Windsor, England
+1 FAMS @F39@
+1 FAMC @F44@
+0 @I100@ INDI
+1 NAME Mary Adelaide //
+2 GIVN Mary Adelaide
+2 NICK Fat Mary
+1 SEX F
+1 BIRT
+2 DATE 1833
+1 DEAT
+2 DATE 1897
+1 FAMS @F44@
+0 @I101@ INDI
+1 NAME Francis //
+2 GIVN Francis
+2 NSFX Duke of Teck
+1 SEX M
+1 BIRT
+2 DATE 1837
+1 DEAT
+2 DATE 1900
+1 FAMS @F44@
+0 @I112@ INDI
+1 NAME Claude George /Bowes-Lyon/
+2 GIVN Claude George
+2 SURN Bowes-Lyon
+2 NSFX Earl of Strath.
+1 SEX M
+1 BIRT
+2 DATE 1855
+1 DEAT
+2 DATE 1944
+1 FAMS @F61@
+1 FAMC @F51@
+0 @I113@ INDI
+1 NAME Claude /Bowes-Lyon/
+2 GIVN Claude
+2 SURN Bowes-Lyon
+2 NSFX Earl
+1 SEX M
+1 BIRT
+2 DATE 1824
+1 DEAT
+2 DATE FEB 1904
+1 FAMS @F51@
+1 FAMC @F52@
+0 @I114@ INDI
+1 NAME Frances Dora /Smith/
+2 GIVN Frances Dora
+2 SURN Smith
+1 SEX F
+1 BIRT
+2 DATE 1833
+1 DEAT
+2 DATE 1922
+1 FAMS @F51@
+1 FAMC @F53@
+0 @I115@ INDI
+1 NAME Thomas George /Lyon-Bowes/
+2 GIVN Thomas George
+2 SURN Lyon-Bowes
+1 SEX M
+1 NOTE aka Lord GLAMIS; (BOWES-LYON)
+1 BIRT
+2 DATE 1801
+2 PLAC Hertfords
+1 DEAT
+2 DATE 1834
+2 PLAC Calvados, France
+1 FAMS @F52@
+1 FAMC @F54@
+0 @I116@ INDI
+1 NAME Oswald (of Blendon Hall) /Smith/
+2 GIVN Oswald (of Blendon Hall)
+2 SURN Smith
+1 SEX M
+1 BIRT
+2 DATE 1794
+1 DEAT
+2 DATE 1863
+2 PLAC Kent
+1 FAMS @F53@
+1 FAMC @F60@
+0 @I117@ INDI
+1 NAME Henrietta Mildred /Hodgson/
+2 GIVN Henrietta Mildred
+2 SURN Hodgson
+1 SEX F
+1 FAMS @F53@
+1 FAMC @F56@
+0 @I118@ INDI
+1 NAME Charlotte /Grimstead/
+2 GIVN Charlotte
+2 SURN Grimstead
+1 SEX F
+1 BIRT
+2 DATE 1797
+1 DEAT
+2 DATE 1881
+2 PLAC Surrey, England
+1 FAMS @F52@
+0 @I119@ INDI
+1 NAME Thomas /Lyon-Bowes/
+2 GIVN Thomas
+2 SURN Lyon-Bowes
+1 SEX M
+1 NOTE 11th Earl of Strathmore & Kinghorne
+1 BIRT
+2 DATE 1773
+2 PLAC Durham
+1 DEAT
+2 DATE 1846
+2 PLAC Edinburgh, Scotland
+1 FAMS @F54@
+1 FAMC @F55@
+0 @I120@ INDI
+1 NAME Mary Elizabeth Louisa Rodney /Carpenter/
+2 GIVN Mary Elizabeth Louisa Rodney
+2 SURN Carpenter
+1 SEX F
+1 BIRT
+2 DATE 1783
+1 DEAT
+2 DATE 1811
+2 PLAC Warwick
+1 FAMS @F54@
+0 @I121@ INDI
+1 NAME John /Lyon-Bowes/
+2 GIVN John
+2 SURN Lyon-Bowes
+1 SEX M
+1 NOTE
+2 CONT 9th Earl of Strathmore & Kinghorne
+1 BIRT
+2 DATE 1737
+2 PLAC Durham
+1 DEAT
+2 DATE 1776
+2 PLAC at sea d. en route to Lisbon
+1 FAMS @F55@
+0 @I122@ INDI
+1 NAME Mary Eleonore /Bowes/
+2 GIVN Mary Eleonore
+2 SURN Bowes
+1 SEX F
+1 NOTE 'the Unhappy Countess'
+1 BIRT
+2 DATE 1749
+2 PLAC Durham
+1 DEAT
+2 DATE 1800
+1 FAMS @F55@
+0 @I123@ INDI
+1 NAME Robert (Very Rev.) /Hodgson/
+2 GIVN Robert (Very Rev.)
+2 SURN Hodgson
+1 SEX M
+1 NOTE Dean of Carlisle
+1 BIRT
+2 DATE ABT 1774
+1 DEAT
+2 DATE 1844
+2 PLAC London, England
+1 FAMS @F56@
+1 FAMC @F57@
+0 @I124@ INDI
+1 NAME Mary /Tucker/
+2 GIVN Mary
+2 SURN Tucker
+1 SEX F
+1 BIRT
+2 DATE 1778
+1 DEAT
+2 DATE AFT 1844
+1 FAMS @F56@
+1 FAMC @F58@
+0 @I125@ INDI
+1 NAME Robert (of Congleton) /Hodgson/
+2 GIVN Robert (of Congleton)
+2 SURN Hodgson
+1 SEX M
+1 BIRT
+2 DATE ABT 1740
+1 DEAT
+2 DATE ABT 1808
+1 FAMS @F57@
+0 @I126@ INDI
+1 NAME Mildred /Porteus/
+2 GIVN Mildred
+2 SURN Porteus
+1 SEX F
+1 BIRT
+2 DATE 1744
+1 DEAT
+2 DATE ABT 1815
+1 FAMS @F57@
+0 @I127@ INDI
+1 NAME Martin (Colonel) /Tucker/
+2 GIVN Martin (Colonel)
+2 SURN Tucker
+1 SEX M
+1 BIRT
+2 DATE 1729
+1 DEAT
+2 DATE 1792
+1 FAMS @F58@
+0 @I128@ INDI
+1 NAME Henrietta /Baker/
+2 GIVN Henrietta
+2 SURN Baker
+1 SEX F
+1 DEAT Y
+1 FAMS @F58@
+0 @I129@ INDI
+1 NAME Elizabeth (of Withington) /Bayley/
+2 GIVN Elizabeth (of Withington)
+2 SURN Bayley
+1 SEX F
+1 BIRT
+2 DATE 1731
+1 DEAT
+2 DATE 1797
+1 FAMS @F59@
+0 @I130@ INDI
+1 NAME John Parker (1st Baronet) /Mosley/
+2 GIVN John Parker (1st Baronet)
+2 SURN Mosley
+1 SEX M
+1 DEAT
+2 DATE 1798
+1 FAMS @F59@
+0 @I131@ INDI
+1 NAME Frances Mary Parker /Mosley/
+2 GIVN Frances Mary Parker
+2 SURN Mosley
+1 SEX F
+1 BIRT
+2 DATE 1770
+2 PLAC Manchester
+1 DEAT
+2 DATE 1844
+1 FAMS @F60@
+1 FAMC @F59@
+0 @I132@ INDI
+1 NAME George /Smith/
+2 GIVN George
+2 SURN Smith
+1 SEX M
+1 BIRT
+2 DATE 1765
+1 DEAT
+2 DATE 1836
+1 FAMS @F60@
+0 @I133@ INDI
+1 NAME Richard /Wellesley/
+2 GIVN Richard
+2 SURN Wellesley
+2 NSFX Marquess
+1 SEX M
+1 NOTE 1st Marquess WELLESLEY; Governor-General of India; 2nd Earl of Morningt
+2 CONC on
+1 BIRT
+2 DATE 1760
+2 PLAC Meath, Ireland
+1 DEAT
+2 DATE 1842
+2 PLAC Knightsbridge
+1 FAMS @F62@
+1 FAMC @F63@
+0 @I134@ INDI
+1 NAME Garret of Mornington /Wellesley/
+2 GIVN Garret of Mornington
+2 SURN Wellesley
+2 NSFX Earl
+1 SEX M
+1 FAMS @F63@
+0 @I135@ INDI
+1 NAME Anne /Hill/
+2 GIVN Anne
+2 SURN Hill
+2 NSFX Hon.
+1 SEX F
+1 DEAT
+2 DATE 1831
+1 FAMS @F63@
+0 @I136@ INDI
+1 NAME Cecilia Nina /Cavendish-Bentin/
+2 GIVN Cecilia Nina
+2 SURN Cavendish-Bentin
+2 NSFX Countess of S.
+1 SEX F
+1 BIRT
+2 DATE 1862
+1 DEAT
+2 DATE 1938
+1 FAMS @F61@
+1 FAMC @F64@
+0 @I137@ INDI
+1 NAME Charles /Cavendish-Bentin/
+2 GIVN Charles
+2 SURN Cavendish-Bentin
+2 NSFX Reverend
+1 SEX M
+1 BIRT
+2 DATE 1817
+1 DEAT
+2 DATE 1865
+1 FAMS @F64@
+1 FAMC @F65@
+0 @I138@ INDI
+1 NAME Caroline Louisa /Burnaby/
+2 GIVN Caroline Louisa
+2 SURN Burnaby
+1 SEX F
+1 BIRT
+2 DATE 1832
+1 DEAT
+2 DATE 1918
+1 FAMS @F64@
+1 FAMC @F66@
+0 @I139@ INDI
+1 NAME William Charles Augustus /Cavendish-Bentin/
+2 GIVN William Charles Augustus
+2 SURN Cavendish-Bentin
+2 NSFX Lord
+1 SEX M
+1 DEAT
+2 DATE 1826
+1 FAMS @F65@
+1 FAMC @F68@
+0 @I140@ INDI
+1 NAME Anne /Wellesley/
+2 GIVN Anne
+2 SURN Wellesley
+1 SEX F
+1 DEAT
+2 DATE 1875
+1 FAMS @F65@
+1 FAMC @F62@
+0 @I141@ INDI
+1 NAME Edwyn /Burnaby/
+2 GIVN Edwyn
+2 SURN Burnaby
+1 SEX M
+1 DEAT
+2 DATE 1867
+1 FAMS @F66@
+0 @I142@ INDI
+1 NAME Anne Caroline /Salisbury/
+2 GIVN Anne Caroline
+2 SURN Salisbury
+1 SEX F
+1 DEAT
+2 DATE 1881
+1 FAMS @F66@
+0 @I143@ INDI
+1 NAME Charlotte Elizabeth /Boyle/
+2 GIVN Charlotte Elizabeth
+2 SURN Boyle
+1 SEX F
+1 NOTE
+2 CONT Baroness Clifford)
+1 BIRT
+2 DATE 1731
+1 DEAT
+2 DATE 1754
+1 FAMS @F67@
+0 @I144@ INDI
+1 NAME William (4th Duke of Devonshire) /Cavendish/
+2 GIVN William (4th Duke of Devonshire)
+2 SURN Cavendish
+1 SEX M
+1 NOTE
+2 CONT Prime Minister; Knight of the Garter
+1 BIRT
+2 DATE 1720
+1 DEAT
+2 DATE 1764
+2 PLAC Spa, Germany
+1 FAMS @F67@
+0 @I145@ INDI
+1 NAME Dorothy (Lady) /Cavendish/
+2 GIVN Dorothy (Lady)
+2 SURN Cavendish
+1 SEX F
+1 BIRT
+2 DATE 1750
+2 PLAC Devon
+1 DEAT
+2 DATE 1794
+2 PLAC London, England
+1 FAMS @F68@
+1 FAMC @F67@
+0 @I146@ INDI
+1 NAME William Henry /Bentinck/
+2 GIVN William Henry
+2 SURN Bentinck
+1 SEX M
+1 NOTE Prime Minister; Knight of the Garter; 3rd Duke of PORTLAND
+1 BIRT
+2 DATE 1736
+1 DEAT
+2 DATE 1809
+2 PLAC Buckinghamshire
+1 FAMS @F68@
+1 FAMC @F69@
+0 @I147@ INDI
+1 NAME Hyacinthe Gabrielle /Roland/
+2 GIVN Hyacinthe Gabrielle
+2 SURN Roland
+1 SEX F
+1 BIRT
+2 DATE 1760
+2 PLAC Paris, France
+1 DEAT
+2 DATE 1816
+2 PLAC Teddesley
+1 FAMS @F62@
+0 @I148@ INDI
+1 NAME William (2nd Duke of Portand) /Bentinck/
+2 GIVN William (2nd Duke of Portand)
+2 SURN Bentinck
+1 SEX M
+1 NOTE Knight of the Garter
+1 BIRT
+2 DATE 1709
+2 PLAC Nottinghamshire
+1 DEAT
+2 DATE 1762
+2 PLAC Nottinghamshire
+1 FAMS @F69@
+0 @I149@ INDI
+1 NAME Margaret (Lady) Cavendish /Harley/
+2 GIVN Margaret (Lady) Cavendish
+2 SURN Harley
+1 SEX F
+1 BIRT
+2 DATE 1715
+1 DEAT
+2 DATE 1785
+1 FAMS @F69@
+0 @I150@ INDI
+1 NAME Edward John VIII /Spencer/
+2 GIVN Edward John VIII
+2 SURN Spencer
+1 SEX M
+1 BIRT
+2 DATE 24 JAN 1924
+2 PLAC England
+1 DEAT
+2 DATE 29 MAR 1992
+2 PLAC London, England
+1 TITL Earl of Spencer
+1 FAMS @F85@
+1 FAMC @F70@
+0 @I151@ INDI
+1 NAME Albert Edward John /Spencer/
+2 GIVN Albert Edward John
+2 SURN Spencer
+1 SEX M
+1 BIRT
+2 DATE 1892
+1 DEAT
+2 DATE 1975
+1 TITL Earl of Spencer
+1 FAMS @F70@
+1 FAMC @F74@
+0 @I152@ INDI
+1 NAME Cynthia Elinor Beatrix /Hamilton/
+2 GIVN Cynthia Elinor Beatrix
+2 SURN Hamilton
+1 SEX F
+1 BIRT
+2 DATE 1897
+1 DEAT
+2 DATE 1972
+1 TITL Lady
+1 FAMS @F70@
+1 FAMC @F71@
+0 @I153@ INDI
+1 NAME James Albert Edward /Hamilton/
+2 GIVN James Albert Edward
+2 SURN Hamilton
+1 SEX M
+1 BIRT
+2 DATE 1869
+1 DEAT
+2 DATE 1953
+1 TITL Duke of Abercorn
+1 FAMS @F71@
+1 FAMC @F72@
+0 @I154@ INDI
+1 NAME Rosalind Cecilia Caroline /Bingham/
+2 GIVN Rosalind Cecilia Caroline
+2 SURN Bingham
+1 SEX F
+1 BIRT
+2 DATE 1869
+1 DEAT
+2 DATE 1958
+1 TITL Lady
+1 FAMS @F71@
+1 FAMC @F73@
+0 @I155@ INDI
+1 NAME James /Hamilton/
+2 GIVN James
+2 SURN Hamilton
+1 SEX M
+1 BIRT
+2 DATE 1838
+1 DEAT
+2 DATE 1913
+1 TITL Duke of Abercorn
+1 FAMS @F72@
+1 FAMC @F82@
+0 @I156@ INDI
+1 NAME Mary Anna /Curzon-Howe/
+2 GIVN Mary Anna
+2 SURN Curzon-Howe
+1 SEX F
+1 BIRT
+2 DATE 1848
+1 DEAT
+2 DATE 1929
+1 TITL Lady
+1 FAMS @F72@
+1 FAMC @F81@
+0 @I157@ INDI
+1 NAME George /Bingham/
+2 GIVN George
+2 SURN Bingham
+1 SEX M
+1 BIRT
+2 DATE 1830
+1 DEAT
+2 DATE 1914
+1 TITL Earl of Lucan
+1 FAMS @F73@
+1 FAMC @F83@
+0 @I158@ INDI
+1 NAME Cecilia Catherine /Gordon-Lennox/
+2 GIVN Cecilia Catherine
+2 SURN Gordon-Lennox
+1 SEX F
+1 BIRT
+2 DATE 1838
+1 DEAT
+2 DATE 1910
+1 TITL Lady
+1 FAMS @F73@
+1 FAMC @F84@
+0 @I159@ INDI
+1 NAME Charles Robert /Spencer/
+2 GIVN Charles Robert
+2 SURN Spencer
+1 SEX M
+1 BIRT
+2 DATE 1857
+1 DEAT
+2 DATE 1922
+1 TITL Earl of Spencer
+1 FAMS @F74@
+1 FAMC @F75@
+0 @I160@ INDI
+1 NAME Margaret /Baring/
+2 GIVN Margaret
+2 SURN Baring
+1 SEX F
+1 BIRT
+2 DATE 1868
+1 DEAT
+2 DATE 1906
+1 TITL Hon.
+1 FAMS @F74@
+1 FAMC @F76@
+0 @I161@ INDI
+1 NAME Frederick /Spencer/
+2 GIVN Frederick
+2 SURN Spencer
+1 SEX M
+1 BIRT
+2 DATE 1798
+1 DEAT
+2 DATE 1857
+1 TITL Earl of Spencer
+1 FAMS @F75@
+1 FAMC @F79@
+0 @I162@ INDI
+1 NAME Adelaide Horatia Elizabeth /Seymour/
+2 GIVN Adelaide Horatia Elizabeth
+2 SURN Seymour
+1 SEX F
+1 BIRT
+2 DATE 1825
+1 DEAT
+2 DATE 1877
+1 FAMS @F75@
+1 FAMC @F78@
+0 @I163@ INDI
+1 NAME Edward Charles /Baring/
+2 GIVN Edward Charles
+2 SURN Baring
+1 SEX M
+1 BIRT
+2 DATE 1828
+1 DEAT
+2 DATE 1897
+1 TITL Baron Revelstoke
+1 FAMS @F76@
+1 FAMC @F80@
+0 @I164@ INDI
+1 NAME Louisa Emily Charlotte /Bulteel/
+2 GIVN Louisa Emily Charlotte
+2 SURN Bulteel
+1 SEX F
+1 BIRT
+2 DATE 1839
+1 DEAT
+2 DATE 1892
+1 FAMS @F76@
+1 FAMC @F77@
+0 @I165@ INDI
+1 NAME John Crocker /Bulteel/
+2 GIVN John Crocker
+2 SURN Bulteel
+1 SEX M
+1 DEAT
+2 DATE 1843
+1 FAMS @F77@
+0 @I166@ INDI
+1 NAME Elizabeth /Grey/
+2 GIVN Elizabeth
+2 SURN Grey
+1 SEX F
+1 DEAT
+2 DATE 1880
+1 TITL Lady
+1 FAMS @F77@
+0 @I167@ INDI
+1 NAME Horace Beauchamp /Seymour/
+2 GIVN Horace Beauchamp
+2 SURN Seymour
+1 SEX M
+1 BIRT
+2 DATE 1791
+1 DEAT
+2 DATE 1856
+1 TITL Sir
+1 FAMS @F78@
+1 FAMC @F266@
+0 @I168@ INDI
+1 NAME Elizabeth Malet /Palk/
+2 GIVN Elizabeth Malet
+2 SURN Palk
+1 SEX F
+1 BIRT
+2 DATE 1795
+1 DEAT
+2 DATE 1827
+1 FAMS @F78@
+1 FAMC @F228@
+0 @I169@ INDI
+1 NAME George John /Spencer/
+2 GIVN George John
+2 SURN Spencer
+1 SEX M
+1 BIRT
+2 DATE 1758
+1 DEAT
+2 DATE 1834
+1 TITL Earl of Spencer
+1 FAMS @F79@
+0 @I170@ INDI
+1 NAME Lavinia /Bingham/
+2 GIVN Lavinia
+2 SURN Bingham
+1 SEX F
+1 BIRT
+2 DATE 1762
+1 DEAT
+2 DATE 1831
+1 TITL Lady
+1 FAMS @F79@
+0 @I171@ INDI
+1 NAME Henry /Baring/
+2 GIVN Henry
+2 SURN Baring
+1 SEX M
+1 DEAT
+2 DATE 1848
+1 FAMS @F80@
+0 @I172@ INDI
+1 NAME Cecilia Anne /Windham/
+2 GIVN Cecilia Anne
+2 SURN Windham
+1 SEX F
+1 DEAT
+2 DATE 1874
+1 FAMS @F80@
+0 @I174@ INDI
+1 NAME Anne /Gore/
+2 GIVN Anne
+2 SURN Gore
+1 SEX F
+1 DEAT
+2 DATE 1877
+1 FAMS @F81@
+0 @I175@ INDI
+1 NAME Louisa Jane /Russell/
+2 GIVN Louisa Jane
+2 SURN Russell
+1 SEX F
+1 DEAT
+2 DATE 1905
+1 TITL Lady
+1 FAMS @F82@
+0 @I177@ INDI
+1 NAME George Charles /Bingham/
+2 GIVN George Charles
+2 SURN Bingham
+1 SEX M
+1 BIRT
+2 DATE 1800
+1 DEAT
+2 DATE 1888
+1 TITL Earl of Lucan
+1 FAMS @F83@
+0 @I178@ INDI
+1 NAME Anne /Brudenell/
+2 GIVN Anne
+2 SURN Brudenell
+1 SEX F
+1 DEAT
+2 DATE 1877
+1 TITL Lady
+1 FAMS @F83@
+0 @I179@ INDI
+1 NAME Caroline /Paget/
+2 GIVN Caroline
+2 SURN Paget
+1 SEX F
+1 BIRT
+2 DATE 1796
+1 DEAT
+2 DATE 1874
+1 TITL Lady
+1 FAMS @F84@
+0 @I180@ INDI
+1 NAME Charles Lennox of_Richmond //
+2 GIVN Charles Lennox of_Richmond
+1 SEX M
+1 BIRT
+2 DATE 1791
+1 DEAT
+2 DATE 1860
+1 TITL Duke
+1 FAMS @F84@
+1 FAMC @F268@
+0 @I181@ INDI
+1 NAME Frances /Burke_Roche/
+2 GIVN Frances
+2 SURN Burke_Roche
+1 SEX F
+1 BIRT
+2 DATE 20 JAN 1936
+2 PLAC Sandringham, Norfolk, England
+1 DEAT
+2 DATE 3 JUN 2004
+2 PLAC Scotland
+1 TITL Hon.
+1 FAMS @F85@
+1 FAMC @F86@
+0 @I182@ INDI
+1 NAME Edmund Maurice /Burke_Roche/
+2 GIVN Edmund Maurice
+2 SURN Burke_Roche
+1 SEX M
+1 BIRT
+2 DATE 1885
+1 DEAT
+2 DATE 1955
+1 TITL Baron Fermoy
+1 FAMS @F86@
+1 FAMC @F87@
+0 @I183@ INDI
+1 NAME Ruth Sylvia /Gill/
+2 GIVN Ruth Sylvia
+2 SURN Gill
+1 SEX F
+1 BIRT
+2 DATE 1908
+1 DEAT Y
+1 FAMS @F86@
+1 FAMC @F94@
+0 @I184@ INDI
+1 NAME James Boothby /Burke_Roche/
+2 GIVN James Boothby
+2 SURN Burke_Roche
+1 SEX M
+1 BIRT
+2 DATE 1851
+1 DEAT
+2 DATE 1920
+1 TITL Baron Fermoy
+1 FAMS @F87@
+1 FAMC @F91@
+0 @I185@ INDI
+1 NAME Frances Ellen /Work/
+2 GIVN Frances Ellen
+2 SURN Work
+1 SEX F
+1 BIRT
+2 DATE 1857
+1 DEAT
+2 DATE 1947
+1 FAMS @F87@
+1 FAMC @F88@
+0 @I186@ INDI
+1 NAME Frank /Work/
+2 GIVN Frank
+2 SURN Work
+1 SEX M
+1 BIRT
+2 DATE 1819
+1 DEAT
+2 DATE 1911
+1 FAMS @F88@
+1 FAMC @F90@
+0 @I187@ INDI
+1 NAME Ellen /Wood/
+2 GIVN Ellen
+2 SURN Wood
+1 SEX F
+1 BIRT
+2 DATE 1831
+1 DEAT
+2 DATE 1877
+1 FAMS @F88@
+1 FAMC @F89@
+0 @I188@ INDI
+1 NAME John /Wood/
+2 GIVN John
+2 SURN Wood
+1 SEX M
+1 DEAT
+2 DATE 1847
+1 FAMS @F89@
+0 @I189@ INDI
+1 NAME Ellen /Strong/
+2 GIVN Ellen
+2 SURN Strong
+1 SEX F
+1 DEAT
+2 DATE 1863
+1 FAMS @F89@
+0 @I190@ INDI
+1 NAME John /Work/
+2 GIVN John
+2 SURN Work
+1 SEX M
+1 FAMS @F90@
+0 @I191@ INDI
+1 NAME Sarah /Boude/
+2 GIVN Sarah
+2 SURN Boude
+1 SEX F
+1 FAMS @F90@
+0 @I192@ INDI
+1 NAME Edmund /Burke_Roche/
+2 GIVN Edmund
+2 SURN Burke_Roche
+1 SEX M
+1 BIRT
+2 DATE 1815
+1 DEAT
+2 DATE 1874
+1 TITL Baron Fermoy
+1 FAMS @F91@
+1 FAMC @F93@
+0 @I193@ INDI
+1 NAME Elizabeth Caroline /Boothby/
+2 GIVN Elizabeth Caroline
+2 SURN Boothby
+1 SEX F
+1 BIRT
+2 DATE 1821
+1 DEAT
+2 DATE 1897
+1 FAMS @F91@
+1 FAMC @F92@
+0 @I194@ INDI
+1 NAME James Brownell /Boothby/
+2 GIVN James Brownell
+2 SURN Boothby
+1 SEX M
+1 DEAT
+2 DATE 1850
+1 FAMS @F92@
+0 @I195@ INDI
+1 NAME Charlotte /Cunningham/
+2 GIVN Charlotte
+2 SURN Cunningham
+1 SEX F
+1 DEAT
+2 DATE 1893
+1 FAMS @F92@
+0 @I196@ INDI
+1 NAME Edward /Roche/
+2 GIVN Edward
+2 SURN Roche
+1 SEX M
+1 DEAT
+2 DATE 1855
+1 FAMS @F93@
+0 @I197@ INDI
+1 NAME Margaret Honoria /Curtain/
+2 GIVN Margaret Honoria
+2 SURN Curtain
+1 SEX F
+1 DEAT
+2 DATE 1862
+1 FAMS @F93@
+0 @I198@ INDI
+1 NAME William Smith /Gill/
+2 GIVN William Smith
+2 SURN Gill
+1 SEX M
+1 BIRT
+2 DATE 1865
+1 DEAT
+2 DATE 1957
+1 FAMS @F94@
+1 FAMC @F95@
+0 @I199@ INDI
+1 NAME Ruth /Littlejohn/
+2 GIVN Ruth
+2 SURN Littlejohn
+1 SEX F
+1 BIRT
+2 DATE 1879
+1 DEAT
+2 DATE 1964
+1 FAMS @F94@
+1 FAMC @F96@
+0 @I200@ INDI
+1 NAME Alexander Ogston /Gill/
+2 GIVN Alexander Ogston
+2 SURN Gill
+1 SEX M
+1 BIRT
+2 DATE 1833
+1 DEAT
+2 DATE 1908
+1 FAMS @F95@
+1 FAMC @F97@
+0 @I201@ INDI
+1 NAME Barbara Smith /Marr/
+2 GIVN Barbara Smith
+2 SURN Marr
+1 SEX F
+1 BIRT
+2 DATE 1843
+1 DEAT Y
+1 FAMS @F95@
+1 FAMC @F98@
+0 @I202@ INDI
+1 NAME David /Littlejohn/
+2 GIVN David
+2 SURN Littlejohn
+1 SEX M
+1 BIRT
+2 DATE 1841
+1 DEAT
+2 DATE 1924
+1 FAMS @F96@
+1 FAMC @F99@
+0 @I203@ INDI
+1 NAME Jane /Crombie/
+2 GIVN Jane
+2 SURN Crombie
+1 SEX F
+1 BIRT
+2 DATE 1843
+1 DEAT
+2 DATE 1917
+1 FAMS @F96@
+1 FAMC @F100@
+0 @I204@ INDI
+1 NAME David /Gill/
+2 GIVN David
+2 SURN Gill
+1 SEX M
+1 FAMS @F97@
+0 @I205@ INDI
+1 NAME Sarah /Ogston/
+2 GIVN Sarah
+2 SURN Ogston
+1 SEX F
+1 FAMS @F97@
+0 @I206@ INDI
+1 NAME William Smith /Marr/
+2 GIVN William Smith
+2 SURN Marr
+1 SEX M
+1 DEAT
+2 DATE 1898
+1 FAMS @F98@
+0 @I207@ INDI
+1 NAME Helen /Bean/
+2 GIVN Helen
+2 SURN Bean
+1 SEX F
+1 DEAT
+2 DATE 1852
+1 FAMS @F98@
+0 @I208@ INDI
+1 NAME William /Littlejohn/
+2 GIVN William
+2 SURN Littlejohn
+1 SEX M
+1 DEAT
+2 DATE 1888
+1 FAMS @F99@
+0 @I209@ INDI
+1 NAME Janet /Bentley/
+2 GIVN Janet
+2 SURN Bentley
+1 SEX F
+1 DEAT
+2 DATE 1848
+1 FAMS @F99@
+0 @I210@ INDI
+1 NAME James /Crombie/
+2 GIVN James
+2 SURN Crombie
+1 SEX M
+1 DEAT
+2 DATE 1878
+1 FAMS @F100@
+0 @I211@ INDI
+1 NAME Katherine Scott /Forbes/
+2 GIVN Katherine Scott
+2 SURN Forbes
+1 SEX F
+1 DEAT
+2 DATE 1893
+1 FAMS @F100@
+0 @I212@ INDI
+1 NAME Elizabeth Sarah Lavinia /Spencer/
+2 GIVN Elizabeth Sarah Lavinia
+2 SURN Spencer
+1 SEX F
+1 BIRT
+2 DATE 19 MAR 1955
+1 FAMC @F85@
+0 @I213@ INDI
+1 NAME Cynthia Jane /Spencer/
+2 GIVN Cynthia Jane
+2 SURN Spencer
+1 SEX F
+1 BIRT
+2 DATE 11 FEB 1957
+1 FAMC @F85@
+0 @I214@ INDI
+1 NAME John /Spencer/
+2 GIVN John
+2 SURN Spencer
+1 SEX M
+1 FAMC @F85@
+0 @I215@ INDI
+1 NAME Charles Edward Maurice /Spencer/
+2 GIVN Charles Edward Maurice
+2 SURN Spencer
+1 SEX M
+1 BIRT
+2 DATE 20 MAY 1964
+1 FAMC @F85@
+0 @I216@ INDI
+1 NAME Michael /Middleton/
+2 GIVN Michael
+2 SURN Middleton
+1 SEX M
+1 BIRT
+2 DATE 23 JUN 1949
+2 PLAC Leeds
+1 FAMS @F103@
+1 FAMC @F101@
+0 @I217@ INDI
+1 NAME Valerie /Glassborow/
+2 GIVN Valerie
+2 SURN Glassborow
+1 SEX F
+1 BIRT
+2 DATE 1924
+1 DEAT
+2 DATE 2006
+1 FAMS @F101@
+1 FAMC @F225@
+0 @I218@ INDI
+1 NAME Peter /Middleton/
+2 GIVN Peter
+2 SURN Middleton
+1 SEX M
+1 BIRT
+2 DATE 1920
+1 DEAT
+2 DATE 2010
+1 FAMS @F101@
+1 FAMC @F102@
+0 @I219@ INDI
+1 NAME Richard Noel /Middleton/
+2 GIVN Richard Noel
+2 SURN Middleton
+1 SEX M
+1 BIRT
+2 DATE 25 DEC 1878
+1 DEAT
+2 DATE 2 JUL 1951
+1 FAMS @F102@
+0 @I220@ INDI
+1 NAME Olive Christiana /Lupton/
+2 GIVN Olive Christiana
+2 SURN Lupton
+1 SEX F
+1 BIRT
+2 DATE 1 APR 1881
+1 DEAT
+2 DATE 27 SEP 1936
+1 FAMS @F102@
+1 FAMC @F244@
+0 @I221@ INDI
+1 NAME Carole Elizabeth /Goldsmith/
+2 GIVN Carole Elizabeth
+2 SURN Goldsmith
+1 SEX F
+1 BIRT
+2 DATE 31 JAN 1955
+2 PLAC London, England
+1 FAMS @F103@
+1 FAMC @F224@
+0 @I222@ INDI
+1 NAME Bruce /Shand/
+2 GIVN Bruce
+2 SURN Shand
+1 SEX M
+1 BIRT
+2 DATE 22 JAN 1917
+2 PLAC London, England
+1 DEAT
+2 DATE 11 JUN 2006
+2 PLAC Dorset, England
+1 FAMS @F104@
+1 FAMC @F106@
+0 @I223@ INDI
+1 NAME Rosalind Maud /Cubitt/
+2 GIVN Rosalind Maud
+2 SURN Cubitt
+1 SEX F
+1 BIRT
+2 DATE 11 AUG 1921
+1 DEAT
+2 DATE 14 JUL 1994
+1 FAMS @F104@
+1 FAMC @F105@
+0 @I224@ INDI
+1 NAME Roland /Cubitt/
+2 GIVN Roland
+2 SURN Cubitt
+1 SEX M
+1 DEAT Y
+1 FAMS @F105@
+0 @I225@ INDI
+1 NAME Sonia Rosemary /Keppel/
+2 GIVN Sonia Rosemary
+2 SURN Keppel
+1 SEX F
+1 BIRT
+2 DATE 24 MAY 1900
+1 DEAT
+2 DATE 16 AUG 1986
+1 FAMS @F105@
+0 @I226@ INDI
+1 NAME Philip Morton /Shand/
+2 GIVN Philip Morton
+2 SURN Shand
+1 SEX M
+1 BIRT
+2 DATE 21 JAN 1888
+1 DEAT
+2 DATE 30 APR 1960
+1 FAMS @F106@
+0 @I227@ INDI
+1 NAME Edith Marguerite /Harrington/
+2 GIVN Edith Marguerite
+2 SURN Harrington
+1 SEX F
+1 BIRT
+2 DATE 14 JUN 1893
+1 DEAT
+2 DATE 3 JAN 1981
+1 FAMS @F106@
+0 @I228@ INDI
+1 NAME Andrew Parker /Bowles/
+2 GIVN Andrew Parker
+2 SURN Bowles
+1 SEX M
+1 BIRT
+2 DATE 27 DEC 1939
+1 FAMS @F107@
+0 @I229@ INDI
+1 NAME Thomas Henry /Parker Bowles/
+2 GIVN Thomas Henry
+2 SURN Parker Bowles
+1 SEX M
+1 BIRT
+2 DATE 18 DEC 1974
+1 FAMC @F107@
+0 @I230@ INDI
+1 NAME Laura Rose /Parker Bowles/
+2 GIVN Laura Rose
+2 SURN Parker Bowles
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1978
+1 FAMC @F107@
+0 @I231@ INDI
+1 NAME Margarita //
+2 GIVN Margarita
+1 SEX F
+1 BIRT
+2 DATE 18 APR 1905
+1 DEAT
+2 DATE 24 APR 1981
+1 FAMC @F22@
+0 @I232@ INDI
+1 NAME Theodora //
+2 GIVN Theodora
+1 SEX F
+1 BIRT
+2 DATE 30 MAY 1906
+1 DEAT
+2 DATE 16 OCT 1969
+1 FAMC @F22@
+0 @I233@ INDI
+1 NAME Cecilie //
+2 GIVN Cecilie
+1 SEX F
+1 BIRT
+2 DATE 22 JUN 1911
+1 DEAT
+2 DATE 16 NOV 1937
+1 FAMC @F22@
+0 @I234@ INDI
+1 NAME Sophie //
+2 GIVN Sophie
+1 SEX F
+1 BIRT
+2 DATE 26 JUN 1914
+1 DEAT
+2 DATE 24 NOV 2001
+1 FAMC @F22@
+0 @I235@ INDI
+1 NAME George I of Greece //
+2 GIVN George I of Greece
+1 SEX M
+1 BIRT
+2 DATE 24 DEC 1845
+1 DEAT
+2 DATE 18 MAR 1913
+1 FAMS @F108@
+0 @I236@ INDI
+1 NAME Olga Constantinovna of Russia //
+2 GIVN Olga Constantinovna of Russia
+1 SEX F
+1 BIRT
+2 DATE 22 AUG 1851
+1 DEAT
+2 DATE 18 JUN 1926
+1 FAMS @F108@
+0 @I238@ INDI
+1 NAME Edward_VIII /Windsor/
+2 GIVN Edward_VIII
+2 SURN Windsor
+1 SEX M
+1 BIRT
+2 DATE 23 JUN 1894
+2 PLAC White Lodge, Richmond Park, Surrey, England
+1 DEAT
+2 DATE 28 MAY 1972
+2 PLAC Paris, France
+1 TITL Duke of Windsor
+1 BURI
+2 PLAC Frogmore, Windsor, Berkshire, England
+1 FAMS @F109@
+1 FAMC @F39@
+0 @I239@ INDI
+1 NAME Bessiewallis /Warfield/
+2 GIVN Bessiewallis
+2 SURN Warfield
+1 SEX F
+1 BIRT
+2 DATE 1896
+2 PLAC U.S.A.
+1 DEAT
+2 DATE 24 APR 1986
+2 PLAC Paris, France
+1 BURI
+2 PLAC Frogmore, Windsor, Berkshire, England
+1 FAMS @F109@
+0 @I240@ INDI
+1 NAME Mary /Windsor/
+2 GIVN Mary
+2 SURN Windsor
+1 SEX F
+1 BIRT
+2 DATE 25 APR 1897
+2 PLAC York Cottage, Sandringham, Norfolk, England
+1 DEAT
+2 DATE 28 MAR 1965
+2 PLAC Harewood House, Yorkshire, England
+1 TITL Princess Royal
+1 FAMC @F39@
+0 @I241@ INDI
+1 NAME Henry William Frederick /Windsor/
+2 GIVN Henry William Frederick
+2 SURN Windsor
+1 SEX M
+1 BIRT
+2 DATE 31 MAR 1900
+2 PLAC York Cottage, Sandringham, Norfolk, England
+1 DEAT
+2 DATE 1974
+1 TITL Duke
+1 FAMC @F39@
+0 @I242@ INDI
+1 NAME George Edward Alexander /Windsor/
+2 GIVN George Edward Alexander
+2 SURN Windsor
+1 SEX M
+1 BIRT
+2 DATE 20 DEC 1902
+2 PLAC York Cottage, Sandringham, Norfolk, England
+1 DEAT
+2 DATE 25 AUG 1942
+2 PLAC Morven, Scotland
+1 TITL Duke of Kent
+1 FAMC @F39@
+0 @I243@ INDI
+1 NAME John Charles Francis /Windsor/
+2 GIVN John Charles Francis
+2 SURN Windsor
+1 SEX M
+1 BIRT
+2 DATE 12 JUL 1905
+2 PLAC York Cottage, Sandringham, Norfolk, England
+1 DEAT
+2 DATE 18 JAN 1919
+2 PLAC Wood Farm, Wolferton, Norfolk, England
+1 TITL Prince
+1 BURI
+2 PLAC Sandringham, Norfolk, England
+1 FAMC @F39@
+0 @I244@ INDI
+1 NAME Albert Victor Christian //
+2 GIVN Albert Victor Christian
+1 SEX M
+1 BIRT
+2 DATE 8 JAN 1864
+2 PLAC Frogmore House, Windsor, England
+1 DEAT
+2 DATE 14 JAN 1892
+2 PLAC Sandringham, Norfolk, England
+1 BURI
+2 DATE 20 JAN 1892
+2 PLAC Windsor, England
+1 TITL Duke
+1 FAMC @F31@
+0 @I245@ INDI
+1 NAME Louise Victoria Alexandra //
+2 GIVN Louise Victoria Alexandra
+1 SEX F
+1 BIRT
+2 DATE 20 FEB 1867
+2 PLAC Marlborough House, London, England
+1 DEAT
+2 DATE 4 JAN 1931
+2 PLAC Portman Square, London, England
+1 TITL Princess Royal
+1 FAMC @F31@
+0 @I246@ INDI
+1 NAME Victoria Alexandra Olga //
+2 GIVN Victoria Alexandra Olga
+1 SEX F
+1 BIRT
+2 DATE 6 JUL 1868
+2 PLAC Marlborough House, London, England
+1 DEAT
+2 DATE 3 DEC 1935
+2 PLAC Coppins, Iver, Bucks, England
+1 FAMC @F31@
+0 @I247@ INDI
+1 NAME Maude Charlotte Mary //
+2 GIVN Maude Charlotte Mary
+1 SEX F
+1 BIRT
+2 DATE 26 NOV 1869
+2 PLAC Marlborough House, London, England
+1 DEAT
+2 DATE 20 NOV 1938
+2 PLAC London, England
+1 TITL Princess
+1 FAMC @F31@
+0 @I248@ INDI
+1 NAME John Alexander //
+2 GIVN John Alexander
+1 SEX M
+1 BIRT
+2 DATE 6 APR 1871
+1 DEAT
+2 DATE 7 APR 1871
+1 FAMC @F31@
+0 @I249@ INDI
+1 NAME Victoria Adelaide Mary //
+2 GIVN Victoria Adelaide Mary
+1 SEX F
+1 BIRT
+2 DATE 21 NOV 1840
+2 PLAC Buckingham Palace, London, England
+1 CHR
+2 DATE 10 FEB 1841
+2 PLAC Buckingham Palace, Throne Room England
+1 DEAT
+2 DATE 5 AUG 1901
+2 PLAC Friedrichshof, Near, Kronberg, Taunus
+1 TITL Princess Royal
+1 BURI
+2 PLAC Friedenskirche, Potsdam
+1 FAMC @F30@
+0 @I250@ INDI
+1 NAME Alice Maud Mary //
+2 GIVN Alice Maud Mary
+1 SEX F
+1 BIRT
+2 DATE 25 APR 1843
+2 PLAC Buckingham Palace, London, England
+1 DEAT
+2 DATE 14 DEC 1878
+2 PLAC Darmstadt, Germany
+1 TITL Princess
+1 FAMS @F272@
+1 FAMC @F30@
+0 @I251@ INDI
+1 NAME Alfred Ernest Albert //
+2 GIVN Alfred Ernest Albert
+1 SEX M
+1 BIRT
+2 DATE 6 AUG 1844
+2 PLAC Windsor Castle, Windsor, Berkshire, England
+1 DEAT
+2 DATE 30 JUL 1900
+2 PLAC Schloss Rosenau, Near Coburg, Germany
+1 TITL Prince
+1 FAMC @F30@
+0 @I252@ INDI
+1 NAME Helena Augusta Victoria //
+2 GIVN Helena Augusta Victoria
+1 SEX F
+1 BIRT
+2 DATE 25 MAY 1846
+2 PLAC Buckingham Palace, London, England
+1 DEAT
+2 DATE 9 JUN 1923
+2 PLAC Schomberg House, Pall Mall, London, England
+1 TITL Princess
+1 FAMC @F30@
+0 @I253@ INDI
+1 NAME Louise Caroline Alberta //
+2 GIVN Louise Caroline Alberta
+1 SEX F
+1 BIRT
+2 DATE 18 MAR 1848
+2 PLAC Buckingham Palace, London, England
+1 DEAT
+2 DATE 3 DEC 1939
+2 PLAC Kensington Palace, London, England
+1 TITL Princess
+1 BURI
+2 PLAC Frogmore, Windsor, Berkshire, England
+1 FAMC @F30@
+0 @I254@ INDI
+1 NAME Arthur William Patrick //
+2 GIVN Arthur William Patrick
+1 SEX M
+1 BIRT
+2 DATE 1 MAY 1850
+2 PLAC Buckingham Palace, London, England
+1 DEAT
+2 DATE 16 JAN 1942
+2 PLAC Bagshot Park, Surrey
+1 TITL Prince
+1 FAMC @F30@
+0 @I255@ INDI
+1 NAME Beatrice Mary Victoria //
+2 GIVN Beatrice Mary Victoria
+1 SEX F
+1 BIRT
+2 DATE 14 APR 1857
+2 PLAC Buckingham Palace, London, England
+1 DEAT
+2 DATE 26 OCT 1944
+2 PLAC Bantridge Park, Balcombe, Sussex, England
+1 TITL Princess
+1 FAMC @F30@
+0 @I256@ INDI
+1 NAME Ernest_II of_Saxe-Coburg- Saalfeld //
+2 GIVN Ernest_II of_Saxe-Coburg- Saalfeld
+1 SEX M
+1 BIRT
+2 DATE 1818
+1 DEAT
+2 DATE 1893
+1 TITL Duke
+1 FAMC @F34@
+0 @I257@ INDI
+1 NAME Ernest Frederick of_Saxe-Coburg //
+2 GIVN Ernest Frederick of_Saxe-Coburg
+1 SEX M
+1 BIRT
+2 DATE 1724
+1 DEAT
+2 DATE 1800
+1 TITL Duke
+1 FAMS @F110@
+0 @I258@ INDI
+1 NAME Sophia Antonia of_Brunswick //
+2 GIVN Sophia Antonia of_Brunswick
+1 SEX F
+1 BIRT
+2 DATE 1724
+1 DEAT
+2 DATE 1802
+1 TITL Princess
+1 FAMS @F110@
+0 @I259@ INDI
+1 NAME Henry_XXIV Reuss-Ebersdorf //
+2 GIVN Henry_XXIV Reuss-Ebersdorf
+1 SEX M
+1 BIRT
+2 DATE 1724
+1 DEAT
+2 DATE 1779
+1 TITL Count
+1 FAMS @F111@
+0 @I260@ INDI
+1 NAME Caroline Erbach-Schonberg //
+2 GIVN Caroline Erbach-Schonberg
+1 SEX F
+1 BIRT
+2 DATE 1727
+1 DEAT
+2 DATE 1795
+1 TITL Countess
+1 FAMS @F111@
+0 @I261@ INDI
+1 NAME Frederick Louis /Hanover/
+2 GIVN Frederick Louis
+2 SURN Hanover
+1 SEX M
+1 BIRT
+2 DATE 31 JAN 1701
+2 PLAC Hanover
+1 DEAT
+2 DATE 31 MAR 1751
+2 PLAC Leicester House, London, England
+1 TITL Prince of Wales
+1 FAMS @F112@
+1 FAMC @F114@
+0 @I262@ INDI
+1 NAME Augusta of_Saxe-Gotha //
+2 GIVN Augusta of_Saxe-Gotha
+1 SEX F
+1 BIRT
+2 DATE 30 NOV 1719
+2 PLAC Gotha
+1 DEAT
+2 DATE 8 FEB 1772
+2 PLAC Carlton House
+1 FAMS @F112@
+1 FAMC @F115@
+0 @I263@ INDI
+1 NAME Charles Louis Frederick //
+2 GIVN Charles Louis Frederick
+1 SEX M
+1 BIRT
+2 DATE 23 FEB 1708
+1 DEAT
+2 DATE 5 JUN 1752
+1 TITL Duke
+1 FAMS @F113@
+0 @I264@ INDI
+1 NAME Elizabeth of_Saxe- Hildburghausen /Albertin/
+2 GIVN Elizabeth of_Saxe- Hildburghausen
+2 SURN Albertin
+1 SEX F
+1 BIRT
+2 DATE 4 AUG 1713
+1 DEAT
+2 DATE 29 JUN 1761
+1 FAMS @F113@
+0 @I265@ INDI
+1 NAME George_II /Hanover/
+2 GIVN George_II
+2 SURN Hanover
+1 SEX M
+1 BIRT
+2 DATE 30 OCT 1683
+2 PLAC Herrenhausen Palace, Hannover, Germany
+1 DEAT
+2 DATE 25 OCT 1760
+2 PLAC Kensington Palace, London, England
+1 TITL King of England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F114@
+1 FAMC @F116@
+0 @I266@ INDI
+1 NAME Caroline of_Ansbach //
+2 GIVN Caroline of_Ansbach
+1 SEX F
+1 BIRT
+2 DATE 1683
+1 DEAT
+2 DATE 1737
+1 FAMS @F114@
+0 @I267@ INDI
+1 NAME Frederick_II of_Saxe-Gotha //
+2 GIVN Frederick_II of_Saxe-Gotha
+1 SEX M
+1 TITL Duke
+1 FAMS @F115@
+0 @I268@ INDI
+1 NAME Magdalena Augusta of_Anhalt-Zerbst //
+2 GIVN Magdalena Augusta of_Anhalt-Zerbst
+1 SEX F
+1 FAMS @F115@
+0 @I269@ INDI
+1 NAME George_I /Hanover/
+2 GIVN George_I
+2 SURN Hanover
+1 SEX M
+1 BIRT
+2 DATE 28 MAY 1660
+2 PLAC Leineschloss, Osnabruck, Hanover, Germany
+1 DEAT
+2 DATE 11 JUN 1727
+2 PLAC Osnabruck
+1 TITL King of England
+1 BURI
+2 PLAC Moved in 1957 to, Herrenhausen
+1 FAMS @F116@
+1 FAMC @F117@
+0 @I270@ INDI
+1 NAME Sophia Dorothea of_Celle //
+2 GIVN Sophia Dorothea of_Celle
+1 SEX F
+1 BIRT
+2 DATE 10 SEP 1666
+1 DEAT
+2 DATE 13 NOV 1726
+1 BURI
+2 PLAC Celle
+1 FAMS @F116@
+0 @I271@ INDI
+1 NAME Ernest Augustus of_Brunswick //
+2 GIVN Ernest Augustus of_Brunswick
+1 SEX M
+1 BIRT
+2 DATE 1629
+1 DEAT
+2 DATE 1698
+1 TITL Duke
+1 FAMS @F117@
+0 @I272@ INDI
+1 NAME Sophia /Hanover/
+2 GIVN Sophia
+2 SURN Hanover
+1 SEX F
+1 BIRT
+2 DATE 1630
+1 DEAT
+2 DATE 1714
+1 FAMS @F117@
+1 FAMC @F118@
+0 @I273@ INDI
+1 NAME Frederick_V of_Palatinate //
+2 GIVN Frederick_V of_Palatinate
+1 SEX M
+1 BIRT
+2 DATE 1596
+1 DEAT
+2 DATE 1632
+1 TITL King of Bohemia
+1 FAMS @F118@
+0 @I274@ INDI
+1 NAME Elizabeth /Stuart/
+2 GIVN Elizabeth
+2 SURN Stuart
+1 SEX F
+1 BIRT
+2 DATE 19 AUG 1596
+2 PLAC Dunfermline, Scotland
+1 DEAT
+2 DATE 13 FEB 1662
+2 PLAC Leicester House, London, England
+1 FAMS @F118@
+1 FAMC @F119@
+0 @I275@ INDI
+1 NAME James_I /Stuart/
+2 GIVN James_I
+2 SURN Stuart
+1 SEX M
+1 BIRT
+2 DATE 19 JUN 1566
+2 PLAC Edinburgh Castle, Scotland
+1 DEAT
+2 DATE 27 MAR 1625
+2 PLAC Theobalds Park, Hertfordshire, Herts, England
+1 TITL King of England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F119@
+1 FAMC @F120@
+0 @I276@ INDI
+1 NAME Anne of_Denmark //
+2 GIVN Anne of_Denmark
+1 SEX F
+1 BIRT
+2 DATE 14 OCT 1574
+2 PLAC Skanderborg, Castle
+1 DEAT
+2 DATE 4 MAR 1619
+2 PLAC Hampton Court Palace, England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F119@
+1 FAMC @F121@
+0 @I277@ INDI
+1 NAME Henry /Stuart/
+2 GIVN Henry
+2 SURN Stuart
+1 SEX M
+1 BIRT
+2 DATE 1545
+1 DEAT
+2 DATE 1567
+1 TITL Lord Darnley
+1 FAMS @F120@
+1 FAMC @F122@
+0 @I278@ INDI
+1 NAME Mary /Stuart/
+2 GIVN Mary
+2 SURN Stuart
+1 SEX F
+1 BIRT
+2 DATE 7 DEC 1542
+2 PLAC Linlithgow, Scotland
+1 DEAT
+2 DATE 8 FEB 1587
+2 PLAC England
+1 TITL Queen of Scots
+1 FAMS @F120@
+1 FAMC @F123@
+0 @I279@ INDI
+1 NAME Frederick_II of_Denmark and_Norway //
+2 GIVN Frederick_II of_Denmark and_Norway
+1 SEX M
+1 BIRT
+2 DATE 1 JUL 1534
+2 PLAC Haderslevhus
+1 DEAT
+2 DATE 4 APR 1588
+2 PLAC Antvorslev Castle
+1 TITL King
+1 BURI
+2 PLAC Roskilde Cathedral, Denmark
+1 FAMS @F121@
+0 @I280@ INDI
+1 NAME Sophia of_Mecklenburg- Gustrow //
+2 GIVN Sophia of_Mecklenburg- Gustrow
+1 SEX F
+1 BIRT
+2 DATE 4 SEP 1557
+2 PLAC Wismar
+1 DEAT
+2 DATE 4 OCT 1631
+2 PLAC Nykobing
+1 FAMS @F121@
+0 @I281@ INDI
+1 NAME Matthew /Stuart/
+2 GIVN Matthew
+2 SURN Stuart
+1 SEX M
+1 BIRT
+2 DATE 1516
+1 DEAT
+2 DATE 1571
+1 TITL Earl Lennox 4th
+1 FAMS @F122@
+0 @I282@ INDI
+1 NAME Margaret /Douglas/
+2 GIVN Margaret
+2 SURN Douglas
+1 SEX F
+1 BIRT
+2 DATE 1515
+1 DEAT
+2 DATE 1578
+1 TITL Lady
+1 FAMS @F122@
+0 @I283@ INDI
+1 NAME James_V //
+2 GIVN James_V
+1 SEX M
+1 BIRT
+2 DATE 1512
+2 PLAC Linlithgow, Scotland
+1 DEAT
+2 DATE 1542
+1 TITL King of Scotland
+1 FAMS @F123@
+1 FAMC @F124@
+0 @I284@ INDI
+1 NAME Mary of_Guise //
+2 GIVN Mary of_Guise
+1 SEX F
+1 BIRT
+2 DATE 1515
+1 DEAT
+2 DATE 1560
+1 FAMS @F123@
+0 @I285@ INDI
+1 NAME James_IV //
+2 GIVN James_IV
+1 SEX M
+1 BIRT
+2 DATE 1473
+1 DEAT
+2 DATE 9 SEP 1513
+1 TITL King of Scotland
+1 FAMS @F124@
+1 FAMC @F125@
+0 @I286@ INDI
+1 NAME Margaret /Tudor/
+2 GIVN Margaret
+2 SURN Tudor
+1 SEX F
+1 BIRT
+2 DATE 28 NOV 1489
+2 PLAC Westminster Palace, London, England
+1 DEAT
+2 DATE 18 OCT 1541
+2 PLAC Methven Castle
+1 FAMS @F124@
+1 FAMC @F126@
+0 @I287@ INDI
+1 NAME James_III //
+2 GIVN James_III
+1 SEX M
+1 BIRT
+2 DATE 1451
+2 PLAC Stirling, Scotland
+1 DEAT
+2 DATE 1488
+1 TITL King of Scotland
+1 FAMS @F125@
+1 FAMC @F127@
+0 @I288@ INDI
+1 NAME Margaret of_Denmark //
+2 GIVN Margaret of_Denmark
+1 SEX F
+1 BIRT
+2 DATE ABT 1457
+1 DEAT
+2 DATE 1486
+1 FAMS @F125@
+1 FAMC @F128@
+0 @I289@ INDI
+1 NAME Henry_VII /Tudor/
+2 GIVN Henry_VII
+2 SURN Tudor
+1 SEX M
+1 BIRT
+2 DATE 28 JAN 1457
+2 PLAC Pembroke Castle, Pembrokeshire, England
+1 DEAT
+2 DATE 21 APR 1509
+2 PLAC Richmond Palace, Richmond Surrey, England
+1 TITL King of England
+1 BURI
+2 PLAC Henry VII Chapel, Westminster Abbey, London
+1 FAMS @F126@
+1 FAMC @F129@
+0 @I290@ INDI
+1 NAME Elizabeth of_York //
+2 GIVN Elizabeth of_York
+1 SEX F
+1 BIRT
+2 DATE 11 FEB 1466
+2 PLAC Westminster Palace, London, England
+1 DEAT
+2 DATE 11 FEB 1503
+2 PLAC Tower of London, London, England
+1 BURI
+2 PLAC Henry VII Chapel, Westminster Abbey, London
+1 FAMS @F126@
+1 FAMC @F130@
+0 @I291@ INDI
+1 NAME James_II //
+2 GIVN James_II
+1 SEX M
+1 BIRT
+2 DATE 1430
+2 PLAC Edinburgh, Scotland
+1 DEAT
+2 DATE 1460
+2 PLAC Roxburgh Castle, Scotland
+1 TITL King of Scotland
+1 FAMS @F127@
+0 @I292@ INDI
+1 NAME Marie of_Gueldres //
+2 GIVN Marie of_Gueldres
+1 SEX F
+1 DEAT
+2 DATE 1463
+1 FAMS @F127@
+0 @I293@ INDI
+1 NAME Christian_I //
+2 GIVN Christian_I
+1 SEX M
+1 BIRT
+2 DATE 1426
+1 DEAT
+2 DATE 1481
+1 TITL King of Denmark
+1 FAMS @F128@
+0 @I294@ INDI
+1 NAME Dorothea //
+2 GIVN Dorothea
+1 SEX F
+1 BIRT
+2 DATE 1430
+1 DEAT
+2 DATE 1495
+1 FAMS @F128@
+0 @I295@ INDI
+1 NAME James //
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE 1476
+1 DEAT
+2 DATE 1503
+1 TITL Duke of Ross
+1 FAMC @F125@
+0 @I296@ INDI
+1 NAME John //
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 1479
+1 DEAT
+2 DATE 1503
+1 TITL Earl of Mar
+1 FAMC @F125@
+0 @I297@ INDI
+1 NAME Edmund /Tudor/
+2 GIVN Edmund
+2 SURN Tudor
+1 SEX M
+1 BIRT
+2 DATE ABT 1430
+1 DEAT
+2 DATE 1456
+1 TITL Earl of Richmond
+1 FAMS @F129@
+1 FAMC @F161@
+0 @I298@ INDI
+1 NAME Margaret of_Richmond /Beaufort/
+2 GIVN Margaret of_Richmond
+2 SURN Beaufort
+1 SEX F
+1 BIRT
+2 DATE 1443
+1 DEAT
+2 DATE 1509
+1 TITL Countess
+1 FAMS @F129@
+1 FAMC @F164@
+0 @I299@ INDI
+1 NAME Edward_IV //
+2 GIVN Edward_IV
+1 SEX M
+1 BIRT
+2 DATE 28 APR 1442
+2 PLAC Rouen, France
+1 DEAT
+2 DATE 9 APR 1483
+2 PLAC Westminster Palace, London, England
+1 TITL King of England
+1 BURI
+2 PLAC St. George's Chapel, Windsor, England
+1 FAMS @F130@
+1 FAMC @F166@
+1 FAMC @F277@
+0 @I300@ INDI
+1 NAME Elizabeth /Woodville/
+2 GIVN Elizabeth
+2 SURN Woodville
+1 SEX F
+1 BIRT
+2 DATE ABT 1437
+2 PLAC Grafton Regis, Northants
+1 DEAT
+2 DATE 8 JUN 1492
+2 PLAC Bermondsey Abbey
+1 BURI
+2 PLAC St. George's Chapel, Windsor, England
+1 FAMS @F130@
+1 FAMC @F168@
+0 @I301@ INDI
+1 NAME Arthur /Tudor/
+2 GIVN Arthur
+2 SURN Tudor
+1 SEX M
+1 BIRT
+2 DATE 20 SEP 1486
+2 PLAC St. Swithin's Priory, Winchester, England
+1 DEAT
+2 DATE 2 APR 1502
+2 PLAC Ludlow Castle
+1 TITL Prince of Wales
+1 FAMS @F159@
+1 FAMC @F126@
+0 @I303@ INDI
+1 NAME Elizabeth /Tudor/
+2 GIVN Elizabeth
+2 SURN Tudor
+1 SEX F
+1 BIRT
+2 DATE 2 JUL 1492
+1 DEAT
+2 DATE 14 SEP 1495
+2 PLAC Eltham Palace, England
+1 FAMC @F126@
+0 @I304@ INDI
+1 NAME Edmund /Tudor/
+2 GIVN Edmund
+2 SURN Tudor
+1 SEX M
+1 BIRT
+2 DATE 21 FEB 1499
+2 PLAC Greenwich Palace, London, England
+1 DEAT
+2 DATE 19 JUN 1500
+2 PLAC Bishops Hatfield, Herts, England
+1 FAMC @F126@
+0 @I305@ INDI
+1 NAME Katherine /Tudor/
+2 GIVN Katherine
+2 SURN Tudor
+1 SEX F
+1 DEAT
+2 DATE 1503
+2 PLAC England
+1 BIRT
+2 DATE 2 FEB 1503
+2 PLAC Tower of London, London, England
+1 FAMC @F126@
+0 @I306@ INDI
+1 NAME Mary /Tudor/
+2 GIVN Mary
+2 SURN Tudor
+1 SEX F
+1 BIRT
+2 DATE 18 MAR 1496
+2 PLAC Richmond Palace, London, England
+1 DEAT
+2 DATE 25 JUN 1533
+2 PLAC Westhorpe, Suffolk, England
+1 FAMS @F132@
+1 FAMS @F133@
+1 FAMC @F126@
+0 @I307@ INDI
+1 NAME Louis_XII //
+2 GIVN Louis_XII
+1 SEX M
+1 BIRT
+2 DATE 27 JUN 1462
+2 PLAC Blois, France
+1 DEAT
+2 DATE 1 JAN 1515
+2 PLAC Paris, France
+1 TITL King of France
+1 BURI
+2 PLAC St. Denis, France
+1 FAMS @F132@
+1 FAMC @F149@
+0 @I308@ INDI
+1 NAME Charles /Brandon/
+2 GIVN Charles
+2 SURN Brandon
+1 SEX M
+1 DEAT
+2 DATE 1545
+1 TITL Duke of Suffolk
+1 FAMS @F133@
+0 @I309@ INDI
+1 NAME Jane /Grey/
+2 GIVN Jane
+2 SURN Grey
+1 SEX F
+1 BIRT
+2 DATE OCT 1537
+2 PLAC Bradgate, Leicestershire
+1 DEAT
+2 DATE 12 FEB 1554
+2 PLAC Tower of London, London, England
+1 TITL Queen of England
+1 BURI
+2 PLAC Tower of London, London, England
+1 FAMS @F134@
+1 FAMC @F135@
+0 @I310@ INDI
+1 NAME Guildford /Dudley/
+2 GIVN Guildford
+2 SURN Dudley
+1 SEX M
+1 DEAT
+2 DATE 12 FEB 1554
+2 PLAC Tower of London, London, England
+1 TITL Lord
+1 FAMS @F134@
+0 @I311@ INDI
+1 NAME Henry /Brandon/
+2 GIVN Henry
+2 SURN Brandon
+1 SEX M
+1 BIRT
+2 DATE 1516
+1 DEAT
+2 DATE 1534
+1 TITL Earl of Lincoln
+1 FAMC @F133@
+0 @I312@ INDI
+1 NAME Frances /Brandon/
+2 GIVN Frances
+2 SURN Brandon
+1 SEX F
+1 BIRT
+2 DATE 1517
+1 DEAT
+2 DATE 1559
+1 FAMS @F135@
+1 FAMS @F139@
+1 FAMC @F133@
+0 @I313@ INDI
+1 NAME Eleanor /Brandon/
+2 GIVN Eleanor
+2 SURN Brandon
+1 SEX F
+1 DEAT
+2 DATE 1547
+1 FAMS @F138@
+1 FAMC @F133@
+0 @I314@ INDI
+1 NAME Henry /Grey/
+2 GIVN Henry
+2 SURN Grey
+1 SEX M
+1 DEAT
+2 DATE 1554
+1 TITL Duke of Suffolk
+1 FAMS @F135@
+0 @I315@ INDI
+1 NAME Arabella /Stuart/
+2 GIVN Arabella
+2 SURN Stuart
+1 SEX F
+1 DEAT
+2 DATE 1615
+1 FAMS @F136@
+0 @I316@ INDI
+1 NAME William /Seymour/
+2 GIVN William
+2 SURN Seymour
+1 SEX M
+1 DEAT
+2 DATE 1660
+1 TITL Duke Sommerset
+1 FAMS @F136@
+1 FAMS @F137@
+1 FAMC @F142@
+0 @I317@ INDI
+1 NAME Frances /Devereux/
+2 GIVN Frances
+2 SURN Devereux
+1 SEX F
+1 DEAT
+2 DATE 1674
+1 FAMS @F137@
+0 @I318@ INDI
+1 NAME Henry of_Cumberland /Clifford/
+2 GIVN Henry of_Cumberland
+2 SURN Clifford
+1 SEX M
+1 DEAT
+2 DATE 1569
+1 TITL Earl
+1 FAMS @F138@
+0 @I319@ INDI
+1 NAME Adrian /Stokes/
+2 GIVN Adrian
+2 SURN Stokes
+1 SEX M
+1 DEAT
+2 DATE ABT 1581
+1 FAMS @F139@
+0 @I320@ INDI
+1 NAME Catherine /Grey/
+2 GIVN Catherine
+2 SURN Grey
+1 SEX F
+1 DEAT
+2 DATE ABT 1568
+1 TITL Lady
+1 FAMS @F143@
+1 FAMS @F140@
+1 FAMC @F135@
+0 @I321@ INDI
+1 NAME Mary /Grey/
+2 GIVN Mary
+2 SURN Grey
+1 SEX F
+1 DEAT
+2 DATE 1578
+1 TITL Lady
+1 FAMS @F144@
+1 FAMC @F135@
+0 @I322@ INDI
+1 NAME Edward /Seymour/
+2 GIVN Edward
+2 SURN Seymour
+1 SEX M
+1 TITL Earl of Hertford
+1 FAMS @F140@
+0 @I323@ INDI
+1 NAME Edward Beauchamp /Seymour/
+2 GIVN Edward Beauchamp
+2 SURN Seymour
+1 SEX M
+1 DEAT
+2 DATE 1612
+1 TITL Lord
+1 FAMS @F142@
+1 FAMC @F140@
+0 @I324@ INDI
+1 NAME Thomas /Seymour/
+2 GIVN Thomas
+2 SURN Seymour
+1 SEX M
+1 DEAT
+2 DATE 1600
+1 FAMS @F141@
+1 FAMC @F140@
+0 @I325@ INDI
+1 NAME Isabel /Onley/
+2 GIVN Isabel
+2 SURN Onley
+1 SEX F
+1 FAMS @F141@
+0 @I326@ INDI
+1 NAME Honora /Rogers/
+2 GIVN Honora
+2 SURN Rogers
+1 SEX F
+1 FAMS @F142@
+0 @I327@ INDI
+1 NAME Henry /Herbert/
+2 GIVN Henry
+2 SURN Herbert
+1 SEX M
+1 FAMS @F143@
+0 @I328@ INDI
+1 NAME Thomas /Keyes/
+2 GIVN Thomas
+2 SURN Keyes
+1 SEX M
+1 DEAT
+2 DATE 1571
+1 FAMS @F144@
+0 @I329@ INDI
+1 NAME Margaret /Clifford/
+2 GIVN Margaret
+2 SURN Clifford
+1 SEX F
+1 DEAT
+2 DATE 1596
+1 FAMS @F145@
+1 FAMC @F138@
+0 @I330@ INDI
+1 NAME Henry /Stanley/
+2 GIVN Henry
+2 SURN Stanley
+1 SEX M
+1 DEAT
+2 DATE 1593
+1 TITL Earl of Derby
+1 FAMS @F145@
+0 @I331@ INDI
+1 NAME Edward Beauchamp /Seymour/
+2 GIVN Edward Beauchamp
+2 SURN Seymour
+1 SEX M
+1 DEAT
+2 DATE 1618
+1 TITL Lord
+1 FAMS @F146@
+1 FAMC @F142@
+0 @I332@ INDI
+1 NAME Francis /Seymour/
+2 GIVN Francis
+2 SURN Seymour
+1 SEX M
+1 DEAT
+2 DATE 1664
+1 TITL Baron Seymour
+1 FAMS @F147@
+1 FAMS @F148@
+1 FAMC @F142@
+0 @I333@ INDI
+1 NAME Honora /Seymour/
+2 GIVN Honora
+2 SURN Seymour
+1 SEX F
+1 DEAT
+2 DATE 1620
+1 FAMC @F142@
+0 @I334@ INDI
+1 NAME Anne /Sackville/
+2 GIVN Anne
+2 SURN Sackville
+1 SEX F
+1 FAMS @F146@
+0 @I335@ INDI
+1 NAME Frances /Prynne/
+2 GIVN Frances
+2 SURN Prynne
+1 SEX F
+1 FAMS @F147@
+0 @I336@ INDI
+1 NAME Catherine /Lee/
+2 GIVN Catherine
+2 SURN Lee
+1 SEX F
+1 DEAT
+2 DATE 1700
+1 FAMS @F148@
+0 @I337@ INDI
+1 NAME Charles of_Orleans //
+2 GIVN Charles of_Orleans
+1 SEX M
+1 BIRT
+2 DATE 1391
+1 DEAT
+2 DATE 1465
+1 TITL Duke of Orleans
+1 FAMS @F149@
+0 @I338@ INDI
+1 NAME Anne of_Cleves //
+2 GIVN Anne of_Cleves
+1 SEX F
+1 FAMS @F149@
+0 @I339@ INDI
+1 NAME Henry_VIII /Tudor/
+2 GIVN Henry_VIII
+2 SURN Tudor
+1 SEX M
+1 BIRT
+2 DATE 28 JUN 1491
+2 PLAC Greenwich Palace, London, England
+1 DEAT
+2 DATE 28 JAN 1547
+2 PLAC Whitehall, London, England
+1 TITL King of England
+1 BURI
+2 PLAC St. George's Chapel, Windsor, England
+1 REFN 11
+1 FAMS @F150@
+1 FAMS @F151@
+1 FAMS @F152@
+1 FAMS @F153@
+1 FAMS @F154@
+1 FAMS @F155@
+1 FAMC @F126@
+0 @I340@ INDI
+1 NAME Catherine of_Aragon //
+2 GIVN Catherine of_Aragon
+1 SEX F
+1 BIRT
+2 DATE 15 DEC 1485
+2 PLAC Near Madrid, Spain
+1 DEAT
+2 DATE 7 JAN 1536
+2 PLAC Kimbolton Castle, Hunts, England
+1 BURI
+2 PLAC Peterborough Cathedral, England
+1 FAMS @F150@
+1 FAMS @F159@
+1 FAMC @F158@
+0 @I341@ INDI
+1 NAME Daughter /Tudor/
+2 GIVN Daughter
+2 SURN Tudor
+1 SEX F
+1 BIRT
+2 DATE 31 JAN 1510
+1 DEAT
+2 DATE 31 JAN 1510
+1 FAMC @F150@
+0 @I342@ INDI
+1 NAME Henry_(1) /Tudor/
+2 GIVN Henry_(1)
+2 SURN Tudor
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1511
+2 PLAC Richmond Palace, London, England
+1 DEAT
+2 DATE 22 FEB 1511
+2 PLAC Richmond Palace, London, England
+1 TITL Duke of Cornwall
+1 FAMC @F150@
+0 @I343@ INDI
+1 NAME Henry_(2) /Tudor/
+2 GIVN Henry_(2)
+2 SURN Tudor
+1 SEX M
+1 BIRT
+2 DATE NOV 1513
+2 PLAC Richmond Palace, London, England
+1 DEAT
+2 DATE NOV 1513
+2 PLAC Richmond Palace, London, England
+1 TITL Duke of Cornwall
+1 FAMC @F150@
+0 @I344@ INDI
+1 NAME Son /Tudor/
+2 GIVN Son
+2 SURN Tudor
+1 SEX M
+1 BIRT
+2 DATE DEC 1514
+1 DEAT
+2 DATE DEC 1514
+1 FAMC @F150@
+0 @I345@ INDI
+1 NAME Mary_I /Tudor/
+2 GIVN Mary_I
+2 SURN Tudor
+1 SEX F
+1 BIRT
+2 DATE 18 FEB 1516
+2 PLAC Greenwich Palace, London, England
+1 DEAT
+2 DATE 17 NOV 1558
+2 PLAC St. James Palace, London, England
+1 TITL Queen of England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F156@
+1 FAMC @F150@
+0 @I346@ INDI
+1 NAME Daughter /Tudor/
+2 GIVN Daughter
+2 SURN Tudor
+1 SEX F
+1 BIRT
+2 DATE 10 NOV 1518
+1 DEAT
+2 DATE 10 NOV 1518
+1 FAMC @F150@
+0 @I347@ INDI
+1 NAME Anne /Boleyn/
+2 GIVN Anne
+2 SURN Boleyn
+1 SEX F
+1 BIRT
+2 DATE ABT 1501
+2 PLAC Blickling Hall, Norfolk, England
+1 DEAT
+2 DATE 19 MAY 1536
+2 PLAC Tower of London, London, England
+1 BURI
+2 PLAC Chapel Royal, Tower of London, London, England
+1 FAMS @F151@
+0 @I348@ INDI
+1 NAME Elizabeth_I /Tudor/
+2 GIVN Elizabeth_I
+2 SURN Tudor
+1 SEX F
+1 BIRT
+2 DATE 7 SEP 1533
+2 PLAC Greenwich Palace, London, England
+1 DEAT
+2 DATE 23 MAR 1603
+2 PLAC Richmond Palace, London, England
+1 TITL Queen of England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMC @F151@
+0 @I349@ INDI
+1 NAME Son /Tudor/
+2 GIVN Son
+2 SURN Tudor
+1 SEX M
+1 BIRT
+2 DATE 29 JAN 1536
+2 PLAC Greenwich, England
+1 DEAT
+2 DATE 29 JAN 1536
+2 PLAC Greenwich, England
+1 FAMC @F151@
+0 @I350@ INDI
+1 NAME Jane /Seymour/
+2 GIVN Jane
+2 SURN Seymour
+1 SEX F
+1 BIRT
+2 DATE ABT 1505
+2 PLAC Wolf Hall, Savernake, Wilts
+1 DEAT
+2 DATE 24 OCT 1537
+2 PLAC Hampton Court Palace, England
+1 BURI
+2 DATE 12 NOV 1537
+2 PLAC St. George's Chapel, Windsor, England
+1 FAMS @F152@
+0 @I351@ INDI
+1 NAME Edward_VI /Tudor/
+2 GIVN Edward_VI
+2 SURN Tudor
+1 SEX M
+1 BIRT
+2 DATE 12 OCT 1537
+2 PLAC Hampton Court Palace, England
+1 DEAT
+2 DATE 6 JUL 1553
+2 PLAC Greenwich Palace, London, England
+1 TITL King of England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMC @F152@
+0 @I352@ INDI
+1 NAME Anne of_Cleves //
+2 GIVN Anne of_Cleves
+1 SEX F
+1 BIRT
+2 DATE 22 SEP 1515
+2 PLAC Dusseldorf
+1 DEAT
+2 DATE 17 JUL 1557
+2 PLAC Chelsea, England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F153@
+0 @I353@ INDI
+1 NAME Catherine /Howard/
+2 GIVN Catherine
+2 SURN Howard
+1 SEX F
+1 BIRT
+2 DATE ABT 1520
+2 PLAC Lambeth
+1 DEAT
+2 DATE 13 FEB 1542
+2 PLAC Tower of London, London, England
+1 BURI
+2 PLAC Chapel Royal, London, England
+1 FAMS @F154@
+0 @I354@ INDI
+1 NAME Catherine /Parr/
+2 GIVN Catherine
+2 SURN Parr
+1 SEX F
+1 BIRT
+2 DATE ABT 1512
+2 PLAC Kendal Castle
+1 DEAT
+2 DATE 5 SEP 1548
+2 PLAC Sudeley Castle, Gloucestershire
+1 BURI
+2 PLAC Sudeley Castle, Chapel
+1 FAMS @F155@
+0 @I355@ INDI
+1 NAME Philip_II //
+2 GIVN Philip_II
+1 SEX M
+1 BIRT
+2 DATE 21 MAY 1527
+2 PLAC Valladolid
+1 DEAT
+2 DATE 13 SEP 1598
+2 PLAC El Escorial Palace, Madrid, Spain
+1 TITL King of Spain
+1 FAMS @F156@
+1 FAMC @F157@
+0 @I356@ INDI
+1 NAME Charles_V //
+2 GIVN Charles_V
+1 SEX M
+1 BIRT
+2 DATE 1500
+1 DEAT
+2 DATE 1558
+1 TITL Emperor
+1 FAMS @F157@
+0 @I357@ INDI
+1 NAME Isabella of_Portugal //
+2 GIVN Isabella of_Portugal
+1 SEX F
+1 BIRT
+2 DATE 1503
+1 DEAT
+2 DATE 1539
+1 FAMS @F157@
+0 @I358@ INDI
+1 NAME Ferdinand_V //
+2 GIVN Ferdinand_V
+1 SEX M
+1 BIRT
+2 DATE 1452
+1 DEAT
+2 DATE 1516
+1 TITL King of Aragon
+1 FAMS @F158@
+0 @I359@ INDI
+1 NAME Isabella //
+2 GIVN Isabella
+1 SEX F
+1 BIRT
+2 DATE 1451
+1 DEAT
+2 DATE 1504
+1 TITL Queen of Castile
+1 FAMS @F158@
+0 @I360@ INDI
+1 NAME Owen /Tudor/
+2 GIVN Owen
+2 SURN Tudor
+1 SEX M
+1 DEAT
+2 DATE 1461
+1 FAMS @F161@
+1 FAMC @F160@
+0 @I361@ INDI
+1 NAME Maredudd (Meredith) /Tudor/
+2 GIVN Maredudd (Meredith)
+2 SURN Tudor
+1 SEX M
+1 FAMS @F160@
+0 @I362@ INDI
+1 NAME Catherine of_Valois //
+2 GIVN Catherine of_Valois
+1 SEX F
+1 BIRT
+2 DATE 27 OCT 1401
+2 PLAC Paris, France
+1 DEAT
+2 DATE 3 JAN 1437
+2 PLAC Bermondsey Abbey
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F161@
+1 FAMS @F178@
+1 FAMC @F162@
+0 @I363@ INDI
+1 NAME Isabelle of_Bavaria //
+2 GIVN Isabelle of_Bavaria
+1 SEX F
+1 BIRT
+2 DATE 1371
+1 DEAT
+2 DATE 1435
+1 FAMS @F162@
+0 @I364@ INDI
+1 NAME Charles_VI the_Beloved //
+2 GIVN Charles_VI the_Beloved
+1 SEX M
+1 BIRT
+2 DATE 3 DEC 1368
+2 PLAC Paris, France
+1 DEAT
+2 DATE 22 OCT 1422
+2 PLAC Paris, France
+1 TITL King of France
+1 BURI
+2 PLAC St. Denis, France
+1 FAMS @F162@
+1 FAMC @F171@
+0 @I366@ INDI
+1 NAME John /Beaufort/
+2 GIVN John
+2 SURN Beaufort
+1 SEX M
+1 BIRT
+2 DATE 1403
+1 DEAT
+2 DATE 1444
+1 TITL Duke Sommerset
+1 FAMS @F164@
+1 FAMC @F163@
+0 @I367@ INDI
+1 NAME Margaret /Holland/
+2 GIVN Margaret
+2 SURN Holland
+1 SEX F
+1 DEAT
+2 DATE 31 DEC 1439
+1 FAMS @F163@
+0 @I368@ INDI
+1 NAME Margaret /Beauchamp/
+2 GIVN Margaret
+2 SURN Beauchamp
+1 SEX F
+1 FAMS @F164@
+0 @I369@ INDI
+1 NAME Richard /Plantagenet/
+2 GIVN Richard
+2 SURN Plantagenet
+1 SEX M
+1 DEAT
+2 DATE 1460
+1 TITL Duke of York
+1 FAMS @F166@
+1 FAMC @F165@
+0 @I370@ INDI
+1 NAME Richard of_Cambridge /Plantagenet/
+2 GIVN Richard of_Cambridge
+2 SURN Plantagenet
+1 SEX M
+1 DEAT
+2 DATE 1415
+1 TITL Earl
+1 FAMS @F165@
+0 @I371@ INDI
+1 NAME Anne /Mortimer/
+2 GIVN Anne
+2 SURN Mortimer
+1 SEX F
+1 TITL Lady
+1 FAMS @F165@
+0 @I372@ INDI
+1 NAME Cicely /Nevill/
+2 GIVN Cicely
+2 SURN Nevill
+1 SEX F
+1 DEAT
+2 DATE 1495
+1 TITL Lady
+1 FAMS @F166@
+1 FAMC @F167@
+0 @I373@ INDI
+1 NAME Ralph of_Westmoreland 1st //
+2 GIVN Ralph of_Westmoreland 1st
+1 SEX M
+1 TITL Earl
+1 FAMS @F167@
+0 @I374@ INDI
+1 NAME Joan Beaufort //
+2 GIVN Joan Beaufort
+1 SEX F
+1 FAMS @F167@
+0 @I375@ INDI
+1 NAME Richard /Woodville/
+2 GIVN Richard
+2 SURN Woodville
+1 SEX M
+1 TITL Earl Rivers
+1 FAMS @F168@
+0 @I376@ INDI
+1 NAME Jacquetta of_Luxembourg //
+2 GIVN Jacquetta of_Luxembourg
+1 SEX F
+1 FAMS @F168@
+1 FAMC @F169@
+0 @I377@ INDI
+1 NAME Peter of_Luxemburg //
+2 GIVN Peter of_Luxemburg
+1 SEX M
+1 TITL Count St. Pol
+1 FAMS @F169@
+0 @I378@ INDI
+1 NAME John_II the_Good //
+2 GIVN John_II the_Good
+1 SEX M
+1 BIRT
+2 DATE 26 APR 1319
+2 PLAC Le Mans, France
+1 DEAT
+2 DATE 8 APR 1364
+2 PLAC London, England
+1 TITL King of France
+1 BURI
+2 PLAC St. Denis, France
+1 FAMS @F170@
+0 @I379@ INDI
+1 NAME Charles_V the_Wise //
+2 GIVN Charles_V the_Wise
+1 SEX M
+1 BIRT
+2 DATE 21 JAN 1337
+2 PLAC Vincennes, France
+1 DEAT
+2 DATE 16 SEP 1380
+2 PLAC Vincennes, France
+1 TITL King of France
+1 BURI
+2 PLAC St. Denis, France
+1 FAMS @F171@
+1 FAMC @F170@
+0 @I380@ INDI
+1 NAME Bonne of_Luxemburg //
+2 GIVN Bonne of_Luxemburg
+1 SEX F
+1 DEAT
+2 DATE 1349
+1 FAMS @F170@
+0 @I381@ INDI
+1 NAME Joan of_Bourbon //
+2 GIVN Joan of_Bourbon
+1 SEX F
+1 BIRT
+2 DATE 1338
+1 DEAT
+2 DATE 4 FEB 1378
+1 TITL Queen
+1 FAMS @F171@
+0 @I382@ INDI
+1 NAME Richard_II //
+2 GIVN Richard_II
+1 SEX M
+1 BIRT
+2 DATE 6 JAN 1367
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 6 JAN 1400
+2 PLAC Yorkshire, England
+2 ADDR Pontefract Castle
+1 TITL King of England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F172@
+1 FAMC @F274@
+0 @I383@ INDI
+1 NAME Isabella of_France //
+2 GIVN Isabella of_France
+1 SEX F
+1 BIRT
+2 DATE 9 NOV 1387
+2 PLAC Hotel du Louvre, Paris, France
+1 DEAT
+2 DATE 13 SEP 1409
+2 PLAC Blois, France
+1 BURI
+2 DATE ABT 1624
+2 PLAC Celestines, Paris
+1 FAMS @F172@
+1 FAMC @F162@
+0 @I384@ INDI
+1 NAME Charles_VII //
+2 GIVN Charles_VII
+1 SEX M
+1 BIRT
+2 DATE 22 FEB 1403
+2 PLAC Paris, France
+1 DEAT
+2 DATE 21 JUL 1461
+2 PLAC Bourges, France
+1 BURI
+2 DATE 9 AUG 1461
+2 PLAC St. Denis, France
+1 TITL King of France
+1 FAMS @F174@
+1 FAMC @F162@
+0 @I385@ INDI
+1 NAME Mary of_Anjou //
+2 GIVN Mary of_Anjou
+1 SEX F
+1 BIRT
+2 DATE 1404
+1 DEAT
+2 DATE 1463
+1 FAMS @F174@
+0 @I386@ INDI
+1 NAME Louis_XI //
+2 GIVN Louis_XI
+1 SEX M
+1 BIRT
+2 DATE 3 JUL 1423
+2 PLAC Bourges, France
+1 DEAT
+2 DATE 30 AUG 1483
+1 TITL King of France
+1 BURI
+2 PLAC Notre Dame de Clery, France
+1 FAMS @F175@
+1 FAMS @F176@
+1 FAMC @F174@
+0 @I387@ INDI
+1 NAME Margaret of_Scotland //
+2 GIVN Margaret of_Scotland
+1 SEX F
+1 BIRT
+2 DATE ABT 1418
+1 DEAT
+2 DATE 1445
+1 FAMS @F175@
+0 @I388@ INDI
+1 NAME Charlotte of_Savoy //
+2 GIVN Charlotte of_Savoy
+1 SEX F
+1 BIRT
+2 DATE ABT 1445
+1 DEAT
+2 DATE 1483
+1 FAMS @F176@
+0 @I389@ INDI
+1 NAME Charles_VIII //
+2 GIVN Charles_VIII
+1 SEX M
+1 BIRT
+2 DATE 30 JUN 1490
+1 DEAT
+2 DATE 7 APR 1498
+2 PLAC Amboise
+1 TITL King of France
+1 BURI
+2 PLAC St. Denis, France
+1 FAMS @F173@
+1 FAMC @F176@
+0 @I390@ INDI
+1 NAME Anne //
+2 GIVN Anne
+1 SEX F
+1 BIRT
+2 DATE 1461
+1 DEAT
+2 DATE 1522
+1 FAMC @F176@
+0 @I391@ INDI
+1 NAME Anne of_Brittany //
+2 GIVN Anne of_Brittany
+1 SEX F
+1 BIRT
+2 DATE 1477
+1 DEAT
+2 DATE 1514
+1 FAMS @F173@
+0 @I392@ INDI
+1 NAME Jasper /Tudor/
+2 GIVN Jasper
+2 SURN Tudor
+1 SEX M
+1 DEAT
+2 DATE ABT 1495
+1 TITL Earl of Pembroke
+1 FAMS @F177@
+1 FAMC @F161@
+0 @I393@ INDI
+1 NAME Catherine /Woodville/
+2 GIVN Catherine
+2 SURN Woodville
+1 SEX F
+1 FAMS @F177@
+0 @I395@ INDI
+1 NAME Anne /Nevill/
+2 GIVN Anne
+2 SURN Nevill
+1 SEX F
+1 BIRT
+2 DATE 11 JUN 1456
+2 PLAC Warwick Castle, Warwick, England
+1 DEAT
+2 DATE 16 MAR 1485
+2 PLAC Westminster Palace, London, England
+1 TITL Lady
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F179@
+0 @I396@ INDI
+1 NAME Edward //
+2 GIVN Edward
+1 SEX M
+1 BIRT
+2 DATE 13 OCT 1453
+2 PLAC Westminster Palace, London, England
+1 DEAT
+2 DATE 4 MAY 1471
+2 PLAC Tewkesbury
+1 TITL Prince of Wales
+1 FAMS @F179@
+1 FAMC @F180@
+0 @I397@ INDI
+1 NAME Henry_VI //
+2 GIVN Henry_VI
+1 SEX M
+1 BIRT
+2 DATE 6 DEC 1421
+2 PLAC Windsor Castle, Windsor, Berkshire, England
+1 DEAT
+2 DATE 21 MAY 1471
+2 PLAC Tower of London, London, England
+1 TITL King of England
+1 BURI
+2 PLAC St. George's Chapel, Windsor, England
+1 FAMS @F180@
+1 FAMC @F178@
+0 @I398@ INDI
+1 NAME Margaret of_Anjou //
+2 GIVN Margaret of_Anjou
+1 SEX F
+1 BIRT
+2 DATE 23 MAR 1429
+2 PLAC Pont-a-Mousson, Lorraine
+1 DEAT
+2 DATE 25 AUG 1482
+2 PLAC Chateau de Dampiere, Near Saumur
+1 BURI
+2 PLAC Angers Cathedral
+1 FAMS @F180@
+0 @I399@ INDI
+1 NAME Henry_V //
+2 GIVN Henry_V
+1 SEX M
+1 BIRT
+2 DATE 9 AUG 1387
+2 PLAC Monmouth
+1 DEAT
+2 DATE 31 AUG 1422
+2 PLAC Bois de Vincennes
+1 TITL King of England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F178@
+1 FAMC @F181@
+0 @I400@ INDI
+1 NAME Henry_IV //
+2 GIVN Henry_IV
+1 SEX M
+1 BIRT
+2 DATE 4 APR 1366
+2 PLAC Bolingbrooke Castle
+1 DEAT
+2 DATE 20 MAR 1413
+2 PLAC London, England
+1 TITL King of England
+1 BURI
+2 PLAC Canterbury Cathedral, England
+1 FAMS @F181@
+1 FAMC @F184@
+0 @I401@ INDI
+1 NAME Mary /de Bohun/
+2 GIVN Mary
+2 SURN de Bohun
+1 SEX F
+1 DEAT
+2 DATE 4 JUL 1394
+2 PLAC Peterborough Castle
+1 FAMS @F181@
+1 FAMC @F182@
+0 @I402@ INDI
+1 NAME Humphrey /de Bohun/
+2 GIVN Humphrey
+2 SURN de Bohun
+1 SEX M
+1 TITL Earl of Hereford
+1 FAMS @F182@
+0 @I403@ INDI
+1 NAME Edward_III //
+2 GIVN Edward_III
+1 SEX M
+1 BIRT
+2 DATE 13 NOV 1312
+2 PLAC Windsor Castle, Windsor, Berkshire, England
+1 DEAT
+2 DATE 21 JUN 1377
+2 PLAC Sheen Palace
+1 TITL King of England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F183@
+1 FAMC @F187@
+0 @I404@ INDI
+1 NAME Philippa of_Hainault //
+2 GIVN Philippa of_Hainault
+1 SEX F
+1 BIRT
+2 DATE 24 JUN 1311
+2 PLAC Valenciennes
+1 DEAT
+2 DATE 14 AUG 1369
+2 PLAC Windsor Castle, Windsor, Berkshire, England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F183@
+1 FAMC @F186@
+0 @I405@ INDI
+1 NAME John of_Gaunt //
+2 GIVN John of_Gaunt
+1 SEX M
+1 BIRT
+2 DATE MAR 1340
+2 PLAC Ghent
+1 DEAT
+2 DATE 3 FEB 1399
+2 PLAC Leicester Castle
+1 TITL Duke of Lancast.
+1 FAMS @F184@
+1 FAMS @F273@
+1 FAMC @F183@
+0 @I406@ INDI
+1 NAME Blanche of_Lancaster //
+2 GIVN Blanche of_Lancaster
+1 SEX F
+1 BIRT
+2 DATE 1341
+1 DEAT
+2 DATE 12 SEP 1369
+2 PLAC Bolingbrooke Castle
+1 FAMS @F184@
+1 FAMC @F185@
+0 @I407@ INDI
+1 NAME Henry //
+2 GIVN Henry
+1 SEX M
+1 DEAT
+2 DATE 1361
+1 TITL Duke Lancaster I
+1 FAMS @F185@
+0 @I408@ INDI
+1 NAME Isabel /de Beaumont/
+2 GIVN Isabel
+2 SURN de Beaumont
+1 SEX F
+1 FAMS @F185@
+0 @I409@ INDI
+1 NAME Edward //
+2 GIVN Edward
+1 SEX M
+1 BIRT
+2 DATE 15 JUN 1330
+2 PLAC Woodstock, Oxfordshire, England
+1 DEAT
+2 DATE 8 JUN 1376
+2 PLAC Westminster Palace, London, England
+1 TITL The Black Prince
+1 BURI
+2 PLAC Canterbury Cathedral, London, England
+1 FAMS @F274@
+1 FAMC @F183@
+0 @I410@ INDI
+1 NAME Isabella //
+2 GIVN Isabella
+1 SEX F
+1 BIRT
+2 DATE 16 JUN 1332
+2 PLAC Woodstock
+1 DEAT
+2 DATE BEF OCT 1382
+2 PLAC London, England
+1 FAMC @F183@
+0 @I411@ INDI
+1 NAME Joan (Joanna) //
+2 GIVN Joan (Joanna)
+1 SEX F
+1 BIRT
+2 DATE ABT FEB 1335
+2 PLAC Woodstock
+1 DEAT
+2 DATE 2 SEP 1348
+2 PLAC Bayonne
+1 FAMC @F183@
+0 @I412@ INDI
+1 NAME William of_Hatfield //
+2 GIVN William of_Hatfield
+1 SEX M
+1 BIRT
+2 DATE BEF 16 FEB 1337
+2 PLAC Hatfield Herts
+1 DEAT
+2 DATE BEF 8 JUL 1337
+1 FAMC @F183@
+0 @I413@ INDI
+1 NAME Lionel of_Antwerp //
+2 GIVN Lionel of_Antwerp
+1 SEX M
+1 BIRT
+2 DATE 29 NOV 1338
+2 PLAC Antwerp, Belgium
+1 DEAT
+2 DATE 10 DEC 1363
+2 PLAC Dublin, Ireland
+1 TITL Duke of Clarence
+1 FAMC @F183@
+0 @I414@ INDI
+1 NAME Edmund of_Langley //
+2 GIVN Edmund of_Langley
+1 SEX M
+1 BIRT
+2 DATE 5 JUN 1341
+2 PLAC Kings Langley, Herts
+1 DEAT
+2 DATE 1 AUG 1402
+2 PLAC Kings Langley, Herts
+1 TITL Duke of York
+1 FAMS @F275@
+1 FAMC @F183@
+0 @I415@ INDI
+1 NAME Blanche //
+2 GIVN Blanche
+1 SEX F
+1 BIRT
+2 DATE MAR 1342
+2 PLAC Tower of London, London, England
+1 DEAT
+2 DATE MAR 1342
+2 PLAC Tower of London, London, England
+1 FAMC @F183@
+0 @I416@ INDI
+1 NAME Mary //
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 10 OCT 1344
+2 PLAC Waltham, Near Winchester
+1 DEAT
+2 DATE ABT 1361
+1 FAMC @F183@
+0 @I417@ INDI
+1 NAME Margaret //
+2 GIVN Margaret
+1 SEX F
+1 BIRT
+2 DATE 20 JUL 1346
+2 PLAC Windsor Castle, Windsor, Berkshire, England
+1 DEAT
+2 DATE AFT 1 OCT 1361
+1 FAMC @F183@
+0 @I418@ INDI
+1 NAME William of_Windsor //
+2 GIVN William of_Windsor
+1 SEX M
+1 BIRT
+2 DATE 24 JUN 1348
+2 PLAC Windsor Castle, Windsor, Berkshire, England
+1 DEAT
+2 DATE SEP 1348
+1 FAMC @F183@
+0 @I419@ INDI
+1 NAME Thomas of_Woodstock //
+2 GIVN Thomas of_Woodstock
+1 SEX M
+1 BIRT
+2 DATE 7 JAN 1355
+2 PLAC Woodstock
+1 DEAT
+2 DATE ABT 15 SEP 1396
+2 PLAC Calais
+1 TITL Duke of Glouces.
+1 FAMC @F183@
+0 @I420@ INDI
+1 NAME William of_Hainault //
+2 GIVN William of_Hainault
+1 SEX M
+1 TITL Count
+1 FAMS @F186@
+0 @I421@ INDI
+1 NAME Edward_II //
+2 GIVN Edward_II
+1 SEX M
+1 BIRT
+2 DATE 25 APR 1284
+2 PLAC Caernarvon Castle, Wales
+1 DEAT
+2 DATE 21 SEP 1327
+2 PLAC Berkeley Castle, Gloucestershire
+1 TITL King of England
+1 BURI
+2 PLAC Gloucester, Cathedral
+1 FAMS @F187@
+1 FAMC @F190@
+0 @I422@ INDI
+1 NAME Isabella of_France //
+2 GIVN Isabella of_France
+1 SEX F
+1 BIRT
+2 DATE 1292
+2 PLAC Paris, France
+1 DEAT
+2 DATE 22 AUG 1358
+2 PLAC Castle Rising, Norfolk, England
+1 BURI
+2 PLAC Grey Friars, Church, London, England
+1 FAMS @F187@
+1 FAMC @F188@
+0 @I423@ INDI
+1 NAME Philip_IV the_Fair //
+2 GIVN Philip_IV the_Fair
+1 SEX M
+1 BIRT
+2 DATE 1268
+2 PLAC Fontainebleau, France
+1 DEAT
+2 DATE 29 NOV 1314
+2 PLAC Fontainebleau, France
+1 TITL King of France
+1 BURI
+2 PLAC St. Denis, France
+1 FAMS @F188@
+0 @I424@ INDI
+1 NAME Joan of_Navarre //
+2 GIVN Joan of_Navarre
+1 SEX F
+1 BIRT
+2 DATE 1271
+1 DEAT
+2 DATE 1305
+1 FAMS @F188@
+0 @I425@ INDI
+1 NAME Edward_I (Longshanks) //
+2 GIVN Edward_I (Longshanks)
+1 SEX M
+1 BIRT
+2 DATE 17 JUN 1239
+2 PLAC Westminster Palace, London, England
+1 DEAT
+2 DATE 7 JUL 1307
+2 PLAC Near Carlisle
+1 TITL King of England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F190@
+1 FAMC @F189@
+0 @I426@ INDI
+1 NAME Henry_III //
+2 GIVN Henry_III
+1 SEX M
+1 BIRT
+2 DATE 1 OCT 1207
+2 PLAC Winchester Castle
+1 DEAT
+2 DATE 16 NOV 1272
+2 PLAC Westminster Palace, London, England
+1 TITL King of England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F189@
+1 FAMC @F193@
+0 @I427@ INDI
+1 NAME Eleanor of_Provence //
+2 GIVN Eleanor of_Provence
+1 SEX F
+1 BIRT
+2 DATE ABT 1217
+2 PLAC Aix-en-Provence
+1 DEAT
+2 DATE 24 JUN 1291
+2 PLAC Amesbury, Wiltshire
+1 BURI
+2 PLAC Convent Church, Amesbury
+1 FAMS @F189@
+0 @I428@ INDI
+1 NAME Eleanor of_Castile //
+2 GIVN Eleanor of_Castile
+1 SEX F
+1 BIRT
+2 DATE ABT 1244
+2 PLAC Castile
+1 DEAT
+2 DATE 24 NOV 1290
+2 PLAC Herdeby, Near Grantham, Lincolnshire
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F190@
+1 FAMC @F191@
+0 @I429@ INDI
+1 NAME Ferdinand_III //
+2 GIVN Ferdinand_III
+1 SEX M
+1 BIRT
+2 DATE 1199
+1 DEAT
+2 DATE 1252
+1 TITL King of Castile
+1 FAMS @F191@
+0 @I430@ INDI
+1 NAME Alice de_Courtenay //
+2 GIVN Alice de_Courtenay
+1 SEX F
+1 FAMS @F192@
+0 @I431@ INDI
+1 NAME Aymer of_Angouleme /Taillefer/
+2 GIVN Aymer of_Angouleme
+2 SURN Taillefer
+1 SEX M
+1 TITL Count
+1 FAMS @F192@
+0 @I432@ INDI
+1 NAME Isabella of_Angouleme //
+2 GIVN Isabella of_Angouleme
+1 SEX F
+1 BIRT
+2 DATE ABT 1188
+2 PLAC Angouleme
+1 DEAT
+2 DATE 31 MAY 1246
+2 PLAC Fontevraud
+1 BURI
+2 PLAC Fontevraud Abbey
+1 FAMS @F193@
+1 FAMC @F192@
+0 @I433@ INDI
+1 NAME John Lackland //
+2 GIVN John Lackland
+1 SEX M
+1 BIRT
+2 DATE 24 DEC 1167
+2 PLAC Beaumont Palace, Oxford, England
+1 DEAT
+2 DATE 19 OCT 1216
+2 PLAC Newark Castle, Newark, Nottinghamshire, England
+1 TITL King of England
+1 BURI
+2 PLAC Worcester Cathedral
+1 FAMS @F193@
+1 FAMS @F221@
+1 FAMC @F194@
+0 @I434@ INDI
+1 NAME Henry_II Curtmantle //
+2 GIVN Henry_II Curtmantle
+1 SEX M
+1 BIRT
+2 DATE 25 MAR 1133
+2 PLAC Le Mans, France
+1 DEAT
+2 DATE 6 JUL 1189
+2 PLAC Chinon
+1 TITL King of England
+1 BURI
+2 PLAC Fontevraud Abbey
+1 FAMS @F194@
+1 FAMC @F195@
+0 @I435@ INDI
+1 NAME Eleanor of_Aquitaine //
+2 GIVN Eleanor of_Aquitaine
+1 SEX F
+1 BIRT
+2 DATE ABT 1122
+2 PLAC Bordeaux/Berlin
+1 DEAT
+2 DATE 1 APR 1204
+2 PLAC Fontevraud
+1 TITL Duchess
+1 BURI
+2 PLAC Fontevraud
+1 FAMS @F194@
+0 @I436@ INDI
+1 NAME Geoffrey_V /Plantagenet/
+2 GIVN Geoffrey_V
+2 SURN Plantagenet
+1 SEX M
+1 DEAT
+2 DATE 7 SEP 1151
+2 PLAC Chateau-du-Loir
+1 TITL Count of Anjou
+1 FAMS @F195@
+0 @I437@ INDI
+1 NAME Henry_I Beauclerc //
+2 GIVN Henry_I Beauclerc
+1 SEX M
+1 BIRT
+2 DATE ABT SEP 1068
+2 PLAC Selby, Yorkshire, England
+1 DEAT
+2 DATE 1 DEC 1135
+2 PLAC St Denis-le-Fermont, Near Gisors
+1 TITL King of England
+1 BURI
+2 PLAC Reading Abbey
+1 FAMS @F196@
+1 FAMC @F198@
+0 @I438@ INDI
+1 NAME Matilda (Edith) of_Scotland //
+2 GIVN Matilda (Edith) of_Scotland
+1 SEX F
+1 BIRT
+2 DATE ABT 1080
+2 PLAC Dunfermline, Scotland
+1 DEAT
+2 DATE 1 MAY 1118
+2 PLAC Westminster Palace, London, England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F196@
+1 FAMC @F201@
+0 @I439@ INDI
+1 NAME Matilda //
+2 GIVN Matilda
+1 SEX F
+1 BIRT
+2 DATE ABT 1104
+2 PLAC Winchester
+1 DEAT
+2 DATE 10 SEP 1167
+2 PLAC Rouen, France
+1 FAMS @F195@
+1 FAMS @F212@
+1 FAMC @F196@
+0 @I440@ INDI
+1 NAME William_I the_Conqueror //
+2 GIVN William_I the_Conqueror
+1 SEX M
+1 BIRT
+2 DATE 1028
+2 PLAC Falaise, Normandy, France
+1 DEAT
+2 DATE 7 SEP 1087
+2 PLAC Near Rouen, France
+1 TITL King of England
+1 BURI
+2 PLAC St Stephen Abbey, Caen, Normandy
+1 REFN 10
+1 FAMS @F198@
+1 FAMC @F197@
+0 @I441@ INDI
+1 NAME Robert the_Devil //
+2 GIVN Robert the_Devil
+1 SEX M
+1 DEAT
+2 DATE 1035
+1 TITL Duke
+1 FAMS @F197@
+0 @I442@ INDI
+1 NAME Herleva //
+2 GIVN Herleva
+1 SEX F
+1 FAMS @F197@
+0 @I443@ INDI
+1 NAME Matilda of_Flanders //
+2 GIVN Matilda of_Flanders
+1 SEX F
+1 BIRT
+2 DATE ABT 1031
+2 PLAC Flanders, France
+1 DEAT
+2 DATE 2 NOV 1083
+2 PLAC Caen
+1 BURI
+2 PLAC Holy Trinity, Abbey, Caen
+1 FAMS @F198@
+1 FAMC @F199@
+0 @I444@ INDI
+1 NAME Baldwin_V of_Flanders //
+2 GIVN Baldwin_V of_Flanders
+1 SEX M
+1 TITL Count
+1 FAMS @F199@
+0 @I445@ INDI
+1 NAME Malcolm_III Canmore //
+2 GIVN Malcolm_III Canmore
+1 SEX M
+1 DEAT
+2 DATE 1093
+1 TITL King of Scotland
+1 FAMS @F201@
+1 FAMC @F200@
+0 @I446@ INDI
+1 NAME Duncan_I //
+2 GIVN Duncan_I
+1 SEX M
+1 FAMS @F200@
+0 @I447@ INDI
+1 NAME Sybil //
+2 GIVN Sybil
+1 SEX F
+1 FAMS @F200@
+0 @I448@ INDI
+1 NAME St_Margaret //
+2 GIVN St_Margaret
+1 SEX F
+1 DEAT
+2 DATE 1093
+1 FAMS @F201@
+1 FAMC @F202@
+0 @I449@ INDI
+1 NAME Edward /Athling/
+2 GIVN Edward
+2 SURN Athling
+1 SEX M
+1 BIRT
+2 DATE ABT 1016
+1 DEAT
+2 DATE 1057
+1 FAMS @F202@
+0 @I450@ INDI
+1 NAME Agatha //
+2 GIVN Agatha
+1 SEX F
+1 FAMS @F202@
+0 @I451@ INDI
+1 NAME Robert Curthose //
+2 GIVN Robert Curthose
+1 SEX M
+1 BIRT
+2 DATE 1054
+2 PLAC Normandy, France
+1 DEAT
+2 DATE 10 FEB 1134
+2 PLAC Cardiff Castle
+1 TITL Duke of Normandy
+1 FAMS @F203@
+1 FAMC @F198@
+0 @I452@ INDI
+1 NAME Sybilla //
+2 GIVN Sybilla
+1 SEX F
+1 FAMS @F203@
+0 @I453@ INDI
+1 NAME William Clito of_Flanders //
+2 GIVN William Clito of_Flanders
+1 SEX M
+1 DEAT
+2 DATE 1128
+1 TITL Count
+1 FAMS @F204@
+1 FAMS @F205@
+1 FAMC @F203@
+0 @I454@ INDI
+1 NAME Sybil //
+2 GIVN Sybil
+1 SEX F
+1 FAMS @F204@
+0 @I455@ INDI
+1 NAME Adelicia //
+2 GIVN Adelicia
+1 SEX F
+1 FAMS @F205@
+0 @I456@ INDI
+1 NAME Richard //
+2 GIVN Richard
+1 SEX M
+1 BIRT
+2 DATE ABT 1055
+1 DEAT
+2 DATE ABT 1081
+2 PLAC New Forest
+1 FAMC @F198@
+0 @I457@ INDI
+1 NAME William_II Rufus //
+2 GIVN William_II Rufus
+1 SEX M
+1 BIRT
+2 DATE ABT 1060
+2 PLAC Normandy, France
+1 DEAT
+2 DATE 2 AUG 1100
+2 PLAC New Forest
+1 TITL King of England
+1 BURI
+2 PLAC Winchester Cathedral, England
+1 FAMC @F198@
+0 @I458@ INDI
+1 NAME Cecilia of_Holy_Trinity //
+2 GIVN Cecilia of_Holy_Trinity
+1 SEX F
+1 DEAT
+2 DATE 30 JUL 1126
+2 PLAC Caen
+1 TITL Abess
+1 FAMC @F198@
+0 @I459@ INDI
+1 NAME Agatha //
+2 GIVN Agatha
+1 SEX F
+1 FAMC @F198@
+0 @I460@ INDI
+1 NAME Adeliza a_nun //
+2 GIVN Adeliza a_nun
+1 SEX F
+1 FAMC @F198@
+0 @I461@ INDI
+1 NAME Adela //
+2 GIVN Adela
+1 SEX F
+1 BIRT
+2 DATE ABT 1062
+2 PLAC Normandy, France
+1 DEAT
+2 DATE ABT 8 MAR 1137
+2 PLAC Marcigny-sur-Loire, France
+1 FAMS @F207@
+1 FAMC @F198@
+0 @I462@ INDI
+1 NAME Stephen //
+2 GIVN Stephen
+1 SEX M
+1 BIRT
+2 DATE ABT 1096
+2 PLAC Blois, France
+1 DEAT
+2 DATE 25 OCT 1154
+2 PLAC Dover Castle
+1 TITL King of England
+1 BURI
+2 PLAC Faversham Abbey
+1 FAMS @F206@
+1 FAMC @F207@
+0 @I463@ INDI
+1 NAME Matilda of_Boulogne //
+2 GIVN Matilda of_Boulogne
+1 SEX F
+1 BIRT
+2 DATE ABT 1105
+2 PLAC Boulogne
+1 DEAT
+2 DATE 3 MAY 1152
+2 PLAC Hedingham Castle, Essex, England
+1 BURI
+2 PLAC Faversham Abbey
+1 FAMS @F206@
+0 @I464@ INDI
+1 NAME Stephen Henry //
+2 GIVN Stephen Henry
+1 SEX M
+1 DEAT
+2 DATE 1102
+1 TITL Count of Blois
+1 FAMS @F207@
+0 @I465@ INDI
+1 NAME Theobald //
+2 GIVN Theobald
+1 SEX M
+1 DEAT
+2 DATE 1151
+1 TITL Count of Blois
+1 FAMS @F209@
+1 FAMC @F207@
+0 @I466@ INDI
+1 NAME Henry of_Winchester //
+2 GIVN Henry of_Winchester
+1 SEX M
+1 TITL Bishop
+1 FAMC @F207@
+0 @I467@ INDI
+1 NAME Matilda //
+2 GIVN Matilda
+1 SEX F
+1 DEAT
+2 DATE 1120
+1 FAMC @F207@
+0 @I468@ INDI
+1 NAME William //
+2 GIVN William
+1 SEX M
+1 FAMS @F208@
+1 FAMC @F207@
+0 @I469@ INDI
+1 NAME Agnes //
+2 GIVN Agnes
+1 SEX F
+1 FAMS @F208@
+0 @I470@ INDI
+1 NAME Maud //
+2 GIVN Maud
+1 SEX F
+1 FAMS @F209@
+0 @I471@ INDI
+1 NAME Matilda //
+2 GIVN Matilda
+1 SEX F
+1 FAMC @F198@
+0 @I472@ INDI
+1 NAME Constance //
+2 GIVN Constance
+1 SEX F
+1 BIRT
+2 DATE ABT 1066
+2 PLAC Normandy, France
+1 DEAT
+2 DATE 13 AUG 1090
+2 PLAC Brittany, France
+1 FAMC @F198@
+0 @I473@ INDI
+1 NAME Robert of_Gloucester //
+2 GIVN Robert of_Gloucester
+1 SEX M
+1 DEAT
+2 DATE 1147
+1 FAMC @F196@
+0 @I474@ INDI
+1 NAME Richard //
+2 GIVN Richard
+1 SEX M
+1 DEAT
+2 DATE 1120
+1 FAMC @F196@
+0 @I475@ INDI
+1 NAME William //
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE BEF 5 AUG 1103
+2 PLAC Winchester
+1 DEAT
+2 DATE 25 NOV 1120
+1 TITL Duke of Normandy
+1 FAMS @F210@
+1 FAMC @F196@
+0 @I476@ INDI
+1 NAME Isabella //
+2 GIVN Isabella
+1 SEX F
+1 FAMS @F210@
+0 @I477@ INDI
+1 NAME Alexander_I the_Fierce //
+2 GIVN Alexander_I the_Fierce
+1 SEX M
+1 BIRT
+2 DATE 1078
+1 DEAT
+2 DATE 1124
+1 TITL King of Scotland
+1 FAMS @F211@
+0 @I478@ INDI
+1 NAME Sybil //
+2 GIVN Sybil
+1 SEX F
+1 FAMS @F211@
+1 FAMC @F196@
+0 @I479@ INDI
+1 NAME Geoffrey_VI of_Anjou //
+2 GIVN Geoffrey_VI of_Anjou
+1 SEX M
+1 BIRT
+2 DATE 1134
+1 DEAT
+2 DATE 1158
+1 TITL Count of Nantes
+1 FAMC @F195@
+0 @I480@ INDI
+1 NAME William //
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 1136
+1 DEAT
+2 DATE 1164
+1 TITL Count of Poitou
+1 FAMC @F195@
+0 @I483@ INDI
+1 NAME Henry_V //
+2 GIVN Henry_V
+1 SEX M
+1 BIRT
+2 DATE 1086
+1 DEAT
+2 DATE 1125
+2 PLAC Utrecht
+1 TITL Holy Roman Emperor
+1 FAMS @F212@
+0 @I484@ INDI
+1 NAME William //
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 17 AUG 1152
+2 PLAC Normandy, England
+1 DEAT
+2 DATE ABT APR 1156
+2 PLAC Wallingford Castle, Berkshire, England
+1 FAMC @F194@
+0 @I485@ INDI
+1 NAME Henry the_Young_King //
+2 GIVN Henry the_Young_King
+1 SEX M
+1 BIRT
+2 DATE 28 FEB 1155
+2 PLAC Bermondsey
+1 DEAT
+2 DATE 11 JUN 1183
+2 PLAC Martel
+1 TITL King of England
+1 FAMS @F213@
+1 FAMC @F194@
+0 @I486@ INDI
+1 NAME Margaret of_France //
+2 GIVN Margaret of_France
+1 SEX F
+1 DEAT
+2 DATE 1198
+1 FAMS @F213@
+0 @I487@ INDI
+1 NAME Matilda (Maud) //
+2 GIVN Matilda (Maud)
+1 SEX F
+1 BIRT
+2 DATE 1156
+2 PLAC London, England
+1 DEAT
+2 DATE 28 JUN 1189
+2 PLAC Brunswick
+1 FAMS @F214@
+1 FAMC @F194@
+0 @I488@ INDI
+1 NAME Henry the_Lion //
+2 GIVN Henry the_Lion
+1 SEX M
+1 DEAT
+2 DATE 1195
+1 TITL Duke of Saxony
+1 FAMS @F214@
+0 @I489@ INDI
+1 NAME Richard_I Coeur_de_Lion //
+2 GIVN Richard_I Coeur_de_Lion
+1 SEX M
+1 BIRT
+2 DATE 1157
+2 PLAC Beaumont Palace, Oxford, England
+1 DEAT
+2 DATE 6 APR 1199
+2 PLAC Chalus, Limousin
+1 TITL King of England
+1 BURI
+2 PLAC Fontevraud Abbey
+1 FAMS @F215@
+1 FAMC @F194@
+0 @I490@ INDI
+1 NAME Berengaria of_Navarre //
+2 GIVN Berengaria of_Navarre
+1 SEX F
+1 BIRT
+2 DATE 1163
+1 DEAT
+2 DATE 1230
+1 FAMS @F215@
+0 @I491@ INDI
+1 NAME Geoffrey //
+2 GIVN Geoffrey
+1 SEX M
+1 BIRT
+2 DATE 23 SEP 1158
+1 DEAT
+2 DATE 19 AUG 1186
+2 PLAC Paris, France
+1 TITL Duke of Brittany
+1 FAMS @F216@
+1 FAMC @F194@
+0 @I492@ INDI
+1 NAME Constance of_Brittany //
+2 GIVN Constance of_Brittany
+1 SEX F
+1 DEAT
+2 DATE 1201
+1 TITL Duchess
+1 FAMS @F216@
+0 @I493@ INDI
+1 NAME Arthur //
+2 GIVN Arthur
+1 SEX M
+1 BIRT
+2 DATE 1187
+1 DEAT
+2 DATE 1203
+1 FAMC @F216@
+0 @I494@ INDI
+1 NAME Eleanor //
+2 GIVN Eleanor
+1 SEX F
+1 DEAT
+2 DATE 1241
+1 FAMC @F216@
+0 @I495@ INDI
+1 NAME Eleanor //
+2 GIVN Eleanor
+1 SEX F
+1 BIRT
+2 DATE 13 OCT 1162
+2 PLAC Domfront, Normandy
+1 DEAT
+2 DATE 31 OCT 1214
+2 PLAC Burgos
+1 FAMS @F217@
+1 FAMC @F194@
+0 @I496@ INDI
+1 NAME Alfonso_VIII //
+2 GIVN Alfonso_VIII
+1 SEX M
+1 BIRT
+2 DATE 1155
+1 DEAT
+2 DATE 1214
+1 TITL King of Castile
+1 FAMS @F217@
+0 @I497@ INDI
+1 NAME Berengaria //
+2 GIVN Berengaria
+1 SEX F
+1 BIRT
+2 DATE 1171
+1 DEAT
+2 DATE 1246
+1 FAMS @F218@
+1 FAMC @F217@
+0 @I498@ INDI
+1 NAME Alfonso_IX //
+2 GIVN Alfonso_IX
+1 SEX M
+1 DEAT
+2 DATE 1230
+1 TITL King of Castile
+1 FAMS @F218@
+0 @I499@ INDI
+1 NAME Joan /Plantagenet/
+2 GIVN Joan
+2 SURN Plantagenet
+1 SEX F
+1 BIRT
+2 DATE OCT 1165
+2 PLAC Angers
+1 DEAT
+2 DATE 4 SEP 1199
+1 FAMS @F219@
+1 FAMS @F220@
+1 FAMC @F194@
+0 @I500@ INDI
+1 NAME William_II the_Good //
+2 GIVN William_II the_Good
+1 SEX M
+1 BIRT
+2 DATE 1166
+1 DEAT
+2 DATE 18 NOV 1189
+1 TITL King of Sicily
+1 FAMS @F219@
+0 @I501@ INDI
+1 NAME Raymond_VI of_Toulouse //
+2 GIVN Raymond_VI of_Toulouse
+1 SEX M
+1 TITL Count
+1 FAMS @F220@
+0 @I503@ INDI
+1 NAME Isabella de Clare of_Gloucester //
+2 GIVN Isabella de Clare of_Gloucester
+1 SEX F
+1 DEAT
+2 DATE NOV 1217
+1 TITL Countess
+1 FAMS @F221@
+0 @I504@ INDI
+1 NAME Philippa Charlotte /Middleton/
+2 GIVN Philippa Charlotte
+2 SURN Middleton
+2 NICK Pippa
+1 SEX F
+1 BIRT
+2 DATE 6 SEP 1983
+2 PLAC Reading, England
+1 FAMS @F222@
+1 FAMC @F103@
+0 @I505@ INDI
+1 NAME James Spencer /Matthews/
+2 GIVN James Spencer
+2 SURN Matthews
+1 SEX M
+1 BIRT
+2 DATE 21 AUG 1975
+1 FAMS @F222@
+0 @I506@ INDI
+1 NAME James William /Middleton/
+2 GIVN James William
+2 SURN Middleton
+1 SEX M
+1 BIRT
+2 DATE 15 APR 1987
+2 PLAC Reading, England
+1 FAMS @F223@
+1 FAMC @F103@
+0 @I507@ INDI
+1 NAME Alizée /Thevenet/
+2 GIVN Alizée
+2 SURN Thevenet
+1 SEX F
+1 FAMS @F223@
+0 @I508@ INDI
+1 NAME Ronald James /Goldsmith/
+2 GIVN Ronald James
+2 SURN Goldsmith
+1 SEX M
+1 BIRT
+2 DATE 25 APR 1931
+1 DEAT
+2 DATE 10 SEP 2003
+1 FAMS @F224@
+1 FAMC @F226@
+0 @I509@ INDI
+1 NAME Dorothy /Harrison/
+2 GIVN Dorothy
+2 SURN Harrison
+1 SEX F
+1 BIRT
+2 DATE 26 JUN 1935
+1 DEAT
+2 DATE 21 JUL 2006
+1 FAMS @F224@
+1 FAMC @F227@
+0 @I510@ INDI
+1 NAME Frederick George /Glassborow/
+2 GIVN Frederick George
+2 SURN Glassborow
+1 SEX M
+1 BIRT
+2 DATE 17 DEC 1889
+1 DEAT
+2 DATE 10 JUN 1954
+1 FAMS @F225@
+0 @I511@ INDI
+1 NAME Constance /Robison/
+2 GIVN Constance
+2 SURN Robison
+1 SEX F
+1 BIRT
+2 DATE 27 JUN 1888
+1 DEAT
+2 DATE 19 JUL 1977
+1 FAMS @F225@
+0 @I512@ INDI
+1 NAME Stephen Charles /Goldsmith/
+2 GIVN Stephen Charles
+2 SURN Goldsmith
+1 SEX M
+1 BIRT
+2 DATE 6 NOV 1886
+1 DEAT
+2 DATE 5 JAN 1938
+1 FAMS @F226@
+0 @I513@ INDI
+1 NAME Edith Eliza /Chandler/
+2 GIVN Edith Eliza
+2 SURN Chandler
+1 SEX F
+1 BIRT
+2 DATE 21 JAN 1889
+1 DEAT Y
+1 FAMS @F226@
+0 @I514@ INDI
+1 NAME Thomas /Harrison/
+2 GIVN Thomas
+2 SURN Harrison
+1 SEX M
+1 BIRT
+2 DATE 23 JUN 1904
+1 DEAT Y
+1 FAMS @F227@
+0 @I515@ INDI
+1 NAME Elizabeth Mary /Temple/
+2 GIVN Elizabeth Mary
+2 SURN Temple
+1 SEX F
+1 BIRT
+2 DATE 20 MAY 1903
+1 DEAT Y
+1 FAMS @F227@
+0 @I516@ INDI
+1 NAME Lawrence /Palk/
+2 GIVN Lawrence
+2 SURN Palk
+1 SEX M
+1 BIRT
+2 DATE 1766
+1 DEAT
+2 DATE 1813
+1 FAMS @F228@
+0 @I517@ INDI
+1 NAME Dorothy Elizabeth /Vaughn/
+2 GIVN Dorothy Elizabeth
+2 SURN Vaughn
+1 SEX F
+1 BIRT
+2 DATE 1764
+1 DEAT
+2 DATE 1849
+1 FAMS @F228@
+1 FAMC @F229@
+0 @I518@ INDI
+1 NAME Wilmot /Vaughn/
+2 GIVN Wilmot
+2 SURN Vaughn
+1 SEX M
+1 BIRT
+2 DATE 1728
+1 DEAT
+2 DATE 1800
+1 FAMS @F229@
+1 FAMC @F230@
+0 @I519@ INDI
+1 NAME Dorothy /Shafto/
+2 GIVN Dorothy
+2 SURN Shafto
+1 SEX F
+1 BIRT
+2 DATE 1738
+1 DEAT
+2 DATE 1805
+1 FAMS @F229@
+0 @I520@ INDI
+1 NAME Wilmot /Vaughn/
+2 GIVN Wilmot
+2 SURN Vaughn
+1 SEX M
+1 BIRT
+2 DATE 1693
+1 DEAT
+2 DATE 1766
+1 FAMS @F230@
+1 FAMC @F231@
+0 @I521@ INDI
+1 NAME Elizabeth /Watson/
+2 GIVN Elizabeth
+2 SURN Watson
+1 SEX F
+1 BIRT
+2 DATE 1683
+1 DEAT
+2 DATE 1764
+1 FAMS @F230@
+0 @I522@ INDI
+1 NAME John /Vaughn/
+2 GIVN John
+2 SURN Vaughn
+1 SEX M
+1 BIRT
+2 DATE 1662
+1 DEAT Y
+1 FAMS @F231@
+0 @I523@ INDI
+1 NAME Malet /Wilmot/
+2 GIVN Malet
+2 SURN Wilmot
+1 SEX F
+1 BIRT
+2 DATE 1675
+1 DEAT
+2 DATE 1708
+1 FAMS @F231@
+1 FAMC @F232@
+0 @I524@ INDI
+1 NAME John /Wilmot/
+2 GIVN John
+2 SURN Wilmot
+1 SEX M
+1 BIRT
+2 DATE 1647
+1 DEAT
+2 DATE 1680
+1 FAMS @F232@
+1 FAMC @F233@
+0 @I525@ INDI
+1 NAME Elizabeth /Malet/
+2 GIVN Elizabeth
+2 SURN Malet
+1 SEX F
+1 BIRT
+2 DATE 1651
+1 DEAT Y
+1 FAMS @F232@
+0 @I526@ INDI
+1 NAME Henry /Wilmot/
+2 GIVN Henry
+2 SURN Wilmot
+1 SEX M
+1 BIRT
+2 DATE 1613
+1 DEAT
+2 DATE 1658
+1 FAMS @F233@
+0 @I527@ INDI
+1 NAME Anne /St. John/
+2 GIVN Anne
+2 SURN St. John
+1 SEX F
+1 BIRT
+2 DATE 1614
+1 DEAT
+2 DATE 1695
+1 FAMS @F233@
+1 FAMC @F234@
+0 @I528@ INDI
+1 NAME John /St. John/
+2 GIVN John
+2 SURN St. John
+1 SEX M
+1 BIRT
+2 DATE 1590
+1 DEAT
+2 DATE 1648
+1 FAMS @F234@
+0 @I529@ INDI
+1 NAME Anne /Leighton/
+2 GIVN Anne
+2 SURN Leighton
+1 SEX F
+1 BIRT
+2 DATE 1595
+1 DEAT
+2 DATE 1628
+1 FAMS @F234@
+1 FAMC @F235@
+0 @I530@ INDI
+1 NAME Thomas /Leighton/
+2 GIVN Thomas
+2 SURN Leighton
+1 SEX M
+1 BIRT
+2 DATE 1529
+1 DEAT
+2 DATE 1611
+1 FAMS @F235@
+0 @I531@ INDI
+1 NAME Elizabeth /Knollys/
+2 GIVN Elizabeth
+2 SURN Knollys
+1 SEX F
+1 BIRT
+2 DATE 1549
+1 DEAT
+2 DATE 1611
+1 FAMS @F235@
+0 @I532@ INDI
+1 NAME Elizabeth /Leighton/
+2 GIVN Elizabeth
+2 SURN Leighton
+1 SEX F
+1 BIRT
+2 DATE 1573
+1 DEAT
+2 DATE 1633
+1 FAMS @F236@
+1 FAMC @F235@
+0 @I533@ INDI
+1 NAME Sherrington /Talbot/
+2 GIVN Sherrington
+2 SURN Talbot
+1 SEX M
+1 BIRT
+2 DATE 1577
+1 DEAT
+2 DATE 1642
+1 FAMS @F236@
+0 @I534@ INDI
+1 NAME Sherrington /Talbot/
+2 GIVN Sherrington
+2 SURN Talbot
+1 SEX M
+1 BIRT
+2 DATE 1611
+1 DEAT
+2 DATE 1677
+1 FAMS @F237@
+1 FAMC @F236@
+0 @I535@ INDI
+1 NAME Jane /Lyttleton/
+2 GIVN Jane
+2 SURN Lyttleton
+1 SEX F
+1 BIRT
+2 DATE 1627
+1 DEAT
+2 DATE 1652
+1 FAMS @F237@
+0 @I536@ INDI
+1 NAME Elizabeth /Talbot/
+2 GIVN Elizabeth
+2 SURN Talbot
+1 SEX F
+1 BIRT
+2 DATE 1645
+1 DEAT Y
+1 FAMS @F238@
+1 FAMC @F237@
+0 @I537@ INDI
+1 NAME Henry /Davenport/
+2 GIVN Henry
+2 SURN Davenport
+1 SEX M
+1 BIRT
+2 DATE 1630
+1 DEAT
+2 DATE 1698
+1 FAMS @F238@
+0 @I538@ INDI
+1 NAME William /Davenport/
+2 GIVN William
+2 SURN Davenport
+1 SEX M
+1 BIRT
+2 DATE 1679
+1 DEAT Y
+1 FAMS @F239@
+1 FAMC @F238@
+0 @I539@ INDI
+1 NAME Grace /Alloway/
+2 GIVN Grace
+2 SURN Alloway
+1 SEX F
+1 FAMS @F239@
+0 @I540@ INDI
+1 NAME William /Davenport/
+2 GIVN William
+2 SURN Davenport
+1 SEX M
+1 BIRT
+2 DATE 1713
+1 DEAT Y
+1 FAMS @F240@
+1 FAMC @F239@
+0 @I541@ INDI
+1 NAME Elizabeth /Marshall/
+2 GIVN Elizabeth
+2 SURN Marshall
+1 SEX F
+1 BIRT
+2 DATE 1714
+1 DEAT
+2 DATE 1799
+1 FAMS @F240@
+0 @I542@ INDI
+1 NAME Sarah /Davenport/
+2 GIVN Sarah
+2 SURN Davenport
+1 SEX F
+1 BIRT
+2 DATE 1741
+1 DEAT
+2 DATE 1805
+1 FAMS @F241@
+1 FAMC @F240@
+0 @I543@ INDI
+1 NAME Thomas /Ashford/
+2 GIVN Thomas
+2 SURN Ashford
+1 SEX M
+1 BIRT
+2 DATE 1731
+1 DEAT
+2 DATE 1797
+1 FAMS @F241@
+0 @I544@ INDI
+1 NAME Elizabeth /Ashford/
+2 GIVN Elizabeth
+2 SURN Ashford
+1 SEX F
+1 BIRT
+2 DATE 1777
+1 DEAT
+2 DATE 1825
+1 FAMS @F242@
+1 FAMC @F241@
+0 @I545@ INDI
+1 NAME Robert /Hobbes/
+2 GIVN Robert
+2 SURN Hobbes
+1 SEX M
+1 BIRT
+2 DATE 1773
+1 DEAT
+2 DATE 1817
+1 FAMS @F242@
+0 @I546@ INDI
+1 NAME Christina Maria /Hobbes/
+2 GIVN Christina Maria
+2 SURN Hobbes
+1 SEX F
+1 BIRT
+2 DATE 1810
+1 DEAT
+2 DATE 1899
+1 FAMS @F243@
+1 FAMC @F242@
+0 @I547@ INDI
+1 NAME Thomas /Davis/
+2 GIVN Thomas
+2 SURN Davis
+1 SEX M
+1 BIRT
+2 DATE 1804
+1 DEAT
+2 DATE 1887
+1 FAMS @F243@
+0 @I548@ INDI
+1 NAME Francis /Lupton/
+2 GIVN Francis
+2 SURN Lupton
+1 SEX M
+1 DEAT Y
+1 FAMS @F244@
+0 @I549@ INDI
+1 NAME Harriet Albina /Davis/
+2 GIVN Harriet Albina
+2 SURN Davis
+1 SEX F
+1 BIRT
+2 DATE 1850
+1 DEAT
+2 DATE 1892
+1 FAMS @F244@
+1 FAMC @F243@
+0 @I550@ INDI
+1 NAME Henry Frederick /Stuart/
+2 GIVN Henry Frederick
+2 SURN Stuart
+1 SEX M
+1 BIRT
+2 DATE 19 FEB 1594
+2 PLAC Stirling Castle
+1 DEAT
+2 DATE 6 NOV 1612
+2 PLAC St. James Palace, London, England
+1 TITL Prince of Wales
+1 FAMC @F119@
+0 @I551@ INDI
+1 NAME Margaret /Stuart/
+2 GIVN Margaret
+2 SURN Stuart
+1 SEX F
+1 BIRT
+2 DATE 24 DEC 1598
+2 PLAC Dalkeith Palace
+1 DEAT
+2 DATE MAR 1600
+2 PLAC Linlithgow, Scotland
+1 FAMC @F119@
+0 @I552@ INDI
+1 NAME George of_Denmark //
+2 GIVN George of_Denmark
+1 SEX M
+1 BIRT
+2 DATE 2 APR 1653
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 28 OCT 1708
+2 PLAC Kensington Palace, London, England
+1 TITL Prince
+1 FAMS @F245@
+0 @I553@ INDI
+1 NAME Anne /Stuart/
+2 GIVN Anne
+2 SURN Stuart
+1 SEX F
+1 BIRT
+2 DATE 6 FEB 1665
+2 PLAC St. James Palace, London, England
+1 DEAT
+2 DATE 1 AUG 1714
+2 PLAC Kensington Palace, London, England
+1 TITL Queen of England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F245@
+1 FAMC @F246@
+0 @I554@ INDI
+1 NAME James_II /Stuart/
+2 GIVN James_II
+2 SURN Stuart
+1 SEX M
+1 BIRT
+2 DATE 14 OCT 1633
+2 PLAC St. James Palace, London, England
+1 DEAT
+2 DATE 6 SEP 1701
+2 PLAC St. Germain-en-Laye, France
+1 TITL King of England
+1 BURI
+2 PLAC St. Germain-en-Laye, France
+1 FAMS @F246@
+1 FAMS @F247@
+1 FAMC @F250@
+0 @I555@ INDI
+1 NAME Anne /Hyde/
+2 GIVN Anne
+2 SURN Hyde
+1 SEX F
+1 BIRT
+2 DATE ABT 12 MAR 1637
+2 PLAC Cranbourne Lodge, Near, Windsor, England
+1 DEAT
+2 DATE 31 MAR 1671
+2 PLAC St. James Palace, London, England
+1 FAMS @F246@
+0 @I556@ INDI
+1 NAME Charles of_Cambridge //
+2 GIVN Charles of_Cambridge
+1 SEX M
+1 BIRT
+2 DATE 22 OCT 1660
+2 PLAC Worcester House, London, England
+1 DEAT
+2 DATE 5 MAY 1661
+2 PLAC Whitehall, London, England
+1 TITL Duke
+1 FAMC @F246@
+0 @I557@ INDI
+1 NAME Mary_II //
+2 GIVN Mary_II
+1 SEX F
+1 BIRT
+2 DATE 30 APR 1662
+2 PLAC St. James Palace, London, England
+1 DEAT
+2 DATE 28 DEC 1694
+2 PLAC Kensington Palace, London, England
+1 TITL Queen of England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F253@
+1 FAMC @F246@
+0 @I558@ INDI
+1 NAME James of_Cambridge //
+2 GIVN James of_Cambridge
+1 SEX M
+1 BIRT
+2 DATE 12 JUL 1663
+2 PLAC St. James Palace, London, England
+1 DEAT
+2 DATE 22 MAY 1667
+2 PLAC St. James Palace, London, England
+1 TITL Duke
+1 FAMC @F246@
+0 @I559@ INDI
+1 NAME Charles //
+2 GIVN Charles
+1 SEX M
+1 BIRT
+2 DATE 4 JUL 1666
+2 PLAC St. James Palace, London, England
+1 DEAT
+2 DATE 20 JUN 1667
+2 PLAC Richmond Palace, London, England
+1 TITL Duke of Kendal
+1 FAMC @F246@
+0 @I560@ INDI
+1 NAME Edgar of_Cambridge //
+2 GIVN Edgar of_Cambridge
+1 SEX M
+1 BIRT
+2 DATE 14 SEP 1667
+2 PLAC St. James Palace, London, England
+1 DEAT
+2 DATE 15 NOV 1669
+2 PLAC Richmond Palace, London, England
+1 TITL Duke
+1 FAMC @F246@
+0 @I561@ INDI
+1 NAME Henrietta //
+2 GIVN Henrietta
+1 SEX F
+1 BIRT
+2 DATE 13 JAN 1669
+2 PLAC Whitehall, London, England
+1 DEAT
+2 DATE 15 NOV 1669
+2 PLAC St. James Palace, London, England
+1 FAMC @F246@
+0 @I562@ INDI
+1 NAME Catherine //
+2 GIVN Catherine
+1 SEX F
+1 BIRT
+2 DATE 9 FEB 1671
+2 PLAC Whitehall, London, England
+1 DEAT
+2 DATE 5 DEC 1671
+2 PLAC St. James Palace, London, England
+1 FAMC @F246@
+0 @I563@ INDI
+1 NAME Mary Beatrice of_Modena //
+2 GIVN Mary Beatrice of_Modena
+1 SEX F
+1 BIRT
+2 DATE 25 SEP 1658
+1 DEAT
+2 DATE 7 MAY 1718
+2 PLAC St. Germain-en-Laye, France
+1 BURI
+2 PLAC Convent of Chaillot, France
+1 FAMS @F247@
+0 @I564@ INDI
+1 NAME Catherine Laura /Stuart/
+2 GIVN Catherine Laura
+2 SURN Stuart
+1 SEX F
+1 DEAT
+2 DATE 3 OCT 1675
+2 PLAC St. James Palace, London, England
+1 FAMC @F247@
+0 @I565@ INDI
+1 NAME Charles of_Cambridge /Stuart/
+2 GIVN Charles of_Cambridge
+2 SURN Stuart
+1 SEX M
+1 BIRT
+2 DATE 7 NOV 1677
+2 PLAC St. James Palace, London, England
+1 DEAT
+2 DATE 12 DEC 1677
+2 PLAC St. James Palace, London, England
+1 TITL Duke
+1 FAMC @F247@
+0 @I566@ INDI
+1 NAME Charlotte Maria /Stuart/
+2 GIVN Charlotte Maria
+2 SURN Stuart
+1 SEX F
+1 BIRT
+2 DATE 16 AUG 1682
+2 PLAC St. James Palace, London, England
+1 DEAT
+2 DATE 6 OCT 1682
+2 PLAC St. James Palace, London, England
+1 FAMC @F247@
+0 @I567@ INDI
+1 NAME James Francis Edward /Stuart/
+2 GIVN James Francis Edward
+2 SURN Stuart
+1 SEX M
+1 BIRT
+2 DATE 10 JUN 1688
+2 PLAC St. James Palace, London, England
+1 DEAT
+2 DATE 1 JAN 1766
+2 PLAC Rome, Italy
+1 TITL Prince of Wales
+1 FAMS @F248@
+1 FAMC @F247@
+0 @I568@ INDI
+1 NAME Louisa Maria Theresa /Stuart/
+2 GIVN Louisa Maria Theresa
+2 SURN Stuart
+1 SEX F
+1 BIRT
+2 DATE 28 JUN 1692
+2 PLAC St. Germain-en-Laye, France
+1 DEAT
+2 DATE 8 APR 1712
+2 PLAC St. Germain-en-Laye, France
+1 FAMC @F247@
+0 @I569@ INDI
+1 NAME Maria Casimire Clementina /Sobieska/
+2 GIVN Maria Casimire Clementina
+2 SURN Sobieska
+1 SEX F
+1 BIRT
+2 DATE 18 JUL 1702
+1 DEAT
+2 DATE 18 JAN 1735
+2 PLAC Rome, Italy
+1 FAMS @F248@
+0 @I570@ INDI
+1 NAME Charles_I /Stuart/
+2 GIVN Charles_I
+2 SURN Stuart
+1 SEX M
+1 BIRT
+2 DATE 19 NOV 1600
+2 PLAC Dunfermline, Scotland
+1 DEAT
+2 DATE 30 JAN 1649
+2 PLAC Whitehall Palace, England
+1 TITL King of England
+1 BURI
+2 PLAC St. George's Chapel, Windsor, England
+1 FAMS @F250@
+1 FAMC @F119@
+0 @I571@ INDI
+1 NAME Henrietta Maria of_France //
+2 GIVN Henrietta Maria of_France
+1 SEX F
+1 BIRT
+2 DATE 26 NOV 1609
+2 PLAC Hotel du Louvre, Paris, France
+1 DEAT
+2 DATE 31 AUG 1669
+2 PLAC Colombe, Near Paris, France
+1 BURI
+2 PLAC St. Denis, France
+1 FAMS @F250@
+0 @I572@ INDI
+1 NAME Charles James /Stuart/
+2 GIVN Charles James
+2 SURN Stuart
+1 SEX M
+1 BIRT
+2 DATE 13 MAY 1629
+2 PLAC Greenwich Palace, London, England
+1 DEAT
+2 DATE 13 MAY 1629
+2 PLAC Greenwich Palace, London, England
+1 TITL Duke of Cornwall
+1 FAMC @F250@
+0 @I573@ INDI
+1 NAME Charles_II /Stuart/
+2 GIVN Charles_II
+2 SURN Stuart
+1 SEX M
+1 BIRT
+2 DATE 29 MAY 1630
+2 PLAC St. James Palace, London, England
+1 DEAT
+2 DATE 6 FEB 1685
+2 PLAC Whitehall Palace, England
+1 TITL King of England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F252@
+1 FAMS @F257@
+1 FAMS @F258@
+1 FAMS @F259@
+1 FAMS @F260@
+1 FAMS @F261@
+1 FAMS @F262@
+1 FAMS @F263@
+1 FAMC @F250@
+0 @I574@ INDI
+1 NAME Mary /Stuart/
+2 GIVN Mary
+2 SURN Stuart
+1 SEX F
+1 BIRT
+2 DATE 4 NOV 1631
+2 PLAC St. James Palace, London, England
+1 DEAT
+2 DATE 24 DEC 1660
+2 PLAC Whitehall Palace, England
+1 TITL Princess Royal
+1 FAMS @F249@
+1 FAMC @F250@
+0 @I575@ INDI
+1 NAME Elizabeth /Stuart/
+2 GIVN Elizabeth
+2 SURN Stuart
+1 SEX F
+1 BIRT
+2 DATE 29 DEC 1635
+2 PLAC St. James Palace, London, England
+1 DEAT
+2 DATE 8 SEP 1650
+2 PLAC Carisbrooke Castle, Isle of Wight, England
+1 FAMC @F250@
+0 @I576@ INDI
+1 NAME Anne /Stuart/
+2 GIVN Anne
+2 SURN Stuart
+1 SEX F
+1 BIRT
+2 DATE 17 MAR 1637
+2 PLAC St. James Palace, London, England
+1 DEAT
+2 DATE 5 NOV 1640
+2 PLAC Richmond Palace, London, England
+1 FAMC @F250@
+0 @I577@ INDI
+1 NAME Catherine /Stuart/
+2 GIVN Catherine
+2 SURN Stuart
+1 SEX F
+1 BIRT
+2 DATE 29 JUN 1639
+2 PLAC Whitehall Palace, England
+1 DEAT
+2 DATE 29 JUN 1639
+2 PLAC Whitehall Palace, England
+1 FAMC @F250@
+0 @I578@ INDI
+1 NAME Henry of_Gloucester /Stuart/
+2 GIVN Henry of_Gloucester
+2 SURN Stuart
+1 SEX M
+1 BIRT
+2 DATE 8 JUL 1640
+2 PLAC Oatlands, Surrey, England
+1 DEAT
+2 DATE 13 SEP 1660
+2 PLAC Whitehall Palace, England
+1 TITL Duke
+1 FAMC @F250@
+0 @I579@ INDI
+1 NAME Henrietta Anne /Stuart/
+2 GIVN Henrietta Anne
+2 SURN Stuart
+1 SEX F
+1 BIRT
+2 DATE 16 JUN 1644
+2 PLAC Bedford House, Exeter, England
+1 DEAT
+2 DATE 30 JUN 1670
+2 PLAC St. Cloud
+1 FAMS @F251@
+1 FAMC @F250@
+0 @I580@ INDI
+1 NAME William_II of_Orange //
+2 GIVN William_II of_Orange
+1 SEX M
+1 BIRT
+2 DATE 1626
+1 DEAT
+2 DATE 1650
+1 TITL Prince
+1 FAMS @F249@
+0 @I581@ INDI
+1 NAME Philippe of_Orleans //
+2 GIVN Philippe of_Orleans
+1 SEX M
+1 BIRT
+2 DATE 1641
+1 DEAT
+2 DATE 1701
+1 TITL Duke
+1 FAMS @F251@
+0 @I582@ INDI
+1 NAME Catherine of_Braganza //
+2 GIVN Catherine of_Braganza
+1 SEX F
+1 BIRT
+2 DATE 25 NOV 1638
+2 PLAC Vila Vicosa, Lisbon, Portugal
+1 DEAT
+2 DATE 31 DEC 1705
+2 PLAC Bemposta Palace, Lisbon, Portugal
+1 BURI
+2 PLAC Belem
+1 FAMS @F252@
+1 FAMC @F256@
+0 @I583@ INDI
+1 NAME William_III of_Orange /Stuart/
+2 GIVN William_III of_Orange
+2 SURN Stuart
+1 SEX M
+1 BIRT
+2 DATE 14 NOV 1650
+2 PLAC The Hague, Netherlands
+1 DEAT
+2 DATE 19 MAR 1702
+2 PLAC Kensington Palace, London, England
+1 TITL King of England
+1 BURI
+2 PLAC Westminster Abbey, London, England
+1 FAMS @F253@
+1 FAMC @F249@
+0 @I584@ INDI
+1 NAME Marie Louise //
+2 GIVN Marie Louise
+1 SEX F
+1 BIRT
+2 DATE 1662
+1 DEAT
+2 DATE 1689
+1 FAMS @F255@
+1 FAMC @F251@
+0 @I585@ INDI
+1 NAME Anna Maria //
+2 GIVN Anna Maria
+1 SEX F
+1 BIRT
+2 DATE 1669
+1 DEAT
+2 DATE 1728
+1 FAMS @F254@
+1 FAMC @F251@
+0 @I586@ INDI
+1 NAME Victor Amadeus_II //
+2 GIVN Victor Amadeus_II
+1 SEX M
+1 BIRT
+2 DATE 1666
+1 DEAT
+2 DATE 1732
+1 TITL Duke of Savoy
+1 FAMS @F254@
+0 @I587@ INDI
+1 NAME Charles_II //
+2 GIVN Charles_II
+1 SEX M
+1 BIRT
+2 DATE 1661
+1 DEAT
+2 DATE 1700
+1 TITL King of Spain
+1 FAMS @F255@
+0 @I588@ INDI
+1 NAME Robert /Stuart/
+2 GIVN Robert
+2 SURN Stuart
+1 SEX M
+1 BIRT
+2 DATE 18 JAN 1602
+2 PLAC Dunfermline, Scotland
+1 DEAT
+2 DATE 27 MAY 1602
+2 PLAC Dunfermline, Scotland
+1 TITL Duke of Kintyre
+1 FAMC @F119@
+0 @I589@ INDI
+1 NAME Son //
+2 GIVN Son
+1 SEX M
+1 BIRT
+2 DATE MAY 1603
+2 PLAC Stirling, Scotland
+1 DEAT
+2 DATE MAY 1603
+2 PLAC Stirling, Scotland
+1 FAMC @F119@
+0 @I590@ INDI
+1 NAME Mary /Stuart/
+2 GIVN Mary
+2 SURN Stuart
+1 SEX F
+1 BIRT
+2 DATE 8 APR 1605
+2 PLAC Greenwich Palace, London, England
+1 DEAT
+2 DATE 16 SEP 1607
+2 PLAC Stanwell Park, Middlesex, England
+1 FAMC @F119@
+0 @I591@ INDI
+1 NAME Sophia /Stuart/
+2 GIVN Sophia
+2 SURN Stuart
+1 SEX F
+1 BIRT
+2 DATE 22 JUN 1606
+2 PLAC Greenwich Palace, London, England
+1 DEAT
+2 DATE 23 JUN 1606
+2 PLAC Greenwich Palace, London, England
+1 FAMC @F119@
+0 @I592@ INDI
+1 NAME John_IV of Portugal //
+2 GIVN John_IV of Portugal
+1 SEX M
+1 BIRT
+2 DATE 19 MAR 1604
+1 DEAT
+2 DATE 6 NOV 1656
+1 FAMS @F256@
+0 @I593@ INDI
+1 NAME Luisa /de Guzmán/
+2 GIVN Luisa
+2 SURN de Guzmán
+1 SEX F
+1 BIRT
+2 DATE 13 OCT 1613
+1 DEAT
+2 DATE 27 FEB 1666
+1 FAMS @F256@
+0 @I594@ INDI
+1 NAME Lucy /Walter/
+2 GIVN Lucy
+2 SURN Walter
+1 SEX F
+1 FAMS @F257@
+0 @I595@ INDI
+1 NAME James /FitzRoy/
+2 GIVN James
+2 SURN FitzRoy
+1 SEX M
+1 BIRT
+2 DATE 9 APR 1649
+2 PLAC Rotterdam
+1 DEAT
+2 DATE 15 JUL 1685
+1 FAMC @F257@
+0 @I596@ INDI
+1 NAME Elizabeth /Boyle/
+2 GIVN Elizabeth
+2 SURN Boyle
+1 SEX F
+1 FAMS @F258@
+0 @I597@ INDI
+1 NAME Charlotte Jemima /FitzRoy/
+2 GIVN Charlotte Jemima
+2 SURN FitzRoy
+1 SEX F
+1 BIRT
+2 DATE 1650
+1 DEAT
+2 DATE 28 JUL 1684
+1 FAMC @F258@
+0 @I598@ INDI
+1 NAME Catherine /Pegge/
+2 GIVN Catherine
+2 SURN Pegge
+1 SEX F
+1 FAMS @F259@
+0 @I599@ INDI
+1 NAME Charles /FitzCharles/
+2 GIVN Charles
+2 SURN FitzCharles
+1 SEX M
+1 BIRT
+2 DATE 1657
+1 DEAT
+2 DATE 17 OCT 1680
+1 FAMC @F259@
+0 @I600@ INDI
+1 NAME Catherine /FitzCharles/
+2 GIVN Catherine
+2 SURN FitzCharles
+1 SEX F
+1 BIRT
+2 DATE 1658
+1 DEAT Y
+1 FAMC @F259@
+0 @I601@ INDI
+1 NAME Barbara /Villiers/
+2 GIVN Barbara
+2 SURN Villiers
+1 SEX F
+1 FAMS @F260@
+0 @I602@ INDI
+1 NAME Charles /FitzRoy/
+2 GIVN Charles
+2 SURN FitzRoy
+1 SEX M
+1 BIRT
+2 DATE 18 JUN 1662
+1 DEAT
+2 DATE 9 SEP 1730
+1 FAMC @F260@
+0 @I603@ INDI
+1 NAME Henry /FitzRoy/
+2 GIVN Henry
+2 SURN FitzRoy
+1 SEX M
+1 BIRT
+2 DATE 28 SEP 1663
+1 DEAT
+2 DATE 9 OCT 1690
+1 FAMS @F264@
+1 FAMC @F260@
+0 @I604@ INDI
+1 NAME Charlotte /FitzRoy/
+2 GIVN Charlotte
+2 SURN FitzRoy
+1 SEX F
+1 BIRT
+2 DATE 5 SEP 1664
+1 DEAT
+2 DATE 17 FEB 1718
+1 FAMC @F260@
+0 @I605@ INDI
+1 NAME George /FitzRoy/
+2 GIVN George
+2 SURN FitzRoy
+1 SEX M
+1 BIRT
+2 DATE 28 DEC 1665
+1 DEAT
+2 DATE 28 JUN 1716
+1 FAMC @F260@
+0 @I606@ INDI
+1 NAME Nell /Gwyn/
+2 GIVN Nell
+2 SURN Gwyn
+1 SEX F
+1 FAMS @F261@
+0 @I607@ INDI
+1 NAME Charles /Beauclerk/
+2 GIVN Charles
+2 SURN Beauclerk
+1 SEX M
+1 BIRT
+2 DATE 8 MAY 1670
+1 DEAT
+2 DATE 10 MAY 1726
+1 FAMC @F261@
+0 @I608@ INDI
+1 NAME Louise /de Kérouaille/
+2 GIVN Louise
+2 SURN de Kérouaille
+1 SEX F
+1 FAMS @F262@
+0 @I609@ INDI
+1 NAME Charles /Lennox/
+2 GIVN Charles
+2 SURN Lennox
+1 SEX M
+1 BIRT
+2 DATE 29 JUL 1672
+1 DEAT
+2 DATE 27 MAY 1723
+1 FAMS @F271@
+1 FAMC @F262@
+0 @I610@ INDI
+1 NAME Mary /Davies/
+2 GIVN Mary
+2 SURN Davies
+1 SEX F
+1 FAMS @F263@
+0 @I611@ INDI
+1 NAME Mary /Tudor/
+2 GIVN Mary
+2 SURN Tudor
+1 SEX F
+1 BIRT
+2 DATE 16 OCT 1673
+1 DEAT
+2 DATE 5 NOV 1726
+1 FAMC @F263@
+0 @I612@ INDI
+1 NAME Isabella /Bennet/
+2 GIVN Isabella
+2 SURN Bennet
+1 SEX F
+1 BIRT
+2 DATE 1668
+1 DEAT
+2 DATE 7 FEB 1723
+1 FAMS @F264@
+0 @I613@ INDI
+1 NAME Charles /FitzRoy/
+2 GIVN Charles
+2 SURN FitzRoy
+1 SEX M
+1 BIRT
+2 DATE 25 OCT 1683
+1 DEAT
+2 DATE 6 MAY 1757
+1 FAMS @F265@
+1 FAMC @F264@
+0 @I614@ INDI
+1 NAME Henrietta /Somerset/
+2 GIVN Henrietta
+2 SURN Somerset
+1 SEX F
+1 BIRT
+2 DATE 1690
+1 DEAT
+2 DATE 1726
+1 FAMS @F265@
+0 @I615@ INDI
+1 NAME Isabella /FitzRoy/
+2 GIVN Isabella
+2 SURN FitzRoy
+1 SEX F
+1 BIRT
+2 DATE 1726
+1 DEAT
+2 DATE 1782
+1 FAMS @F267@
+1 FAMC @F265@
+0 @I616@ INDI
+1 NAME Hugh /Seymour/
+2 GIVN Hugh
+2 SURN Seymour
+1 SEX M
+1 BIRT
+2 DATE 1759
+1 DEAT
+2 DATE 1801
+1 FAMS @F266@
+1 FAMC @F267@
+0 @I617@ INDI
+1 NAME Anna Horatia /Waldegrave/
+2 GIVN Anna Horatia
+2 SURN Waldegrave
+1 SEX F
+1 BIRT
+2 DATE 1762
+1 DEAT
+2 DATE 1801
+1 FAMS @F266@
+0 @I618@ INDI
+1 NAME Francis /Seymour/
+2 GIVN Francis
+2 SURN Seymour
+1 SEX M
+1 BIRT
+2 DATE 1718
+1 DEAT
+2 DATE 1794
+1 FAMS @F267@
+0 @I619@ INDI
+1 NAME Charles /Lennox/
+2 GIVN Charles
+2 SURN Lennox
+1 SEX M
+1 BIRT
+2 DATE 1764
+1 DEAT
+2 DATE 1819
+1 FAMS @F268@
+1 FAMC @F269@
+0 @I620@ INDI
+1 NAME Charlotte /Gordon/
+2 GIVN Charlotte
+2 SURN Gordon
+1 SEX F
+1 BIRT
+2 DATE 1768
+1 DEAT
+2 DATE 1842
+1 FAMS @F268@
+0 @I621@ INDI
+1 NAME George Henry /Lennox/
+2 GIVN George Henry
+2 SURN Lennox
+1 SEX M
+1 BIRT
+2 DATE 1737
+1 DEAT
+2 DATE 1805
+1 FAMS @F269@
+1 FAMC @F270@
+0 @I622@ INDI
+1 NAME Louisa /Kerr/
+2 GIVN Louisa
+2 SURN Kerr
+1 SEX F
+1 BIRT
+2 DATE 1747
+1 DEAT
+2 DATE 1830
+1 FAMS @F269@
+0 @I623@ INDI
+1 NAME Charles /Lennox/
+2 GIVN Charles
+2 SURN Lennox
+1 SEX M
+1 BIRT
+2 DATE 1701
+1 DEAT
+2 DATE 1750
+1 FAMS @F270@
+1 FAMC @F271@
+0 @I624@ INDI
+1 NAME Sarah of Cadogan //
+2 GIVN Sarah of Cadogan
+1 SEX F
+1 BIRT
+2 DATE 1706
+1 DEAT
+2 DATE 1751
+1 FAMS @F270@
+0 @I625@ INDI
+1 NAME Anne /Brudenell/
+2 GIVN Anne
+2 SURN Brudenell
+1 SEX F
+1 BIRT
+2 DATE 1667
+1 DEAT
+2 DATE 1722
+1 FAMS @F271@
+0 @I626@ INDI
+1 NAME Louis_IV //
+2 GIVN Louis_IV
+1 SEX M
+1 BIRT
+2 DATE 12 SEP 1837
+1 DEAT
+2 DATE 13 MAR 1892
+1 TITL Grand Duke of Hesse
+1 FAMS @F272@
+0 @I627@ INDI
+1 NAME Edward_V //
+2 GIVN Edward_V
+1 SEX M
+1 BIRT
+2 DATE 2 NOV 1470
+1 DEAT
+2 DATE 1483
+1 FAMC @F130@
+0 @I628@ INDI
+1 NAME John /Beaufort/
+2 GIVN John
+2 SURN Beaufort
+1 SEX M
+1 BIRT
+2 DATE 1373
+1 DEAT
+2 DATE 16 MAR 1410
+1 FAMS @F163@
+1 FAMC @F273@
+0 @I629@ INDI
+1 NAME Katherine /Swynford/
+2 GIVN Katherine
+2 SURN Swynford
+1 SEX F
+1 BIRT
+2 DATE 1349
+1 DEAT
+2 DATE 10 MAY 1403
+1 FAMS @F273@
+0 @I630@ INDI
+1 NAME Margaret /Beaufort/
+2 GIVN Margaret
+2 SURN Beaufort
+1 SEX F
+1 BIRT
+2 DATE 1409
+1 DEAT
+2 DATE 1449
+1 FAMC @F163@
+0 @I631@ INDI
+1 NAME Joan of Kent //
+2 GIVN Joan of Kent
+1 SEX F
+1 BIRT
+2 DATE ABT 1326
+1 DEAT
+2 DATE 7 AUG 1385
+1 FAMS @F274@
+0 @I633@ INDI
+1 NAME Isabella of Castile //
+2 GIVN Isabella of Castile
+1 SEX F
+1 BIRT
+2 DATE 1355
+1 DEAT
+2 DATE 23 DEC 1392
+1 FAMS @F275@
+0 @I634@ INDI
+1 NAME Richard of Conisbrough //
+2 GIVN Richard of Conisbrough
+1 SEX M
+1 BIRT
+2 DATE 20 JUL 1385
+2 PLAC Yorkshire, England
+1 DEAT
+2 DATE 5 AUG 1415
+2 PLAC Southhampton, England
+1 FAMS @F276@
+1 FAMC @F275@
+0 @I635@ INDI
+1 NAME Anne de Mortimer //
+2 GIVN Anne de Mortimer
+1 SEX F
+1 BIRT
+2 DATE 27 DEC 1388
+1 DEAT
+2 DATE 22 SEP 1411
+1 FAMS @F276@
+0 @I636@ INDI
+1 NAME Richard of York //
+2 GIVN Richard of York
+1 SEX M
+1 BIRT
+2 DATE 21 SEP 1411
+2 PLAC Yorkshire, England
+1 DEAT
+2 DATE 30 DEC 1460
+2 PLAC Yorkshire, England
+1 FAMS @F277@
+1 FAMC @F276@
+0 @I637@ INDI
+1 NAME Cecily /Neville/
+2 GIVN Cecily
+2 SURN Neville
+1 SEX F
+1 BIRT
+2 DATE 3 MAY 1415
+1 DEAT
+2 DATE 31 MAY 1495
+1 FAMS @F277@
+0 @I638@ INDI
+1 NAME Richard_III //
+2 GIVN Richard_III
+1 SEX M
+1 BIRT
+2 DATE 2 OCT 1452
+2 PLAC Northamptonshire, England
+1 DEAT
+2 DATE 22 AUG 1485
+2 PLAC Leicestershire, England
+1 FAMC @F277@
+0 @I639@ INDI
+1 NAME Margaret of England //
+2 GIVN Margaret of England
+1 SEX F
+1 BIRT
+2 DATE 29 SEP 1240
+2 PLAC Windsor Castle, Windsor, Berkshire, England
+1 DEAT
+2 DATE 26 FEB 1275
+2 PLAC Fife, Scotland
+1 FAMS @F278@
+1 FAMC @F189@
+0 @I640@ INDI
+1 NAME Alexander III of Scotland //
+2 GIVN Alexander III of Scotland
+1 SEX M
+1 BIRT
+2 DATE 4 SEP 1241
+1 DEAT
+2 DATE 19 MAR 1286
+1 FAMS @F278@
+0 @I641@ INDI
+1 NAME George_IV /Hanover/
+2 GIVN George_IV
+2 SURN Hanover
+1 SEX M
+1 BIRT
+2 DATE 12 AUG 1762
+1 DEAT
+2 DATE 26 JUN 1830
+1 FAMC @F32@
+0 @I642@ INDI
+1 NAME William IV /Hanover/
+2 GIVN William IV
+2 SURN Hanover
+1 SEX M
+1 BIRT
+2 DATE 21 AUG 1765
+1 DEAT
+2 DATE 20 JUN 1837
+1 FAMC @F32@
+0 @I643@ INDI
+1 NAME Charles Louis Frederick //
+2 GIVN Charles Louis Frederick
+1 SEX M
+1 BIRT
+2 DATE 10 OCT 1741
+1 DEAT
+2 DATE 6 NOV 1816
+1 TITL Charles II, Grand Duke of Mecklenburg-Strelitz
+1 FAMS @F279@
+1 FAMC @F113@
+0 @I644@ INDI
+1 NAME Princess Friederike Caroline Luise of Hesse-Darmstadt //
+2 GIVN Princess Friederike Caroline Luise of Hesse-Darmstadt
+1 SEX F
+1 BIRT
+2 DATE 20 AUG 1752
+1 DEAT
+2 DATE 22 MAY 1782
+1 FAMS @F279@
+0 @I645@ INDI
+1 NAME Friederike Louise Caroline Sophie Alexandrine //
+2 GIVN Friederike Louise Caroline Sophie Alexandrine
+1 SEX F
+1 BIRT
+2 DATE 3 MAR 1778
+1 DEAT
+2 DATE 29 JUN 1841
+1 TITL Frederica of Mecklenburg-Strelitz
+1 FAMS @F281@
+1 FAMC @F279@
+0 @I646@ INDI
+1 NAME Ernst August /Hanover/
+2 GIVN Ernst August
+2 SURN Hanover
+1 SEX M
+1 BIRT
+2 DATE 5 JUN 1771
+1 DEAT
+2 DATE 18 NOV 1851
+1 TITL Ernest Augustus, King of Hanover
+1 FAMS @F281@
+1 FAMC @F32@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 CHIL @I4@
+1 MARR
+2 DATE 26 APR 1923
+0 @F2@ FAM
+1 HUSB @I5@
+1 WIFE @I4@
+1 CHIL @I6@
+1 CHIL @I7@
+1 MARR
+2 DATE 6 MAY 1960
+2 PLAC Westminster Cathedral, London, England
+0 @F3@ FAM
+1 HUSB @I8@
+1 WIFE @I3@
+1 CHIL @I9@
+1 CHIL @I10@
+1 CHIL @I11@
+1 CHIL @I12@
+1 MARR
+2 DATE 20 NOV 1947
+2 PLAC Westminster Abbey, London, England
+0 @F4@ FAM
+1 HUSB @I13@
+1 WIFE @I10@
+1 CHIL @I14@
+1 CHIL @I15@
+1 MARR
+2 DATE 14 NOV 1973
+2 PLAC Westminster Abbey, London, England
+1 DIV
+2 DATE 23 APR 1992
+0 @F5@ FAM
+1 HUSB @I9@
+1 WIFE @I16@
+1 CHIL @I17@
+1 CHIL @I18@
+1 MARR
+2 DATE 29 JUL 1981
+2 PLAC St. Paul's Cathedral, London, England
+1 EVEN
+2 TYPE Separation
+2 DATE DEC 1992
+1 DIV
+2 DATE 28 AUG 1996
+0 @F6@ FAM
+1 HUSB @I11@
+1 WIFE @I19@
+1 CHIL @I20@
+1 CHIL @I21@
+1 MARR
+2 DATE 23 JUL 1986
+2 PLAC Westminster Abbey, London, England
+1 EVEN
+2 TYPE Separation
+2 DATE 9 MAR 1992
+1 DIV
+2 DATE 30 MAY 1996
+0 @F7@ FAM
+1 HUSB @I5@
+1 CHIL @I22@
+1 MARR
+2 DATE 17 DEC 1978
+0 @F8@ FAM
+1 HUSB @I9@
+1 WIFE @I23@
+1 ENGA
+2 DATE 10 FEB 2005
+1 MARR
+2 DATE 9 APR 2005
+2 PLAC London, England
+0 @F9@ FAM
+1 HUSB @I17@
+1 WIFE @I24@
+1 CHIL @I25@
+1 CHIL @I26@
+1 CHIL @I27@
+1 MARR
+2 DATE 29 APR 2011
+2 PLAC London, England
+0 @F10@ FAM
+1 HUSB @I18@
+1 WIFE @I28@
+1 CHIL @I29@
+1 CHIL @I30@
+1 MARR
+2 DATE 19 MAY 2018
+2 PLAC London, England
+0 @F11@ FAM
+1 HUSB @I31@
+1 WIFE @I10@
+1 MARR
+2 DATE 12 DEC 1992
+2 PLAC Balmoral, Scotland
+0 @F12@ FAM
+1 HUSB @I12@
+1 WIFE @I32@
+1 CHIL @I33@
+1 CHIL @I34@
+1 MARR
+2 DATE 19 JUN 1999
+2 PLAC London, England
+0 @F13@ FAM
+1 HUSB @I35@
+1 WIFE @I20@
+1 CHIL @I36@
+1 MARR
+2 DATE 2020
+0 @F14@ FAM
+1 HUSB @I37@
+1 WIFE @I21@
+1 CHIL @I38@
+1 MARR
+2 DATE 12 OCT 2018
+0 @F15@ FAM
+1 HUSB @I14@
+1 WIFE @I39@
+1 CHIL @I41@
+1 CHIL @I40@
+1 MARR
+2 DATE 2008
+1 DIV
+2 DATE 2021
+0 @F16@ FAM
+1 HUSB @I42@
+1 WIFE @I15@
+1 CHIL @I43@
+1 CHIL @I44@
+1 CHIL @I45@
+1 MARR
+2 DATE 2011
+0 @F17@ FAM
+1 HUSB @I35@
+1 WIFE @I46@
+1 CHIL @I47@
+0 @F18@ FAM
+1 HUSB @I48@
+1 WIFE @I49@
+1 CHIL @I35@
+0 @F21@ FAM
+1 HUSB @I56@
+1 WIFE @I57@
+1 CHIL @I28@
+0 @F22@ FAM
+1 HUSB @I58@
+1 WIFE @I64@
+1 CHIL @I231@
+1 CHIL @I232@
+1 CHIL @I233@
+1 CHIL @I234@
+1 CHIL @I8@
+1 MARR
+2 DATE 1903
+0 @F24@ FAM
+1 HUSB @I63@
+1 WIFE @I62@
+1 CHIL @I64@
+1 MARR
+2 DATE 1884
+0 @F29@ FAM
+1 HUSB @I71@
+1 WIFE @I72@
+1 CHIL @I82@
+1 CHIL @I81@
+1 MARR
+2 DATE 1777
+0 @F30@ FAM
+1 HUSB @I74@
+1 WIFE @I73@
+1 CHIL @I249@
+1 CHIL @I75@
+1 CHIL @I250@
+1 CHIL @I251@
+1 CHIL @I252@
+1 CHIL @I253@
+1 CHIL @I254@
+1 CHIL @I255@
+1 MARR
+2 DATE 10 FEB 1840
+2 PLAC Chapel Royal, St. James, England
+0 @F31@ FAM
+1 HUSB @I75@
+1 WIFE @I76@
+1 CHIL @I244@
+1 CHIL @I77@
+1 CHIL @I245@
+1 CHIL @I246@
+1 CHIL @I247@
+1 CHIL @I248@
+1 MARR
+2 DATE 10 MAR 1863
+2 PLAC St. George's Chapel, Windsor, England
+0 @F32@ FAM
+1 HUSB @I78@
+1 WIFE @I79@
+1 CHIL @I80@
+1 CHIL @I641@
+1 CHIL @I642@
+1 CHIL @I646@
+0 @F33@ FAM
+1 HUSB @I80@
+1 WIFE @I81@
+1 CHIL @I73@
+1 MARR
+2 DATE 11 JUL 1818
+2 PLAC Kew Palace
+0 @F34@ FAM
+1 HUSB @I82@
+1 WIFE @I83@
+1 CHIL @I256@
+1 CHIL @I74@
+1 MARR
+2 DATE 31 JUL 1817
+2 PLAC Gotha
+1 DIV
+0 @F35@ FAM
+1 HUSB @I84@
+1 WIFE @I85@
+1 CHIL @I76@
+1 MARR
+2 DATE 1842
+0 @F36@ FAM
+1 HUSB @I86@
+1 WIFE @I87@
+1 CHIL @I85@
+1 MARR
+2 DATE 1810
+0 @F38@ FAM
+1 HUSB @I89@
+1 WIFE @I90@
+1 CHIL @I84@
+1 MARR
+2 DATE 1810
+0 @F39@ FAM
+1 HUSB @I77@
+1 WIFE @I95@
+1 CHIL @I238@
+1 CHIL @I1@
+1 CHIL @I240@
+1 CHIL @I241@
+1 CHIL @I242@
+1 CHIL @I243@
+0 @F44@ FAM
+1 HUSB @I101@
+1 WIFE @I100@
+1 CHIL @I95@
+0 @F51@ FAM
+1 HUSB @I113@
+1 WIFE @I114@
+1 CHIL @I112@
+0 @F52@ FAM
+1 HUSB @I115@
+1 WIFE @I118@
+1 CHIL @I113@
+1 MARR
+0 @F53@ FAM
+1 HUSB @I116@
+1 WIFE @I117@
+1 CHIL @I114@
+0 @F54@ FAM
+1 HUSB @I119@
+1 WIFE @I120@
+1 CHIL @I115@
+1 MARR
+0 @F55@ FAM
+1 HUSB @I121@
+1 WIFE @I122@
+1 CHIL @I119@
+1 MARR
+0 @F56@ FAM
+1 HUSB @I123@
+1 WIFE @I124@
+1 CHIL @I117@
+1 MARR
+0 @F57@ FAM
+1 HUSB @I125@
+1 WIFE @I126@
+1 CHIL @I123@
+1 MARR
+0 @F58@ FAM
+1 HUSB @I127@
+1 WIFE @I128@
+1 CHIL @I124@
+1 MARR
+0 @F59@ FAM
+1 HUSB @I130@
+1 WIFE @I129@
+1 CHIL @I131@
+1 MARR
+0 @F60@ FAM
+1 HUSB @I132@
+1 WIFE @I131@
+1 CHIL @I116@
+1 MARR
+0 @F61@ FAM
+1 HUSB @I112@
+1 WIFE @I136@
+1 CHIL @I2@
+0 @F62@ FAM
+1 HUSB @I133@
+1 WIFE @I147@
+1 CHIL @I140@
+1 MARR
+0 @F63@ FAM
+1 HUSB @I134@
+1 WIFE @I135@
+1 CHIL @I133@
+0 @F64@ FAM
+1 HUSB @I137@
+1 WIFE @I138@
+1 CHIL @I136@
+0 @F65@ FAM
+1 HUSB @I139@
+1 WIFE @I140@
+1 CHIL @I137@
+0 @F66@ FAM
+1 HUSB @I141@
+1 WIFE @I142@
+1 CHIL @I138@
+0 @F67@ FAM
+1 HUSB @I144@
+1 WIFE @I143@
+1 CHIL @I145@
+1 MARR
+0 @F68@ FAM
+1 HUSB @I146@
+1 WIFE @I145@
+1 CHIL @I139@
+1 MARR
+0 @F69@ FAM
+1 HUSB @I148@
+1 WIFE @I149@
+1 CHIL @I146@
+1 MARR
+0 @F70@ FAM
+1 HUSB @I151@
+1 WIFE @I152@
+1 CHIL @I150@
+0 @F71@ FAM
+1 HUSB @I153@
+1 WIFE @I154@
+1 CHIL @I152@
+0 @F72@ FAM
+1 HUSB @I155@
+1 WIFE @I156@
+1 CHIL @I153@
+0 @F73@ FAM
+1 HUSB @I157@
+1 WIFE @I158@
+1 CHIL @I154@
+0 @F74@ FAM
+1 HUSB @I159@
+1 WIFE @I160@
+1 CHIL @I151@
+0 @F75@ FAM
+1 HUSB @I161@
+1 WIFE @I162@
+1 CHIL @I159@
+0 @F76@ FAM
+1 HUSB @I163@
+1 WIFE @I164@
+1 CHIL @I160@
+0 @F77@ FAM
+1 HUSB @I165@
+1 WIFE @I166@
+1 CHIL @I164@
+0 @F78@ FAM
+1 HUSB @I167@
+1 WIFE @I168@
+1 CHIL @I162@
+0 @F79@ FAM
+1 HUSB @I169@
+1 WIFE @I170@
+1 CHIL @I161@
+0 @F80@ FAM
+1 HUSB @I171@
+1 WIFE @I172@
+1 CHIL @I163@
+0 @F81@ FAM
+1 WIFE @I174@
+1 CHIL @I156@
+0 @F82@ FAM
+1 WIFE @I175@
+1 CHIL @I155@
+0 @F83@ FAM
+1 HUSB @I177@
+1 WIFE @I178@
+1 CHIL @I157@
+0 @F84@ FAM
+1 HUSB @I180@
+1 WIFE @I179@
+1 CHIL @I158@
+0 @F85@ FAM
+1 HUSB @I150@
+1 WIFE @I181@
+1 CHIL @I212@
+1 CHIL @I213@
+1 CHIL @I16@
+1 CHIL @I214@
+1 CHIL @I215@
+0 @F86@ FAM
+1 HUSB @I182@
+1 WIFE @I183@
+1 CHIL @I181@
+0 @F87@ FAM
+1 HUSB @I184@
+1 WIFE @I185@
+1 CHIL @I182@
+0 @F88@ FAM
+1 HUSB @I186@
+1 WIFE @I187@
+1 CHIL @I185@
+0 @F89@ FAM
+1 HUSB @I188@
+1 WIFE @I189@
+1 CHIL @I187@
+0 @F90@ FAM
+1 HUSB @I190@
+1 WIFE @I191@
+1 CHIL @I186@
+0 @F91@ FAM
+1 HUSB @I192@
+1 WIFE @I193@
+1 CHIL @I184@
+0 @F92@ FAM
+1 HUSB @I194@
+1 WIFE @I195@
+1 CHIL @I193@
+0 @F93@ FAM
+1 HUSB @I196@
+1 WIFE @I197@
+1 CHIL @I192@
+0 @F94@ FAM
+1 HUSB @I198@
+1 WIFE @I199@
+1 CHIL @I183@
+0 @F95@ FAM
+1 HUSB @I200@
+1 WIFE @I201@
+1 CHIL @I198@
+0 @F96@ FAM
+1 HUSB @I202@
+1 WIFE @I203@
+1 CHIL @I199@
+0 @F97@ FAM
+1 HUSB @I204@
+1 WIFE @I205@
+1 CHIL @I200@
+0 @F98@ FAM
+1 HUSB @I206@
+1 WIFE @I207@
+1 CHIL @I201@
+0 @F99@ FAM
+1 HUSB @I208@
+1 WIFE @I209@
+1 CHIL @I202@
+0 @F100@ FAM
+1 HUSB @I210@
+1 WIFE @I211@
+1 CHIL @I203@
+0 @F101@ FAM
+1 HUSB @I218@
+1 WIFE @I217@
+1 CHIL @I216@
+0 @F102@ FAM
+1 HUSB @I219@
+1 WIFE @I220@
+1 CHIL @I218@
+0 @F103@ FAM
+1 HUSB @I216@
+1 WIFE @I221@
+1 CHIL @I24@
+1 CHIL @I504@
+1 CHIL @I506@
+0 @F104@ FAM
+1 HUSB @I222@
+1 WIFE @I223@
+1 CHIL @I23@
+0 @F105@ FAM
+1 HUSB @I224@
+1 WIFE @I225@
+1 CHIL @I223@
+0 @F106@ FAM
+1 HUSB @I226@
+1 WIFE @I227@
+1 CHIL @I222@
+0 @F107@ FAM
+1 HUSB @I228@
+1 WIFE @I23@
+1 CHIL @I229@
+1 CHIL @I230@
+1 MARR
+2 DATE 1973
+1 DIV
+2 DATE 1995
+0 @F108@ FAM
+1 HUSB @I235@
+1 WIFE @I236@
+1 CHIL @I58@
+0 @F109@ FAM
+1 HUSB @I238@
+1 WIFE @I239@
+1 MARR
+2 DATE 3 JUN 1937
+2 PLAC Chateau de Cande, Monts, France
+0 @F110@ FAM
+1 HUSB @I257@
+1 WIFE @I258@
+1 CHIL @I71@
+0 @F111@ FAM
+1 HUSB @I259@
+1 WIFE @I260@
+1 CHIL @I72@
+0 @F112@ FAM
+1 HUSB @I261@
+1 WIFE @I262@
+1 CHIL @I78@
+1 MARR
+2 DATE 1736
+0 @F113@ FAM
+1 HUSB @I263@
+1 WIFE @I264@
+1 CHIL @I79@
+1 CHIL @I643@
+1 MARR
+2 DATE 1735
+0 @F114@ FAM
+1 HUSB @I265@
+1 WIFE @I266@
+1 CHIL @I261@
+0 @F115@ FAM
+1 HUSB @I267@
+1 WIFE @I268@
+1 CHIL @I262@
+0 @F116@ FAM
+1 HUSB @I269@
+1 WIFE @I270@
+1 CHIL @I265@
+0 @F117@ FAM
+1 HUSB @I271@
+1 WIFE @I272@
+1 CHIL @I269@
+0 @F118@ FAM
+1 HUSB @I273@
+1 WIFE @I274@
+1 CHIL @I272@
+0 @F119@ FAM
+1 HUSB @I275@
+1 WIFE @I276@
+1 CHIL @I274@
+1 CHIL @I550@
+1 CHIL @I551@
+1 CHIL @I570@
+1 CHIL @I588@
+1 CHIL @I589@
+1 CHIL @I590@
+1 CHIL @I591@
+0 @F120@ FAM
+1 HUSB @I277@
+1 WIFE @I278@
+1 CHIL @I275@
+0 @F121@ FAM
+1 HUSB @I279@
+1 WIFE @I280@
+1 CHIL @I276@
+0 @F122@ FAM
+1 HUSB @I281@
+1 WIFE @I282@
+1 CHIL @I277@
+0 @F123@ FAM
+1 HUSB @I283@
+1 WIFE @I284@
+1 CHIL @I278@
+0 @F124@ FAM
+1 HUSB @I285@
+1 WIFE @I286@
+1 CHIL @I283@
+0 @F125@ FAM
+1 HUSB @I287@
+1 WIFE @I288@
+1 CHIL @I285@
+1 CHIL @I295@
+1 CHIL @I296@
+0 @F126@ FAM
+1 HUSB @I289@
+1 WIFE @I290@
+1 CHIL @I301@
+1 CHIL @I286@
+1 CHIL @I339@
+1 CHIL @I303@
+1 CHIL @I306@
+1 CHIL @I304@
+1 CHIL @I305@
+0 @F127@ FAM
+1 HUSB @I291@
+1 WIFE @I292@
+1 CHIL @I287@
+0 @F128@ FAM
+1 HUSB @I293@
+1 WIFE @I294@
+1 CHIL @I288@
+0 @F129@ FAM
+1 HUSB @I297@
+1 WIFE @I298@
+1 CHIL @I289@
+0 @F130@ FAM
+1 HUSB @I299@
+1 WIFE @I300@
+1 CHIL @I290@
+1 CHIL @I627@
+0 @F132@ FAM
+1 HUSB @I307@
+1 WIFE @I306@
+1 MARR
+2 DATE 9 OCT 1514
+2 PLAC Abbeville
+0 @F133@ FAM
+1 HUSB @I308@
+1 WIFE @I306@
+1 CHIL @I311@
+1 CHIL @I312@
+1 CHIL @I313@
+1 MARR
+2 DATE 3 MAR 1515
+2 PLAC Paris, France
+0 @F134@ FAM
+1 HUSB @I310@
+1 WIFE @I309@
+1 MARR
+2 DATE 21 MAY 1553
+2 PLAC Durham House, London, England
+0 @F135@ FAM
+1 HUSB @I314@
+1 WIFE @I312@
+1 CHIL @I309@
+1 CHIL @I320@
+1 CHIL @I321@
+0 @F136@ FAM
+1 HUSB @I316@
+1 WIFE @I315@
+0 @F137@ FAM
+1 HUSB @I316@
+1 WIFE @I317@
+0 @F138@ FAM
+1 HUSB @I318@
+1 WIFE @I313@
+1 CHIL @I329@
+0 @F139@ FAM
+1 HUSB @I319@
+1 WIFE @I312@
+0 @F140@ FAM
+1 HUSB @I322@
+1 WIFE @I320@
+1 CHIL @I323@
+1 CHIL @I324@
+0 @F141@ FAM
+1 HUSB @I324@
+1 WIFE @I325@
+0 @F142@ FAM
+1 HUSB @I323@
+1 WIFE @I326@
+1 CHIL @I316@
+1 CHIL @I331@
+1 CHIL @I332@
+1 CHIL @I333@
+0 @F143@ FAM
+1 HUSB @I327@
+1 WIFE @I320@
+1 DIV
+0 @F144@ FAM
+1 HUSB @I328@
+1 WIFE @I321@
+0 @F145@ FAM
+1 HUSB @I330@
+1 WIFE @I329@
+0 @F146@ FAM
+1 HUSB @I331@
+1 WIFE @I334@
+0 @F147@ FAM
+1 HUSB @I332@
+1 WIFE @I335@
+0 @F148@ FAM
+1 HUSB @I332@
+1 WIFE @I336@
+0 @F149@ FAM
+1 HUSB @I337@
+1 WIFE @I338@
+1 CHIL @I307@
+0 @F150@ FAM
+1 HUSB @I339@
+1 WIFE @I340@
+1 CHIL @I341@
+1 CHIL @I342@
+1 CHIL @I343@
+1 CHIL @I344@
+1 CHIL @I345@
+1 CHIL @I346@
+1 MARR
+2 DATE 11 JUN 1509
+2 PLAC Grey Friars, Church, London, England
+1 DIV
+0 @F151@ FAM
+1 HUSB @I339@
+1 WIFE @I347@
+1 CHIL @I348@
+1 CHIL @I349@
+1 MARR
+2 DATE 25 JAN 1533
+2 PLAC Westminster, London, England
+0 @F152@ FAM
+1 HUSB @I339@
+1 WIFE @I350@
+1 CHIL @I351@
+1 MARR
+2 DATE 30 MAY 1536
+2 PLAC York Place, England
+0 @F153@ FAM
+1 HUSB @I339@
+1 WIFE @I352@
+1 MARR
+2 DATE 6 JAN 1540
+2 PLAC Greenwich, England
+1 DIV
+0 @F154@ FAM
+1 HUSB @I339@
+1 WIFE @I353@
+1 MARR
+2 DATE 28 JUL 1540
+2 PLAC Hampton Court Palace, England
+0 @F155@ FAM
+1 HUSB @I339@
+1 WIFE @I354@
+1 MARR
+2 DATE 12 JUL 1543
+2 PLAC Hampton Court Palace, England
+0 @F156@ FAM
+1 HUSB @I355@
+1 WIFE @I345@
+1 MARR
+2 DATE 25 JUL 1554
+2 PLAC Winchester Cathedral, England
+0 @F157@ FAM
+1 HUSB @I356@
+1 WIFE @I357@
+1 CHIL @I355@
+0 @F158@ FAM
+1 HUSB @I358@
+1 WIFE @I359@
+1 CHIL @I340@
+0 @F159@ FAM
+1 HUSB @I301@
+1 WIFE @I340@
+1 MARR
+2 DATE 14 NOV 1501
+0 @F160@ FAM
+1 HUSB @I361@
+1 CHIL @I360@
+0 @F161@ FAM
+1 HUSB @I360@
+1 WIFE @I362@
+1 CHIL @I392@
+1 CHIL @I297@
+0 @F162@ FAM
+1 HUSB @I364@
+1 WIFE @I363@
+1 CHIL @I383@
+1 CHIL @I362@
+1 CHIL @I384@
+1 MARR
+2 DATE 17 JUL 1385
+0 @F163@ FAM
+1 HUSB @I628@
+1 WIFE @I367@
+1 CHIL @I366@
+1 CHIL @I630@
+0 @F164@ FAM
+1 HUSB @I366@
+1 WIFE @I368@
+1 CHIL @I298@
+0 @F165@ FAM
+1 HUSB @I370@
+1 WIFE @I371@
+1 CHIL @I369@
+0 @F166@ FAM
+1 HUSB @I369@
+1 WIFE @I372@
+1 CHIL @I299@
+0 @F167@ FAM
+1 HUSB @I373@
+1 WIFE @I374@
+1 CHIL @I372@
+0 @F168@ FAM
+1 HUSB @I375@
+1 WIFE @I376@
+1 CHIL @I300@
+0 @F169@ FAM
+1 HUSB @I377@
+1 CHIL @I376@
+0 @F170@ FAM
+1 HUSB @I378@
+1 WIFE @I380@
+1 CHIL @I379@
+1 MARR
+2 DATE 28 JUL 1332
+0 @F171@ FAM
+1 HUSB @I379@
+1 WIFE @I381@
+1 CHIL @I364@
+0 @F172@ FAM
+1 HUSB @I382@
+1 WIFE @I383@
+1 MARR
+2 DATE 1 NOV 1396
+2 PLAC Calais
+0 @F173@ FAM
+1 HUSB @I389@
+1 WIFE @I391@
+1 MARR
+2 DATE 6 DEC 1491
+0 @F174@ FAM
+1 HUSB @I384@
+1 WIFE @I385@
+1 CHIL @I386@
+1 MARR
+2 DATE 18 DEC 1422
+0 @F175@ FAM
+1 HUSB @I386@
+1 WIFE @I387@
+1 MARR
+2 DATE 24 JUN 1436
+0 @F176@ FAM
+1 HUSB @I386@
+1 WIFE @I388@
+1 CHIL @I390@
+1 CHIL @I389@
+1 MARR
+2 DATE 14 FEB 1457
+0 @F177@ FAM
+1 HUSB @I392@
+1 WIFE @I393@
+0 @F178@ FAM
+1 HUSB @I399@
+1 WIFE @I362@
+1 CHIL @I397@
+0 @F179@ FAM
+1 HUSB @I396@
+1 WIFE @I395@
+1 MARR
+2 DATE AUG 1470
+2 PLAC Amboise
+0 @F180@ FAM
+1 HUSB @I397@
+1 WIFE @I398@
+1 CHIL @I396@
+1 MARR
+2 DATE 22 APR 1445
+2 PLAC Titchfield Abbey, Hants
+0 @F181@ FAM
+1 HUSB @I400@
+1 WIFE @I401@
+1 CHIL @I399@
+1 MARR
+2 DATE ABT 1380
+2 PLAC Arundel Castle
+0 @F182@ FAM
+1 HUSB @I402@
+1 CHIL @I401@
+0 @F183@ FAM
+1 HUSB @I403@
+1 WIFE @I404@
+1 CHIL @I409@
+1 CHIL @I410@
+1 CHIL @I411@
+1 CHIL @I412@
+1 CHIL @I413@
+1 CHIL @I405@
+1 CHIL @I414@
+1 CHIL @I415@
+1 CHIL @I416@
+1 CHIL @I417@
+1 CHIL @I418@
+1 CHIL @I419@
+1 MARR
+2 DATE 24 JAN 1328
+2 PLAC York Minster
+0 @F184@ FAM
+1 HUSB @I405@
+1 WIFE @I406@
+1 CHIL @I400@
+0 @F185@ FAM
+1 HUSB @I407@
+1 WIFE @I408@
+1 CHIL @I406@
+0 @F186@ FAM
+1 HUSB @I420@
+1 CHIL @I404@
+0 @F187@ FAM
+1 HUSB @I421@
+1 WIFE @I422@
+1 CHIL @I403@
+0 @F188@ FAM
+1 HUSB @I423@
+1 WIFE @I424@
+1 CHIL @I422@
+1 MARR
+2 DATE 1284
+0 @F189@ FAM
+1 HUSB @I426@
+1 WIFE @I427@
+1 CHIL @I425@
+1 CHIL @I639@
+1 MARR
+2 DATE 4 JAN 1236
+2 PLAC Canterbury Cathedral
+0 @F190@ FAM
+1 HUSB @I425@
+1 WIFE @I428@
+1 CHIL @I421@
+0 @F191@ FAM
+1 HUSB @I429@
+1 CHIL @I428@
+0 @F192@ FAM
+1 HUSB @I431@
+1 WIFE @I430@
+1 CHIL @I432@
+0 @F193@ FAM
+1 HUSB @I433@
+1 WIFE @I432@
+1 CHIL @I426@
+0 @F194@ FAM
+1 HUSB @I434@
+1 WIFE @I435@
+1 CHIL @I484@
+1 CHIL @I485@
+1 CHIL @I487@
+1 CHIL @I489@
+1 CHIL @I491@
+1 CHIL @I495@
+1 CHIL @I499@
+1 CHIL @I433@
+1 MARR
+2 DATE 18 MAY 1152
+2 PLAC Bordeaux, France
+0 @F195@ FAM
+1 HUSB @I436@
+1 WIFE @I439@
+1 CHIL @I434@
+1 CHIL @I479@
+1 CHIL @I480@
+1 MARR
+2 DATE 1127
+0 @F196@ FAM
+1 HUSB @I437@
+1 WIFE @I438@
+1 CHIL @I473@
+1 CHIL @I474@
+1 CHIL @I475@
+1 CHIL @I439@
+1 CHIL @I478@
+1 MARR
+2 DATE 6 AUG 1100
+2 PLAC Westminster Abbey, London, England
+0 @F197@ FAM
+1 HUSB @I441@
+1 WIFE @I442@
+1 CHIL @I440@
+0 @F198@ FAM
+1 HUSB @I440@
+1 WIFE @I443@
+1 CHIL @I451@
+1 CHIL @I458@
+1 CHIL @I459@
+1 CHIL @I460@
+1 CHIL @I456@
+1 CHIL @I461@
+1 CHIL @I457@
+1 CHIL @I471@
+1 CHIL @I472@
+1 CHIL @I437@
+1 MARR
+2 DATE 1053
+0 @F199@ FAM
+1 HUSB @I444@
+1 CHIL @I443@
+0 @F200@ FAM
+1 HUSB @I446@
+1 WIFE @I447@
+1 CHIL @I445@
+0 @F201@ FAM
+1 HUSB @I445@
+1 WIFE @I448@
+1 CHIL @I438@
+0 @F202@ FAM
+1 HUSB @I449@
+1 WIFE @I450@
+1 CHIL @I448@
+0 @F203@ FAM
+1 HUSB @I451@
+1 WIFE @I452@
+1 CHIL @I453@
+0 @F204@ FAM
+1 HUSB @I453@
+1 WIFE @I454@
+1 DIV
+0 @F205@ FAM
+1 HUSB @I453@
+1 WIFE @I455@
+0 @F206@ FAM
+1 HUSB @I462@
+1 WIFE @I463@
+1 MARR
+2 DATE 1125
+2 PLAC Westminster, London, England
+0 @F207@ FAM
+1 HUSB @I464@
+1 WIFE @I461@
+1 CHIL @I467@
+1 CHIL @I465@
+1 CHIL @I466@
+1 CHIL @I462@
+1 CHIL @I468@
+0 @F208@ FAM
+1 HUSB @I468@
+1 WIFE @I469@
+0 @F209@ FAM
+1 HUSB @I465@
+1 WIFE @I470@
+0 @F210@ FAM
+1 HUSB @I475@
+1 WIFE @I476@
+0 @F211@ FAM
+1 HUSB @I477@
+1 WIFE @I478@
+0 @F212@ FAM
+1 HUSB @I483@
+1 WIFE @I439@
+0 @F213@ FAM
+1 HUSB @I485@
+1 WIFE @I486@
+0 @F214@ FAM
+1 HUSB @I488@
+1 WIFE @I487@
+1 MARR
+2 DATE 1 FEB 1168
+2 PLAC Minden, Saxony, Germany
+0 @F215@ FAM
+1 HUSB @I489@
+1 WIFE @I490@
+0 @F216@ FAM
+1 HUSB @I491@
+1 WIFE @I492@
+1 CHIL @I493@
+1 CHIL @I494@
+1 MARR
+2 DATE JUL 1181
+0 @F217@ FAM
+1 HUSB @I496@
+1 WIFE @I495@
+1 CHIL @I497@
+1 MARR
+2 DATE SEP 1170
+2 PLAC Burgos
+0 @F218@ FAM
+1 HUSB @I498@
+1 WIFE @I497@
+1 MARR
+2 DATE 1197
+1 DIV
+0 @F219@ FAM
+1 HUSB @I500@
+1 WIFE @I499@
+1 MARR
+2 DATE 13 FEB 1177
+2 PLAC Palermo, Italy
+0 @F220@ FAM
+1 HUSB @I501@
+1 WIFE @I499@
+1 MARR
+2 DATE OCT 1196
+2 PLAC Rouen, France
+0 @F221@ FAM
+1 HUSB @I433@
+1 WIFE @I503@
+0 @F222@ FAM
+1 HUSB @I505@
+1 WIFE @I504@
+1 MARR
+2 DATE 2017
+0 @F223@ FAM
+1 HUSB @I506@
+1 WIFE @I507@
+1 MARR
+2 DATE 2021
+0 @F224@ FAM
+1 HUSB @I508@
+1 WIFE @I509@
+1 CHIL @I221@
+0 @F225@ FAM
+1 HUSB @I510@
+1 WIFE @I511@
+1 CHIL @I217@
+0 @F226@ FAM
+1 HUSB @I512@
+1 WIFE @I513@
+1 CHIL @I508@
+0 @F227@ FAM
+1 HUSB @I514@
+1 WIFE @I515@
+1 CHIL @I509@
+0 @F228@ FAM
+1 HUSB @I516@
+1 WIFE @I517@
+1 CHIL @I168@
+0 @F229@ FAM
+1 HUSB @I518@
+1 WIFE @I519@
+1 CHIL @I517@
+0 @F230@ FAM
+1 HUSB @I520@
+1 WIFE @I521@
+1 CHIL @I518@
+0 @F231@ FAM
+1 HUSB @I522@
+1 WIFE @I523@
+1 CHIL @I520@
+0 @F232@ FAM
+1 HUSB @I524@
+1 WIFE @I525@
+1 CHIL @I523@
+0 @F233@ FAM
+1 HUSB @I526@
+1 WIFE @I527@
+1 CHIL @I524@
+0 @F234@ FAM
+1 HUSB @I528@
+1 WIFE @I529@
+1 CHIL @I527@
+0 @F235@ FAM
+1 HUSB @I530@
+1 WIFE @I531@
+1 CHIL @I532@
+1 CHIL @I529@
+0 @F236@ FAM
+1 HUSB @I533@
+1 WIFE @I532@
+1 CHIL @I534@
+0 @F237@ FAM
+1 HUSB @I534@
+1 WIFE @I535@
+1 CHIL @I536@
+0 @F238@ FAM
+1 HUSB @I537@
+1 WIFE @I536@
+1 CHIL @I538@
+0 @F239@ FAM
+1 HUSB @I538@
+1 WIFE @I539@
+1 CHIL @I540@
+0 @F240@ FAM
+1 HUSB @I540@
+1 WIFE @I541@
+1 CHIL @I542@
+0 @F241@ FAM
+1 HUSB @I543@
+1 WIFE @I542@
+1 CHIL @I544@
+0 @F242@ FAM
+1 HUSB @I545@
+1 WIFE @I544@
+1 CHIL @I546@
+1 MARR
+2 DATE 16 JAN 1800
+0 @F243@ FAM
+1 HUSB @I547@
+1 WIFE @I546@
+1 CHIL @I549@
+1 MARR
+2 DATE 10 DEC 1839
+0 @F244@ FAM
+1 HUSB @I548@
+1 WIFE @I549@
+1 CHIL @I220@
+0 @F245@ FAM
+1 HUSB @I552@
+1 WIFE @I553@
+1 MARR
+2 DATE 28 JUL 1683
+2 PLAC Chapel Royal, St. James, England
+0 @F246@ FAM
+1 HUSB @I554@
+1 WIFE @I555@
+1 CHIL @I556@
+1 CHIL @I557@
+1 CHIL @I558@
+1 CHIL @I553@
+1 CHIL @I559@
+1 CHIL @I560@
+1 CHIL @I561@
+1 CHIL @I562@
+1 MARR
+2 DATE 24 NOV 1659
+2 PLAC Breda
+0 @F247@ FAM
+1 HUSB @I554@
+1 WIFE @I563@
+1 CHIL @I564@
+1 CHIL @I565@
+1 CHIL @I566@
+1 CHIL @I567@
+1 CHIL @I568@
+1 MARR
+2 DATE 21 NOV 1673
+2 PLAC Dover, England
+0 @F248@ FAM
+1 HUSB @I567@
+1 WIFE @I569@
+1 MARR
+2 DATE 3 SEP 1719
+2 PLAC Monte Fiascone
+0 @F249@ FAM
+1 HUSB @I580@
+1 WIFE @I574@
+1 CHIL @I583@
+0 @F250@ FAM
+1 HUSB @I570@
+1 WIFE @I571@
+1 CHIL @I572@
+1 CHIL @I573@
+1 CHIL @I574@
+1 CHIL @I554@
+1 CHIL @I575@
+1 CHIL @I576@
+1 CHIL @I577@
+1 CHIL @I578@
+1 CHIL @I579@
+1 MARR
+2 DATE 13 JUN 1625
+2 PLAC Canterbury, England
+0 @F251@ FAM
+1 HUSB @I581@
+1 WIFE @I579@
+1 CHIL @I584@
+1 CHIL @I585@
+1 MARR
+2 DATE 31 MAR 1661
+2 PLAC Paris, France
+0 @F252@ FAM
+1 HUSB @I573@
+1 WIFE @I582@
+1 MARR
+2 DATE 20 MAY 1662
+2 PLAC Portsmouth, England
+0 @F253@ FAM
+1 HUSB @I583@
+1 WIFE @I557@
+1 MARR
+2 DATE 4 NOV 1677
+2 PLAC St. James Palace, London, England
+0 @F254@ FAM
+1 HUSB @I586@
+1 WIFE @I585@
+0 @F255@ FAM
+1 HUSB @I587@
+1 WIFE @I584@
+0 @F256@ FAM
+1 HUSB @I592@
+1 WIFE @I593@
+1 CHIL @I582@
+0 @F257@ FAM
+1 HUSB @I573@
+1 WIFE @I594@
+1 CHIL @I595@
+0 @F258@ FAM
+1 HUSB @I573@
+1 WIFE @I596@
+1 CHIL @I597@
+0 @F259@ FAM
+1 HUSB @I573@
+1 WIFE @I598@
+1 CHIL @I599@
+1 CHIL @I600@
+0 @F260@ FAM
+1 HUSB @I573@
+1 WIFE @I601@
+1 CHIL @I602@
+1 CHIL @I603@
+1 CHIL @I604@
+1 CHIL @I605@
+0 @F261@ FAM
+1 HUSB @I573@
+1 WIFE @I606@
+1 CHIL @I607@
+0 @F262@ FAM
+1 HUSB @I573@
+1 WIFE @I608@
+1 CHIL @I609@
+0 @F263@ FAM
+1 HUSB @I573@
+1 WIFE @I610@
+1 CHIL @I611@
+0 @F264@ FAM
+1 HUSB @I603@
+1 WIFE @I612@
+1 CHIL @I613@
+0 @F265@ FAM
+1 HUSB @I613@
+1 WIFE @I614@
+1 CHIL @I615@
+0 @F266@ FAM
+1 HUSB @I616@
+1 WIFE @I617@
+1 CHIL @I167@
+0 @F267@ FAM
+1 HUSB @I618@
+1 WIFE @I615@
+1 CHIL @I616@
+0 @F268@ FAM
+1 HUSB @I619@
+1 WIFE @I620@
+1 CHIL @I180@
+0 @F269@ FAM
+1 HUSB @I621@
+1 WIFE @I622@
+1 CHIL @I619@
+0 @F270@ FAM
+1 HUSB @I623@
+1 WIFE @I624@
+1 CHIL @I621@
+0 @F271@ FAM
+1 HUSB @I609@
+1 WIFE @I625@
+1 CHIL @I623@
+0 @F272@ FAM
+1 HUSB @I626@
+1 WIFE @I250@
+1 CHIL @I62@
+1 MARR
+2 DATE 1862
+0 @F273@ FAM
+1 HUSB @I405@
+1 WIFE @I629@
+1 CHIL @I628@
+0 @F274@ FAM
+1 HUSB @I409@
+1 WIFE @I631@
+1 CHIL @I382@
+1 MARR
+2 DATE 1361
+0 @F275@ FAM
+1 HUSB @I414@
+1 WIFE @I633@
+1 CHIL @I634@
+0 @F276@ FAM
+1 HUSB @I634@
+1 WIFE @I635@
+1 CHIL @I636@
+0 @F277@ FAM
+1 HUSB @I636@
+1 WIFE @I637@
+1 CHIL @I299@
+1 CHIL @I638@
+0 @F278@ FAM
+1 HUSB @I640@
+1 WIFE @I639@
+1 MARR
+2 DATE 1251
+0 @F279@ FAM
+1 HUSB @I643@
+1 WIFE @I644@
+1 CHIL @I645@
+1 MARR
+2 DATE 1768
+0 @F281@ FAM
+1 HUSB @I646@
+1 WIFE @I645@
+1 MARR
+2 DATE 1815
+0 TRLR

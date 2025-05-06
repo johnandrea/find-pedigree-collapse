@@ -1,0 +1,515 @@
+﻿0 HEAD
+1 SOUR ManualEdited
+1 SUBM @S1@
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @S1@ SUBM
+1 NAME John Andrea
+0 @I1@ INDI
+1 NAME Ferdinand III //
+2 GIVN Ferdinand III
+2 NSFX Holy Roman Emperor
+1 SEX M
+1 BIRT
+2 DATE 1608
+2 PLAC Graz, Holy Roman Empire
+1 DEAT
+2 DATE 1657
+2 PLAC Vienna, Holy Roman Empire
+1 FAMS @F13@
+1 FAMC @F1@
+0 @I2@ INDI
+1 NAME Margarita of Austria //
+2 GIVN Margarita of Austria
+1 SEX F
+1 BIRT
+2 DATE 1584
+2 PLAC Graz, Holy Roman Empire
+1 DEAT
+2 DATE 1611
+2 PLAC Castile, Spain
+1 FAMS @F14@
+1 FAMC @F11@
+0 @I3@ INDI
+1 NAME Ferdinand II //
+2 GIVN Ferdinand II
+2 NSFX Holy Roman Emperor
+1 SEX M
+1 BIRT
+2 DATE 1578
+2 PLAC Graz, Holy Roman Empire
+1 DEAT
+2 DATE 1637
+2 PLAC Vienna, Holy Roman Empire
+1 FAMS @F1@
+1 FAMC @F11@
+0 @I4@ INDI
+1 NAME Maria Anna of Bavaria //
+2 GIVN Maria Anna of Bavaria
+1 SEX F
+1 BIRT
+2 DATE 1574
+2 PLAC Bavaria, Holy Roman Empire
+1 DEAT
+2 DATE 1616
+2 PLAC Austria, Holy Roman Empire
+1 FAMS @F1@
+1 FAMC @F2@
+0 @I5@ INDI
+1 NAME William V //
+2 GIVN William V
+2 NSFX Duke of Bavaria
+1 SEX M
+1 BIRT
+2 DATE 1548
+2 PLAC Bavaria
+1 DEAT
+2 DATE 1626
+2 PLAC Bavaria
+1 FAMS @F2@
+1 FAMC @F8@
+0 @I6@ INDI
+1 NAME Renata of Lorraine //
+2 GIVN Renata of Lorraine
+1 SEX F
+1 BIRT
+2 DATE 1544
+2 PLAC Lorraine, Holy Roman Empire
+1 DEAT
+2 DATE 1602
+2 PLAC Munich, Holy Roman Empire
+1 FAMS @F2@
+1 FAMC @F3@
+0 @I7@ INDI
+1 NAME Francis I //
+2 GIVN Francis I
+2 NSFX Duke of Lorraine
+1 SEX M
+1 BIRT
+2 DATE 1517
+2 PLAC France
+1 DEAT
+2 DATE 1545
+2 PLAC France
+1 FAMS @F3@
+0 @I8@ INDI
+1 NAME Christina of Denmark //
+2 GIVN Christina of Denmark
+1 SEX F
+1 BIRT
+2 DATE 1521
+2 PLAC Denmark
+1 DEAT
+2 DATE 1590
+2 PLAC Milan
+1 FAMS @F3@
+1 FAMC @F4@
+0 @I9@ INDI
+1 NAME Christian II //
+2 GIVN Christian II
+2 NSFX of Denmark
+1 SEX M
+1 BIRT
+2 DATE 1481
+2 PLAC Denmark
+1 DEAT
+2 DATE 1559
+2 PLAC Kalundborg, Denmark
+1 FAMS @F4@
+0 @I10@ INDI
+1 NAME Isabella of Austria //
+2 GIVN Isabella of Austria
+1 SEX F
+1 BIRT
+2 DATE 1501
+2 PLAC Brussels, Holy Roman Empire
+1 DEAT
+2 DATE 1526
+2 PLAC Ghent, Holy Roman Empire
+1 FAMS @F4@
+1 FAMC @F5@
+0 @I11@ INDI
+1 NAME Philip of Castile //
+2 GIVN Philip of Castile
+1 SEX M
+1 BIRT
+2 DATE 1478
+2 PLAC Flanders, Netherlands
+1 DEAT
+2 DATE 1506
+2 PLAC Castile, Spain
+1 FAMS @F5@
+0 @I12@ INDI
+1 NAME Joanna of Castile //
+2 GIVN Joanna of Castile
+1 SEX F
+1 BIRT
+2 DATE 1479
+2 PLAC Toledo, Spain
+1 DEAT
+2 DATE 1555
+2 PLAC Tordesillas, Spain
+1 FAMS @F5@
+0 @I13@ INDI
+1 NAME Charles V //
+2 GIVN Charles V
+2 NSFX Holy Roman Emperor
+1 SEX M
+1 BIRT
+2 DATE 1500
+2 PLAC Flanders, Netherlands
+1 DEAT
+2 DATE 1558
+2 PLAC Castile, Spain
+1 FAMS @F6@
+1 FAMC @F5@
+0 @I14@ INDI
+1 NAME Ferdinand I //
+2 GIVN Ferdinand I
+2 NSFX Holy Roman Emperor
+1 SEX M
+1 BIRT
+2 DATE 1503
+2 PLAC Castile, Spain
+1 DEAT
+2 DATE 1564
+2 PLAC Vienna, Holy Roman Empire
+1 FAMS @F7@
+1 FAMC @F5@
+0 @I15@ INDI
+1 NAME Isabella of Portugal //
+2 GIVN Isabella of Portugal
+1 SEX F
+1 BIRT
+2 DATE 1503
+2 PLAC Lisbon, Portugal
+1 DEAT
+2 DATE 1539
+2 PLAC Toledo, Spain
+1 FAMS @F6@
+0 @I16@ INDI
+1 NAME Anna of Bohemia and Hungary //
+2 GIVN Anna of Bohemia and Hungary
+1 SEX F
+1 BIRT
+2 DATE 1503
+2 PLAC Hungary
+1 DEAT
+2 DATE 1547
+2 PLAC Prague, Holy Roman Empire
+1 FAMS @F7@
+0 @I17@ INDI
+1 NAME Philip II //
+2 GIVN Philip II
+2 NSFX King of Spain
+1 SEX M
+1 BIRT
+2 DATE 1527
+2 PLAC Castile, Spain
+1 DEAT
+2 DATE 1596
+2 PLAC Castile, Spain
+1 FAMS @F10@
+1 FAMC @F6@
+0 @I18@ INDI
+1 NAME Maria of Austria //
+2 GIVN Maria of Austria
+2 NSFX Holy Roman Empress
+1 SEX F
+1 BIRT
+2 DATE 1528
+2 PLAC Madrid, Spain
+1 DEAT
+2 DATE 1603
+2 PLAC Madrid, Spain
+1 FAMS @F9@
+1 FAMC @F6@
+0 @I19@ INDI
+1 NAME Maximillian II //
+2 GIVN Maximillian II
+2 NSFX Holy Roman Emperor
+1 SEX M
+1 BIRT
+2 DATE 1527
+2 PLAC Vienna, Holy Roman Empire
+1 DEAT
+2 DATE 1576
+2 PLAC Holy Roman Empire
+1 FAMS @F9@
+1 FAMC @F7@
+0 @I20@ INDI
+1 NAME Charles II //
+2 GIVN Charles II
+2 NSFX Archduke of Austria
+1 SEX M
+1 BIRT
+2 DATE 1540
+2 PLAC Vienna, Holy Roman Empire
+1 DEAT
+2 DATE 1590
+2 PLAC Graz, Holy Roman Empire
+1 FAMS @F11@
+1 FAMC @F7@
+0 @I21@ INDI
+1 NAME Anna of Austria //
+2 GIVN Anna of Austria
+1 SEX F
+1 BIRT
+2 DATE 1528
+2 PLAC Prague, Holy Roman Empire
+1 DEAT
+2 DATE 1590
+2 PLAC Munich, Holy Roman Empire
+1 FAMS @F8@
+1 FAMC @F7@
+0 @I22@ INDI
+1 NAME Albert V //
+2 GIVN Albert V
+2 NSFX Duke of Bavaria
+1 SEX M
+1 BIRT
+2 DATE 1528
+2 PLAC Munich, Holy Roman Empire
+1 DEAT
+2 DATE 1579
+2 PLAC Munich, Holy Roman Empire
+1 FAMS @F8@
+0 @I23@ INDI
+1 NAME Anne of Austria //
+2 GIVN Anne of Austria
+1 SEX F
+1 BIRT
+2 DATE 1549
+2 PLAC Castile, Spain
+1 DEAT
+2 DATE 1580
+2 PLAC Castile, Spain
+1 FAMS @F10@
+1 FAMC @F9@
+0 @I24@ INDI
+1 NAME Maria Anna of Bavaria //
+2 GIVN Maria Anna of Bavaria
+1 SEX F
+1 BIRT
+2 DATE 1551
+2 PLAC Munich, Holy Roman Empire
+1 DEAT
+2 DATE 1608
+2 PLAC Graz, Holy Roman Empire
+1 FAMS @F11@
+1 FAMC @F8@
+0 @I25@ INDI
+1 NAME Eleanor of Austria //
+2 GIVN Eleanor of Austria
+1 SEX F
+1 BIRT
+2 DATE 1498
+1 DEAT
+2 DATE 1558
+1 FAMC @F5@
+0 @I26@ INDI
+1 NAME Mary of Hungary //
+2 GIVN Mary of Hungary
+1 SEX F
+1 BIRT
+2 DATE 1505
+2 PLAC Brussels, Holy Roman Empire
+1 DEAT
+2 DATE 1558
+2 PLAC Castile, Spain
+1 FAMC @F5@
+0 @I27@ INDI
+1 NAME Catherine of Austria //
+2 GIVN Catherine of Austria
+1 SEX F
+1 BIRT
+2 DATE 1507
+2 PLAC Castile, Spain
+1 DEAT
+2 DATE 1578
+2 PLAC Lisbon, Portugal
+1 FAMC @F5@
+0 @I28@ INDI
+1 NAME Maria Anna of Spain //
+2 GIVN Maria Anna of Spain
+1 SEX F
+1 BIRT
+2 DATE 1606
+2 PLAC Castile, Spain
+1 DEAT
+2 DATE 1646
+2 PLAC Linz, Holy Roman Empire
+1 FAMS @F13@
+0 @I29@ INDI
+1 NAME Ferdinand IV //
+2 GIVN Ferdinand IV
+2 NSFX King of the Romans
+1 SEX M
+1 BIRT
+2 DATE 1633
+2 PLAC Vienna, Holy Roman Empire
+1 DEAT
+2 DATE 1654
+2 PLAC Vienna, Holy Roman Empire
+1 FAMC @F13@
+0 @I30@ INDI
+1 NAME Mariana of Austria //
+2 GIVN Mariana of Austria
+1 SEX F
+1 BIRT
+2 DATE 1634
+2 PLAC Austria, Holy Roman Empire
+1 DEAT
+2 DATE 1696
+2 PLAC Madrid, Spain
+1 FAMS @F15@
+1 FAMC @F13@
+0 @I31@ INDI
+1 NAME Leopold I //
+2 GIVN Leopold I
+2 NSFX Holy Roman Empire
+1 SEX M
+1 BIRT
+2 DATE 1640
+2 PLAC Vienna, Holy Roman Empire
+1 DEAT
+2 DATE 1705
+2 PLAC Vienna, Holy Roman Empire
+1 FAMC @F13@
+0 @I32@ INDI
+1 NAME Philip III of Spain //
+2 GIVN Philip III of Spain
+1 SEX M
+1 BIRT
+2 DATE 1578
+2 PLAC Madrid, Spain
+1 DEAT
+2 DATE 1621
+2 PLAC Madrid, Spain
+1 FAMS @F14@
+1 FAMC @F10@
+0 @I33@ INDI
+1 NAME Philip IV //
+2 GIVN Philip IV
+2 NSFX of Spain
+1 SEX M
+1 BIRT
+2 DATE 1605
+2 PLAC Castile, Spain
+1 DEAT
+2 DATE 1665
+2 PLAC Madrid, Spain
+1 FAMS @F15@
+1 FAMC @F14@
+0 @I34@ INDI
+1 NAME Charles II //
+2 GIVN Charles II
+2 NSFX King of Spain
+1 SEX M
+1 BIRT
+2 DATE 1661
+2 PLAC Madrid, Spain
+1 DEAT
+2 DATE 1700
+2 PLAC Madrid, Spain
+1 REFN 1
+1 FAMC @F15@
+0 @F1@ FAM
+1 HUSB @I3@
+1 WIFE @I4@
+1 CHIL @I1@
+1 MARR
+2 DATE 1600
+0 @F2@ FAM
+1 HUSB @I5@
+1 WIFE @I6@
+1 CHIL @I4@
+1 MARR
+2 DATE 1568
+0 @F3@ FAM
+1 HUSB @I7@
+1 WIFE @I8@
+1 CHIL @I6@
+1 MARR
+2 DATE 1541
+0 @F4@ FAM
+1 HUSB @I9@
+1 WIFE @I10@
+1 CHIL @I8@
+1 MARR
+2 DATE 1514
+0 @F5@ FAM
+1 HUSB @I11@
+1 WIFE @I12@
+1 CHIL @I25@
+1 CHIL @I13@
+1 CHIL @I10@
+1 CHIL @I14@
+1 CHIL @I26@
+1 CHIL @I27@
+1 MARR
+2 DATE 1496
+0 @F6@ FAM
+1 HUSB @I13@
+1 WIFE @I15@
+1 CHIL @I17@
+1 CHIL @I18@
+1 MARR
+2 DATE 1526
+0 @F7@ FAM
+1 HUSB @I14@
+1 WIFE @I16@
+1 CHIL @I19@
+1 CHIL @I21@
+1 CHIL @I20@
+1 MARR
+2 DATE 1521
+0 @F8@ FAM
+1 HUSB @I22@
+1 WIFE @I21@
+1 CHIL @I5@
+1 CHIL @I24@
+1 MARR
+2 DATE 1546
+0 @F9@ FAM
+1 HUSB @I19@
+1 WIFE @I18@
+1 CHIL @I23@
+1 MARR
+2 DATE 1548
+0 @F10@ FAM
+1 HUSB @I17@
+1 WIFE @I23@
+1 CHIL @I32@
+1 MARR
+2 DATE 1570
+0 @F11@ FAM
+1 HUSB @I20@
+1 WIFE @I24@
+1 CHIL @I3@
+1 CHIL @I2@
+1 MARR
+2 DATE 1571
+0 @F13@ FAM
+1 HUSB @I1@
+1 WIFE @I28@
+1 CHIL @I29@
+1 CHIL @I30@
+1 CHIL @I31@
+1 MARR
+2 DATE 1631
+0 @F14@ FAM
+1 HUSB @I32@
+1 WIFE @I2@
+1 CHIL @I33@
+1 MARR
+2 DATE 1599
+0 @F15@ FAM
+1 HUSB @I33@
+1 WIFE @I30@
+1 CHIL @I34@
+1 MARR
+2 DATE 1649
+0 TRLR
