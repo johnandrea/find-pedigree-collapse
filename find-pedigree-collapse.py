@@ -1,7 +1,11 @@
 #!/usr/bin/python3
 
 """
-?
+Given a genealogy GEDCOM file and the id of a start person,
+output the families where the ancestorpedigree collapse occurs for that person.
+
+This code is released under the MIT License: https://opensource.org/licenses/MIT
+Copyright (c) 2025 John A. Andrea
 
 No support provided.
 """
@@ -13,7 +17,7 @@ import os
 
 
 def get_version():
-    return '0.6'
+    return '1.0'
 
 
 def load_my_module( module_name, relative_path ):
@@ -53,7 +57,7 @@ def get_program_options():
     results['dates'] = False
     results['libpath'] = '.'
 
-    arg_help = 'Find cross branch parents.'
+    arg_help = 'Find ancestors involved in pedigree collapse.'
     parser = argparse.ArgumentParser( description=arg_help )
 
     arg_help = 'Show version then exit.'
@@ -115,6 +119,7 @@ def get_indi_years( indi ):
 
 
 def get_name( indi ):
+    # get the name of 'indi'
     result = 'none'
 
     if indi is not None:
@@ -128,10 +133,11 @@ def get_name( indi ):
              if dates:
                 result += dates
 
-    return result.replace( '/', '' )
+    return result
 
 
 def get_fam_names( fam ):
+    # names of both parents
     result = ''
     sep = ''
     for parent in ['husb','wife']:
@@ -190,8 +196,13 @@ def build_tree( indi ):
 
     parent_family = find_parents( indi )
 
+    # top of tree won't have any parents
+
     if parent_family:
        fam = parent_family[0]
+
+       # family already reached = by two branches = pedigree collapse
+       # and don't follow it any further
 
        if fam in ancestor_families:
           print( get_fam_names(fam) )
@@ -227,6 +238,9 @@ if start:
    print( '' )
    print( 'Pedigree collapse:' )
    print( '' )
+
+   # if the output is empty, none found
+
    build_tree( start )
 
 else:
