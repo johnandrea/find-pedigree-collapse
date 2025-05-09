@@ -40,3 +40,6 @@ No output after the line "Pedigree collapse:" indicates that none was found.
 - Copy Python file
 - also requires gedcom library [readgedcom.py](https://github.com/johnandrea/readgedcom) in the same directory, or in a location specified by the libpath option.
 
+## Future Enhancement ##
+
+Add option to allow output of ancestor branches to .DOT files to enable drawing of paths.
