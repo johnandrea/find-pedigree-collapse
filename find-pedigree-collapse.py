@@ -2,7 +2,7 @@
 
 """
 Given a genealogy GEDCOM file and the id of a start person,
-output the families where the ancestorpedigree collapse occurs for that person.
+output the families where the ancestor pedigree collapse occurs for that person.
 
 This code is released under the MIT License: https://opensource.org/licenses/MIT
 Copyright (c) 2025 John A. Andrea
@@ -17,7 +17,7 @@ import os
 
 
 def get_version():
-    return '1.0'
+    return '1.1'
 
 
 def load_my_module( module_name, relative_path ):
@@ -192,7 +192,7 @@ def find_parents( indi ):
 
 
 def build_tree( indi ):
-    global ancestor_families
+    global ancestor_families, n_found
 
     parent_family = find_parents( indi )
 
@@ -205,6 +205,12 @@ def build_tree( indi ):
        # and don't follow it any further
 
        if fam in ancestor_families:
+          n_found += 1
+          if n_found == 1:
+             print( '' )
+             print( 'Pedigree collapse:' )
+             print( '' )
+
           print( get_fam_names(fam) )
 
        else:
@@ -228,21 +234,23 @@ opts['exit-on-no-individuals'] = True
 
 data = readgedcom.read_file( options['infile'], opts )
 
+# all families, watch for the ones which occur twice
 ancestor_families = []
+
+# how many
+# output the header at the first
+n_found = 0
 
 start = find_person( options['personid'], options['iditem'] )
 
 if start:
    print( 'Start with:' )
    print( get_name(start) )
-   print( '' )
-   print( 'Pedigree collapse:' )
-   print( '' )
 
    # if the output is empty, none found
 
    build_tree( start )
 
 else:
-   print( 'No start person found', file=sys.stderr )
+   print( 'No start person found. Check the desired id.', file=sys.stderr )
    sys.exit(1)
