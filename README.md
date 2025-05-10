@@ -32,7 +32,7 @@ Location containing the readgedcom.py library file. The path is relative to the 
 
 find-pedigree-collapse.py --iditem=refn --personid 5 family.ged >found-collapse.out
 
-No output after the line "Pedigree collapse:" indicates that none was found.
+No output with the line "Pedigree collapse:" indicates that none was found.
 
 ## Installation ##
 
@@ -42,4 +42,4 @@ No output after the line "Pedigree collapse:" indicates that none was found.
 
 ## Future Enhancement ##
 
-Add option to allow output of ancestor branches to .DOT files to enable drawing of paths.
+Add option to allow output of ancestor branches to Graphviz DOT files to enable drawing of paths.
